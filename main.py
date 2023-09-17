@@ -45,7 +45,7 @@ def main():
                 page = 1
                 linkCategory = categories['href']
                 category = linkCategory.split('/')[-1].upper()
-                txtResult_AvailableTestflight_file.write(f"|| \=> **[{category}]({linkCategory})** <\= ||")
+                txtResult_AvailableTestflight_file.write(f"|| \=> **[{category}]({linkCategory})** <\= ||\n")
 
                 while True:
                     urlPage = f'{linkCategory}?page={str(page_number)}'
@@ -60,11 +60,11 @@ def main():
                         for a_tag in a_tags:
                             appsOpening = a_tag.findAll('span', {"class": "w-2 h-2 inline-block bg-green-400 rounded-full"})
                             if appsOpening:
+                                # print(a_tag["href"])
+                                # exit()
                                 url_testflight = a_tag["href"]
                                 txtResult_AvailableTestflight_file.write(get_testflight_data(url_testflight))
-
                     page_number += 1
-
                 page_number = 1
         else:
             print("Failed to retrieve the web page. Status code:", response.status_code)
