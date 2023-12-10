@@ -21,8 +21,7 @@ def get_testflight_data(url_testflight):
     name_testflight = name_testflight.replace('|', '-')
     hashtag_testflights = re.findall(r"\b\w+\b", name_testflight)
     hashtag_testflights = " ".join(["#" + hashtag.upper() for hashtag in hashtag_testflights])
-    
-    return f"| <img src=\"{background_image_url}\" alt=\"{name_testflight}\" align=\"center\" width=\"40\" height=\"40\" /> | **[{name_testflight}]({url_testflight})** | {hashtag_testflights}<br />{url_testflight}\n"
+    return f"| <img src=\"{background_image_url}\" alt=\"{name_testflight}\" align=\"center\" width=\"40\" height=\"40\" /> | **[{name_testflight}]({url_testflight})** |\n"
 
 def main():
     with open(txtResult_AvailableTestflight, 'w', encoding='utf-8') as txtResult_AvailableTestflight_file:
@@ -32,7 +31,7 @@ def main():
 
         nowTime = datetime.now().strftime("%d/%m/%Y %I:%M %p")
         txtResult_AvailableTestflight_file.write(f"# Beta Apps is available\t[{nowTime}]\n")
-        txtResult_AvailableTestflight_file.write('| Image | Name | #HASHTAG |\n| --- | --- | --- | \n')
+        txtResult_AvailableTestflight_file.write('| Image | Name | \n | --- | --- | \n')
 
         if response.status_code == 200:
             page_number = 1
@@ -42,10 +41,9 @@ def main():
             div_with_class = soup.find("div", class_="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6")
 
             for categories in div_with_class.findAll("a", href=True):
-                page = 1
                 linkCategory = categories['href']
                 category = linkCategory.split('/')[-1].upper()
-                txtResult_AvailableTestflight_file.write(f"|| \=> **[{category}]({linkCategory})** <\= ||\n")
+                txtResult_AvailableTestflight_file.write(f"|| => **[{category}]({linkCategory})** <= |\n")
 
                 while True:
                     urlPage = f'{linkCategory}?page={str(page_number)}'
