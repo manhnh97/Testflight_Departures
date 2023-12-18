@@ -1,4 +1,4 @@
-# Beta Apps is available	[18/12/2023 06:35 AM]
+# Beta Apps is available	[19/12/2023 05:37 AM]
 | Image | Name | 
  | --- | --- | 
 || => **[AI](https://departures.to/tags/ai)** <= |
@@ -104,6 +104,7 @@
 | <img src="https://img.departures.to/appicons/6ba5703300ae601a160c11d56288f51d36eb402b.png" alt="Crisp" align="center" width="40" height="40" /> | **[Crisp](https://testflight.apple.com/join/EiqYmhki)** |
 | <img src="https://img.departures.to/appicons/9d2bd1e9c3fbb78912fdf2e63b039730009fb0f2.png" alt="Hornet - Queer Social Network" align="center" width="40" height="40" /> | **[Hornet - Queer Social Network](https://testflight.apple.com/join/fDEMp0pz)** |
 || => **[CRYPTOCURRENCY](https://departures.to/tags/cryptocurrency)** <= |
+| <img src="https://img.departures.to/appicons/9e27131b33075c2a97cb3f093e850e87142ea238.png" alt="Blixt Wallet" align="center" width="40" height="40" /> | **[Blixt Wallet](https://testflight.apple.com/join/EXvGhRzS)** |
 | <img src="https://img.departures.to/appicons/ac9327b2c0b1811579b14d010627d8f5406997a8.png" alt="Bitkit Wallet" align="center" width="40" height="40" /> | **[Bitkit Wallet](https://testflight.apple.com/join/lGXhnwcC)** |
 | <img src="https://img.departures.to/appicons/d6f9a813748d0c46d741c24e0500f99f2bbe4a54.png" alt="THORWallet: DeFi Crypto Wallet" align="center" width="40" height="40" /> | **[THORWallet: DeFi Crypto Wallet](https://testflight.apple.com/join/f5LW68I8)** |
 | <img src="https://img.departures.to/appicons/6ebba9fea7ad94ec91ca58622d71350f1caf7521.png" alt="Komodo Mobile Crypto Wallet" align="center" width="40" height="40" /> | **[Komodo Mobile Crypto Wallet](https://testflight.apple.com/join/c2mOLEoC)** |
@@ -133,7 +134,6 @@
 | <img src="https://img.departures.to/appicons/10b43c1c3806cd7c0e48b1b7de5ad5ef22717afc.png" alt="Current - Nostr + Bitcoin" align="center" width="40" height="40" /> | **[Current - Nostr + Bitcoin](https://testflight.apple.com/join/mB0EwMiV)** |
 | <img src="https://img.departures.to/appicons/ae0110280451a5ae4027270b6f3b5366d2a3bb44.png" alt="MyDoge - Dogecoin Wallet" align="center" width="40" height="40" /> | **[MyDoge - Dogecoin Wallet](https://testflight.apple.com/join/ugUu1xmy)** |
 | <img src="https://img.departures.to/appicons/02df7ee7e1406ad15a0d5691dd176f620f7dfaf6.png" alt="RFOX VALT" align="center" width="40" height="40" /> | **[RFOX VALT](https://testflight.apple.com/join/bPUkXcr3)** |
-| <img src="https://img.departures.to/appicons/9e27131b33075c2a97cb3f093e850e87142ea238.png" alt="Blixt Wallet" align="center" width="40" height="40" /> | **[Blixt Wallet](https://testflight.apple.com/join/EXvGhRzS)** |
 | <img src="https://img.departures.to/appicons/f6ccb3e0e3a6f1fa14bd9e5bb4fdf1275af60c9f.png" alt="Green: Bitcoin Wallet" align="center" width="40" height="40" /> | **[Green: Bitcoin Wallet](https://testflight.apple.com/join/tGTU5qqI)** |
 | <img src="https://img.departures.to/appicons/6cc246dd72c517c83516046ce23cf423f006c5f3.png" alt="Peach Bitcoin" align="center" width="40" height="40" /> | **[Peach Bitcoin](https://testflight.apple.com/join/wfSPFEWG)** |
 | <img src="https://img.departures.to/appicons/62cf98cddfc103509130a9075af376e1bb15f268.png" alt="Pionex - Crypto Trading Bots" align="center" width="40" height="40" /> | **[Pionex - Crypto Trading Bots](https://testflight.apple.com/join/61qN730h)** |
@@ -211,7 +211,6 @@
 | <img src="https://img.departures.to/appicons/d3a55f3aa74c550f31452eeabacf05886f45db76.png" alt="SafeExamBrowser" align="center" width="40" height="40" /> | **[SafeExamBrowser](https://testflight.apple.com/join/egxLmc4j)** |
 | <img src="https://img.departures.to/appicons/c3a2ad9dbe1eee220557d8544851545058a586bf.png" alt="ZipGrade" align="center" width="40" height="40" /> | **[ZipGrade](https://testflight.apple.com/join/pjs0PkU2)** |
 | <img src="https://img.departures.to/appicons/294a1170fe9245044122da46efb5b19d341baf5b.png" alt="School Assistant – Planner" align="center" width="40" height="40" /> | **[School Assistant – Planner](https://testflight.apple.com/join/KWohJ5aL)** |
-| <img src="https://img.departures.to/appicons/eab30abc41532474b622b5b59ee46510782eef4b.png" alt="Universe Mobile" align="center" width="40" height="40" /> | **[Universe Mobile](https://testflight.apple.com/join/vK7GXDra)** |
 | <img src="https://img.departures.to/appicons/c293966869b76f850b928da272d9dbd498fb64ab.png" alt="Kanjiverse" align="center" width="40" height="40" /> | **[Kanjiverse](https://testflight.apple.com/join/0uDA1kNS)** |
 | <img src="https://img.departures.to/appicons/626dc5cf354e56ab0b39ba2a655927ed9566b602.png" alt="Bielaruskaja Lacinka" align="center" width="40" height="40" /> | **[Bielaruskaja Lacinka](https://testflight.apple.com/join/pfIj5vHJ)** |
 | <img src="https://img.departures.to/appicons/a8d4081e7f35230c043ff25e9e9491e283db4b6f.png" alt="Wikipedia" align="center" width="40" height="40" /> | **[Wikipedia](https://testflight.apple.com/join/Z0AU0KXC)** |
@@ -253,7 +252,6 @@
 | <img src="https://img.departures.to/appicons/ab4f2c540fef3e1da388851e955a6bc7707d9291.png" alt="Rizzpad - Dating App Assistant" align="center" width="40" height="40" /> | **[Rizzpad - Dating App Assistant](https://testflight.apple.com/join/wtARtolg)** |
 | <img src="https://img.departures.to/appicons/1a4e315dad15c675578b9bb32a5a4eec9d40b898.png" alt="仙剑三" align="center" width="40" height="40" /> | **[仙剑三](https://testflight.apple.com/join/ypI5moed)** |
 | <img src="https://img.departures.to/appicons/505e60160850fd69ac7ef825787023ca9d927c9f.png" alt="Film Noir by Trakt, Just Watch" align="center" width="40" height="40" /> | **[Film Noir by Trakt, Just Watch](https://testflight.apple.com/join/R82CjVpY)** |
-| <img src="https://img.departures.to/appicons/eab30abc41532474b622b5b59ee46510782eef4b.png" alt="Universe Mobile" align="center" width="40" height="40" /> | **[Universe Mobile](https://testflight.apple.com/join/vK7GXDra)** |
 | <img src="https://img.departures.to/appicons/6b0c53dc5730106c2d25f6fe0976a5b3762f37fe.png" alt="TV Time: Track Shows & Movies" align="center" width="40" height="40" /> | **[TV Time: Track Shows & Movies](https://testflight.apple.com/join/hjKkDsc4)** |
 | <img src="https://img.departures.to/appicons/740e2b7d05f8a9885548288688f6d979c27acffd.png" alt="Twitch Beta" align="center" width="40" height="40" /> | **[Twitch Beta](https://testflight.apple.com/join/8vRKFAiY)** |
 | <img src="https://img.departures.to/appicons/9470da5a33b972fcb814ff281ae25fb5335010ed.png" alt="IMDb: Movies & TV Shows" align="center" width="40" height="40" /> | **[IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t)** |
@@ -271,6 +269,7 @@
 | <img src="https://img.departures.to/appicons/34aec57ac9769f64446dc26d551d098443bbce05.png" alt="Official Kodi Remote" align="center" width="40" height="40" /> | **[Official Kodi Remote](https://testflight.apple.com/join/VQkpfqDN)** |
 || => **[FILES-AND-CLOUD](https://departures.to/tags/files-and-cloud)** <= |
 | <img src="https://img.departures.to/appicons/54ead01ee37d63af4d7007f12e2b55f91b987a6b.png" alt="Offline: Files, Browser, Docs" align="center" width="40" height="40" /> | **[Offline: Files, Browser, Docs](https://testflight.apple.com/join/6ebDbaIJ)** |
+| <img src="https://img.departures.to/appicons/91a96fc5f3db869c3e6588a26e2231e671d86a3b.png" alt="Dropbox: Cloud & Photo Storage" align="center" width="40" height="40" /> | **[Dropbox: Cloud & Photo Storage](https://testflight.apple.com/join/LBZaRq4I)** |
 | <img src="https://img.departures.to/appicons/8853e1ea6e78252a3870189d2a8f022da5963d97.png" alt="ownCloud - File Sync and Share" align="center" width="40" height="40" /> | **[ownCloud - File Sync and Share](https://testflight.apple.com/join/Oktj0iKv)** |
 | <img src="https://img.departures.to/appicons/50f00e70ac84249a579c5520ecaf6a7ed9aaa1f1.png" alt="Jira Cloud by Atlassian" align="center" width="40" height="40" /> | **[Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS)** |
 || => **[FINANCE](https://departures.to/tags/finance)** <= |
@@ -329,7 +328,6 @@
 | <img src="https://img.departures.to/appicons/2063afe0c7e03781d9d573bbcccc68fe9f63741a.png" alt="TrainAsONE- AI Running Plans" align="center" width="40" height="40" /> | **[TrainAsONE- AI Running Plans](https://testflight.apple.com/join/lJ1z2chB)** |
 | <img src="https://img.departures.to/appicons/2140c3a42b8b09ca42532028a6a220074d39afb5.png" alt="Pelotrak" align="center" width="40" height="40" /> | **[Pelotrak](https://testflight.apple.com/join/xgyJdzHR)** |
 | <img src="https://img.departures.to/appicons/5d45ea68f4ba4d629aa99b9b6a37a99891710ef6.png" alt="Intervals Pro: HIIT Timer" align="center" width="40" height="40" /> | **[Intervals Pro: HIIT Timer](https://testflight.apple.com/join/Nn7iSOzY)** |
-| <img src="https://img.departures.to/appicons/f939a901db37fad6b662ae1f6ad09c08306f069b.png" alt="Liftr - Workout Tracker" align="center" width="40" height="40" /> | **[Liftr - Workout Tracker](https://testflight.apple.com/join/M6yc6Dpk)** |
 || => **[FOOD](https://departures.to/tags/food)** <= |
 | <img src="https://img.departures.to/appicons/bafc055d80df55b0d415f0480aadeca26d3e7a2b.png" alt="Ambre: Recipe Organizer" align="center" width="40" height="40" /> | **[Ambre: Recipe Organizer](https://testflight.apple.com/join/zIHhY5L1)** |
 | <img src="https://img.departures.to/appicons/323410286dd892e2686ed7b6a92506865b3ce7ce.png" alt="Savor: Recipe Manager" align="center" width="40" height="40" /> | **[Savor: Recipe Manager](https://testflight.apple.com/join/41Z439hR)** |
@@ -339,8 +337,8 @@
 | <img src="https://img.departures.to/appicons/07e3b4ccac4be4a3af05b1cf9866533f83af1d86.png" alt="RecipeChef: Recipe Manager" align="center" width="40" height="40" /> | **[RecipeChef: Recipe Manager](https://testflight.apple.com/join/j5urtlwj)** |
 | <img src="https://img.departures.to/appicons/f3114633a8cdbee91afa888960ed42943badafcb.png" alt="Incipe: your personal cookbook" align="center" width="40" height="40" /> | **[Incipe: your personal cookbook](https://testflight.apple.com/join/2a72MNpu)** |
 | <img src="https://img.departures.to/appicons/bf7008e597a49be10ad0006a349ff2a8a116bd6f.png" alt="Untappd - Discover Beer" align="center" width="40" height="40" /> | **[Untappd - Discover Beer](https://testflight.apple.com/join/EbIrz3mA)** |
-| <img src="https://img.departures.to/appicons/cbe57cef069ddbfb5ab2a9fb6a9eff24667a2897.png" alt="FoodShiner: Pantry Companion" align="center" width="40" height="40" /> | **[FoodShiner: Pantry Companion](https://testflight.apple.com/join/mMsAFf8q)** |
 | <img src="https://img.departures.to/appicons/008b15b6038e2d789ee2d616f89c2a60c3d3e26b.png" alt="Swiggy Food & Grocery Delivery" align="center" width="40" height="40" /> | **[Swiggy Food & Grocery Delivery](https://testflight.apple.com/join/IERuiSEL)** |
+| <img src="https://img.departures.to/appicons/cbe57cef069ddbfb5ab2a9fb6a9eff24667a2897.png" alt="FoodShiner: Pantry Companion" align="center" width="40" height="40" /> | **[FoodShiner: Pantry Companion](https://testflight.apple.com/join/mMsAFf8q)** |
 || => **[GAMES](https://departures.to/tags/games)** <= |
 | <img src="https://img.departures.to/appicons/16b2c45536a6303dcf4aeffefcdb1b4fc40657c1.png" alt="Pupgame" align="center" width="40" height="40" /> | **[Pupgame](https://testflight.apple.com/join/IM3kTRUY)** |
 | <img src="https://img.departures.to/appicons/dfe61b96688c52ed118d45d8551c1b04e167c44a.png" alt="WOW: Wars of Wanon" align="center" width="40" height="40" /> | **[WOW: Wars of Wanon](https://testflight.apple.com/join/UZ4tYFb6)** |
@@ -362,7 +360,6 @@
 | <img src="https://img.departures.to/appicons/3fbd9fd80d2a2cdea6d1bcc74b680b182f999b81.png" alt="Reed/Wright Cycle" align="center" width="40" height="40" /> | **[Reed/Wright Cycle](https://testflight.apple.com/join/7SfToPrc)** |
 | <img src="https://img.departures.to/appicons/f84651e4ebb56e1c140d3ea79d163f57bd8f3649.png" alt="Pex - Relaxing Puzzle Game" align="center" width="40" height="40" /> | **[Pex - Relaxing Puzzle Game](https://testflight.apple.com/join/8rxzeWwn)** |
 | <img src="https://img.departures.to/appicons/e7c252b8dc3126eadd558ec2d24acbc05de34282.png" alt="Addagrams: Word Puzzle Games" align="center" width="40" height="40" /> | **[Addagrams: Word Puzzle Games](https://testflight.apple.com/join/C1Xj5LKW)** |
-| <img src="https://img.departures.to/appicons/64a929dfa00d14e6274e9c0488f252a4c5461303.png" alt="War Legends: RTS strategy game" align="center" width="40" height="40" /> | **[War Legends: RTS strategy game](https://testflight.apple.com/join/RBbbx0rU)** |
 | <img src="https://img.departures.to/appicons/35c4bd40a57216c67ca42d840e80271b00dcdcc7.png" alt="Pati-Games&Chat" align="center" width="40" height="40" /> | **[Pati-Games&Chat](https://testflight.apple.com/join/OySOWcrj)** |
 | <img src="https://img.departures.to/appicons/dd67c734d35599bfb89cddb7577216a6c348a427.png" alt="GamingBuddy Discover new games" align="center" width="40" height="40" /> | **[GamingBuddy Discover new games](https://testflight.apple.com/join/yW1ug7sg)** |
 | <img src="https://img.departures.to/appicons/3b818099aa6bb37cebf9369b0349ab8d4994b6b3.png" alt="Addagrams: Word Puzzle Games" align="center" width="40" height="40" /> | **[Addagrams: Word Puzzle Games](https://testflight.apple.com/join/yHVGpzXX)** |
@@ -392,6 +389,7 @@
 | <img src="https://img.departures.to/appicons/58593bddc0a0edda31f97f3e569bbffe9a68de81.png" alt="Buni Island" align="center" width="40" height="40" /> | **[Buni Island](https://testflight.apple.com/join/YAyTbCoq)** |
 | <img src="https://img.departures.to/appicons/afc3849219352dedc192df23434b5520591efb4f.png" alt="Tap Tap Reloaded" align="center" width="40" height="40" /> | **[Tap Tap Reloaded](https://testflight.apple.com/join/SpvyEydY)** |
 | <img src="https://img.departures.to/appicons/d2507d4d6f695133664b40c69a00eb72acccae18.png" alt="Polity - Online Role Playing" align="center" width="40" height="40" /> | **[Polity - Online Role Playing](https://testflight.apple.com/join/pSvtiAVL)** |
+| <img src="https://img.departures.to/appicons/a2e9825cda0bc4153f5ea388607732df8b85f89c.png" alt="Wordler – Game Assistant" align="center" width="40" height="40" /> | **[Wordler – Game Assistant](https://testflight.apple.com/join/Ct6gSdHk)** |
 | <img src="https://img.departures.to/appicons/3aac38f71779f9e1e028c62b4a5f5c244d2f4311.png" alt="Wordfeud" align="center" width="40" height="40" /> | **[Wordfeud](https://testflight.apple.com/join/zxgYsVn4)** |
 | <img src="https://img.departures.to/appicons/540f40778f0c720526876fdc7a1b9e822b996f86.png" alt="Mark My Words - Word Game" align="center" width="40" height="40" /> | **[Mark My Words - Word Game](https://testflight.apple.com/join/jEhWQPiK)** |
 | <img src="https://img.departures.to/appicons/468ad1a92736b13005886bb7ad8e294ba14e61ef.png" alt="Finders Sweepers Treasure Hunt" align="center" width="40" height="40" /> | **[Finders Sweepers Treasure Hunt](https://testflight.apple.com/join/0FrxkHLp)** |
@@ -415,18 +413,18 @@
 | <img src="https://img.departures.to/appicons/08bd7b5ed7685f9c42b7fce0e52faee0c92b039f.png" alt="Health Auto Export - JSON+CSV" align="center" width="40" height="40" /> | **[Health Auto Export - JSON+CSV](https://testflight.apple.com/join/IoqYlD8A)** |
 | <img src="https://img.departures.to/appicons/27811a2a20c3f97066c08695f73b21c1bf97488c.png" alt="Enna Health - Symptom Tracker" align="center" width="40" height="40" /> | **[Enna Health - Symptom Tracker](https://testflight.apple.com/join/x5v1YOUA)** |
 | <img src="https://img.departures.to/appicons/35e282fa50ef2a94fbb4989c88f3483ab41a83d6.png" alt="Geovelo : bike GPS" align="center" width="40" height="40" /> | **[Geovelo : bike GPS](https://testflight.apple.com/join/3tGq4Vsv)** |
-| <img src="https://img.departures.to/appicons/2f62a3a0aea3dfbc8410c559f014190c996d85be.png" alt="Glucose Direct" align="center" width="40" height="40" /> | **[Glucose Direct](https://testflight.apple.com/join/dWDt5Wme)** |
 | <img src="https://img.departures.to/appicons/2bc02bd9eccb78c384cd3c2c78b063318fcda3d1.png" alt="Phoenix: Motivation,Meditate" align="center" width="40" height="40" /> | **[Phoenix: Motivation,Meditate](https://testflight.apple.com/join/hP5SG4xU)** |
 | <img src="https://img.departures.to/appicons/0b22ee40c936bb4530fb98302ef676be08763145.png" alt="Lungy: Breathing Exercises" align="center" width="40" height="40" /> | **[Lungy: Breathing Exercises](https://testflight.apple.com/join/0sqKZKXd)** |
 | <img src="https://img.departures.to/appicons/a9b397d7d06b8e82a320dba41ccc26d30e0f214e.png" alt="Paku - Air Quality App" align="center" width="40" height="40" /> | **[Paku - Air Quality App](https://testflight.apple.com/join/mkGhI0p9)** |
 | <img src="https://img.departures.to/appicons/511ccb0c4154acbfdcb4d7ab4021d74c21a70b2e.png" alt="Momentory - Mindful Journal" align="center" width="40" height="40" /> | **[Momentory - Mindful Journal](https://testflight.apple.com/join/8Xbm7kwK)** |
 | <img src="https://img.departures.to/appicons/89ed1e5bcaccf398d86e3f72c9067adfb4a9e298.png" alt="Mango Baby Newborn Tracker Log" align="center" width="40" height="40" /> | **[Mango Baby Newborn Tracker Log](https://testflight.apple.com/join/td8w79RD)** |
 | <img src="https://img.departures.to/appicons/111288c451053528dd084d58554f956111b18563.png" alt="Landscape: Mountaineering" align="center" width="40" height="40" /> | **[Landscape: Mountaineering](https://testflight.apple.com/join/SrVraMCy)** |
-| <img src="https://img.departures.to/appicons/a5760e7b0144fc6f542ca4781aa77752c19f659e.png" alt="FitMind: Mental Fitness" align="center" width="40" height="40" /> | **[FitMind: Mental Fitness](https://testflight.apple.com/join/Yf0ozkqd)** |
 | <img src="https://img.departures.to/appicons/a67445081ba831542b5de7f270bf1dd520b650e1.png" alt="Lovewick: Relationship App" align="center" width="40" height="40" /> | **[Lovewick: Relationship App](https://testflight.apple.com/join/W8EmsRMa)** |
+| <img src="https://img.departures.to/appicons/a5760e7b0144fc6f542ca4781aa77752c19f659e.png" alt="FitMind: Mental Fitness" align="center" width="40" height="40" /> | **[FitMind: Mental Fitness](https://testflight.apple.com/join/Yf0ozkqd)** |
 | <img src="https://img.departures.to/appicons/71159c26117af60589bf9628120049652c830ab7.png" alt="Balance: Meditation & Sleep" align="center" width="40" height="40" /> | **[Balance: Meditation & Sleep](https://testflight.apple.com/join/5V7gW8Zc)** |
 | <img src="https://img.departures.to/appicons/2bf8d5c9c56b2e3026fccb52b6f40322d3f3e5cf.png" alt="Owaves: Wellness Day Planner" align="center" width="40" height="40" /> | **[Owaves: Wellness Day Planner](https://testflight.apple.com/join/ashWLQMS)** |
 | <img src="https://img.departures.to/appicons/ba54b476545fd6c0a50c90279da1b39450258029.png" alt="WidgetHealth - Widget & Health" align="center" width="40" height="40" /> | **[WidgetHealth - Widget & Health](https://testflight.apple.com/join/G0Wh2Ft0)** |
+| <img src="https://img.departures.to/appicons/b82164e9d1c32c5b5f5ada3c54ca5ffab165221d.png" alt="FastBot Fasting Timer" align="center" width="40" height="40" /> | **[FastBot Fasting Timer](https://testflight.apple.com/join/9gMlhI2k)** |
 | <img src="https://img.departures.to/appicons/914b4dd03b79c8d8ffffab1c814bbe920d1b8a55.png" alt="Shape: Lucid Dream Coach" align="center" width="40" height="40" /> | **[Shape: Lucid Dream Coach](https://testflight.apple.com/join/UPmVuiMA)** |
 | <img src="https://img.departures.to/appicons/e603fd9b88064a62d57e3384db92b712133735a9.png" alt="FitMind: Mental Fitness" align="center" width="40" height="40" /> | **[FitMind: Mental Fitness](https://testflight.apple.com/join/G6qjtzj2)** |
 | <img src="https://img.departures.to/appicons/67a5ab09feeb811fbc77070228466f17ef082767.png" alt="Sleep Cycle - Sleep Tracker" align="center" width="40" height="40" /> | **[Sleep Cycle - Sleep Tracker](https://testflight.apple.com/join/tCeANbZi)** |
@@ -592,6 +590,7 @@
 | <img src="https://img.departures.to/appicons/da327d7ebd187e5aeb3f0c1b3fd6a0ba2ad3d821.png" alt="SweeLOL(β)Just Do it 4 the LOL" align="center" width="40" height="40" /> | **[SweeLOL(β)Just Do it 4 the LOL](https://testflight.apple.com/join/FT9n1ncG)** |
 | <img src="https://img.departures.to/appicons/b26fa2ddc0bdc990a395eed64ea39c537bd1a10f.png" alt="Circle - Social Network" align="center" width="40" height="40" /> | **[Circle - Social Network](https://testflight.apple.com/join/ltEGPNDE)** |
 | <img src="https://img.departures.to/appicons/1b81c44c8c464c3edf1e409dc090c748146ac279.png" alt="Popland なにげない日常に、ワクワクを。" align="center" width="40" height="40" /> | **[Popland なにげない日常に、ワクワクを。](https://testflight.apple.com/join/b4Vtjxpn)** |
+| <img src="https://img.departures.to/appicons/26415faa397ee205f83b887d6c928639f76f4090.png" alt="Damus" align="center" width="40" height="40" /> | **[Damus](https://testflight.apple.com/join/CLwjLxWl)** |
 | <img src="https://img.departures.to/appicons/1b66dbe818a66714c6d6f69188e9a8e195cdd79d.png" alt="PupperPost" align="center" width="40" height="40" /> | **[PupperPost](https://testflight.apple.com/join/sokq0t6N)** |
 | <img src="https://img.departures.to/appicons/bd605a90bddefa472bec288598f3363d34e0cfa1.png" alt="Airbuds Widget" align="center" width="40" height="40" /> | **[Airbuds Widget](https://testflight.apple.com/join/0nEOUD24)** |
 | <img src="https://img.departures.to/appicons/fcedbd97bea4ced7c812a70655deb85c76023f33.png" alt="Posts by Read.cv" align="center" width="40" height="40" /> | **[Posts by Read.cv](https://testflight.apple.com/join/OTiyTXl2)** |
@@ -639,6 +638,7 @@
 | <img src="https://img.departures.to/appicons/ad0383b4838c455642b809964b7396330db81e5a.png" alt="Meditation Timer - Zenitizer" align="center" width="40" height="40" /> | **[Meditation Timer - Zenitizer](https://testflight.apple.com/join/QvKyRJ8x)** |
 | <img src="https://img.departures.to/appicons/81cc4d7c60acd8107641b9de6a1a2c715c092058.png" alt="tomoropomodoro" align="center" width="40" height="40" /> | **[tomoropomodoro](https://testflight.apple.com/join/kINXqKh0)** |
 | <img src="https://img.departures.to/appicons/40954ac939860a607616c92d426da2f8f7d950c3.png" alt="iCountdown" align="center" width="40" height="40" /> | **[iCountdown](https://testflight.apple.com/join/np8EtaPV)** |
+| <img src="https://img.departures.to/appicons/ac476f55e079e3854c44c8270798e1563c7c6b45.png" alt="Countdown Widget & Counter" align="center" width="40" height="40" /> | **[Countdown Widget & Counter](https://testflight.apple.com/join/0eEaQiIg)** |
 | <img src="https://img.departures.to/appicons/11d56e24ba4e591e9a4be84482f8a8cbf209322d.png" alt="iEventTimer" align="center" width="40" height="40" /> | **[iEventTimer](https://testflight.apple.com/join/u7rYMxYN)** |
 | <img src="https://img.departures.to/appicons/ac43c618b420ce23d2e04704955d91413efad172.png" alt="McClockface" align="center" width="40" height="40" /> | **[McClockface](https://testflight.apple.com/join/ReXtfPlt)** |
 | <img src="https://img.departures.to/appicons/89f21a66c4211c3c2a4a10dca1aba14a3ccaa7de.png" alt="Just Timers" align="center" width="40" height="40" /> | **[Just Timers](https://testflight.apple.com/join/8hRrBYAR)** |
@@ -646,9 +646,8 @@
 | <img src="https://img.departures.to/appicons/abf25b0c66fb97cc4a1aa075d4d160e25006fcb5.png" alt="Hourglass Time" align="center" width="40" height="40" /> | **[Hourglass Time](https://testflight.apple.com/join/1XAS00qA)** |
 | <img src="https://img.departures.to/appicons/603964db2bdd86c36034bcef367e460e1950e06f.png" alt="TimeDraw" align="center" width="40" height="40" /> | **[TimeDraw](https://testflight.apple.com/join/rld66nJY)** |
 | <img src="https://img.departures.to/appicons/ef7191b2863092af039a089edbb73951d6f975e5.png" alt="World Clock Time Widget" align="center" width="40" height="40" /> | **[World Clock Time Widget](https://testflight.apple.com/join/8wa9T053)** |
-| <img src="https://img.departures.to/appicons/e7f68e5b2556b0b69d83e9bc4c34b997472ae269.png" alt="Focus - Productivity Timer" align="center" width="40" height="40" /> | **[Focus - Productivity Timer](https://testflight.apple.com/join/PemGsPhH)** |
 | <img src="https://img.departures.to/appicons/18e43f90ca06998c0e4f72f06885e7758c36eca8.png" alt="Focus – Productivity Timer" align="center" width="40" height="40" /> | **[Focus – Productivity Timer](https://testflight.apple.com/join/4GWAwNsU)** |
-| <img src="https://img.departures.to/appicons/ab4184b29332ddd0cd060095f3fc7c6c3012592b.png" alt="Focused Work - Pomodoro Timer" align="center" width="40" height="40" /> | **[Focused Work - Pomodoro Timer](https://testflight.apple.com/join/hmTIjy0H)** |
+| <img src="https://img.departures.to/appicons/e7f68e5b2556b0b69d83e9bc4c34b997472ae269.png" alt="Focus - Productivity Timer" align="center" width="40" height="40" /> | **[Focus - Productivity Timer](https://testflight.apple.com/join/PemGsPhH)** |
 | <img src="https://img.departures.to/appicons/b7a553d6d7eb01ad330709caa31d30e20eee70b5.png" alt="Time’s Up! — Visual Timer" align="center" width="40" height="40" /> | **[Time’s Up! — Visual Timer](https://testflight.apple.com/join/wLaAUd6G)** |
 | <img src="https://img.departures.to/appicons/ea59d1f4bc60659f90d66a152ee5c641316935fc.png" alt="Toggl Track: Hours & Time Log" align="center" width="40" height="40" /> | **[Toggl Track: Hours & Time Log](https://testflight.apple.com/join/8od30iFa)** |
 || => **[TRANSIT](https://departures.to/tags/transit)** <= |
@@ -763,6 +762,7 @@
 | <img src="https://img.departures.to/appicons/db7a801fc129bf17e2519767619553da3215cbde.png" alt="Sangoma Meet" align="center" width="40" height="40" /> | **[Sangoma Meet](https://testflight.apple.com/join/BEd12vi5)** |
 | <img src="https://img.departures.to/appicons/c6952d9a99d88dca6f2ebf5eb5dea9ad094599a2.png" alt="KeePassium (KeePass passwords)" align="center" width="40" height="40" /> | **[KeePassium (KeePass passwords)](https://testflight.apple.com/join/y8R6iLlK)** |
 | <img src="https://img.departures.to/appicons/574782dd0b3cdb01d72a14c0bc713788e2674a3d.png" alt="Check Later" align="center" width="40" height="40" /> | **[Check Later](https://testflight.apple.com/join/B4cD7aRC)** |
+| <img src="https://img.departures.to/appicons/976936cbd00195e52c9fc09d4680369b46aa5204.png" alt="Device Management App" align="center" width="40" height="40" /> | **[Device Management App](https://testflight.apple.com/join/ZspSdWIi)** |
 | <img src="https://img.departures.to/appicons/69f2007862712593d39523caf869d87b1895b677.png" alt="Widget Monitor" align="center" width="40" height="40" /> | **[Widget Monitor](https://testflight.apple.com/join/4iTWxzPn)** |
 | <img src="https://img.departures.to/appicons/f8e8b7180e26fa3942818f89737a8b926af8fb2d.png" alt="TextExpander 7" align="center" width="40" height="40" /> | **[TextExpander 7](https://testflight.apple.com/join/a5Wu4mBU)** |
 | <img src="https://img.departures.to/appicons/87f8e31365b059ce4d478aef1ab74b76423a019f.png" alt="e-Título" align="center" width="40" height="40" /> | **[e-Título](https://testflight.apple.com/join/e6yLI7uO)** |
@@ -838,7 +838,7 @@
 | <img src="https://img.departures.to/appicons/589637caa86575ec714943ba3b3d7be8c49f4de7.png" alt="Chronomizer: Custom Watchfaces" align="center" width="40" height="40" /> | **[Chronomizer: Custom Watchfaces](https://testflight.apple.com/join/m5xuQxCN)** |
 || => **[WEATHER](https://departures.to/tags/weather)** <= |
 | <img src="https://img.departures.to/appicons/e7b90ae0ab0de4c4fff56aada303c1c0ec549211.png" alt="FlightAware Flight Tracker" align="center" width="40" height="40" /> | **[FlightAware Flight Tracker](https://testflight.apple.com/join/YDNhKtAe)** |
-| <img src="https://img.departures.to/appicons/15cd90c1821a28ee100de547ef96db2673009733.png" alt="RainViewer: NOAA Weather Radar" align="center" width="40" height="40" /> | **[RainViewer: NOAA Weather Radar](https://testflight.apple.com/join/ntr4FJtg)** |
+| <img src="https://img.departures.to/appicons/15cd90c1821a28ee100de547ef96db2673009733.png" alt="Weather Radar RainViewer" align="center" width="40" height="40" /> | **[Weather Radar RainViewer](https://testflight.apple.com/join/ntr4FJtg)** |
 | <img src="https://img.departures.to/appicons/69409fc35a4b8dbb45696847469be0ed22f69858.png" alt="SSIKHJ Weather with WeatherKit" align="center" width="40" height="40" /> | **[SSIKHJ Weather with WeatherKit](https://testflight.apple.com/join/yNfV6ehk)** |
 | <img src="https://img.departures.to/appicons/f1157bbe3303b1f8d77757bd7a96c3912611ff10.png" alt="Weather Radar RainViewer" align="center" width="40" height="40" /> | **[Weather Radar RainViewer](https://testflight.apple.com/join/OZ1B4sTS)** |
 | <img src="https://img.departures.to/appicons/a947f6256c99e4295485e8adfce765f056ec0326.png" alt="Foreca Weather & Radar" align="center" width="40" height="40" /> | **[Foreca Weather & Radar](https://testflight.apple.com/join/wG99Xsks)** |
@@ -848,6 +848,7 @@
 | <img src="https://img.departures.to/appicons/53e82195adf033b652850c2c6f34bff2c7495f29.png" alt="Alpenglow - Sunset Prediction" align="center" width="40" height="40" /> | **[Alpenglow - Sunset Prediction](https://testflight.apple.com/join/61DuEizb)** |
 || => **[WIDGETS](https://departures.to/tags/widgets)** <= |
 | <img src="https://img.departures.to/appicons/32629e75b780b75fd341fc7baf8a708e5c4bdd9f.png" alt="Lili Widget" align="center" width="40" height="40" /> | **[Lili Widget](https://testflight.apple.com/join/7muEQvwR)** |
+| <img src="https://img.departures.to/appicons/ac476f55e079e3854c44c8270798e1563c7c6b45.png" alt="Countdown Widget & Counter" align="center" width="40" height="40" /> | **[Countdown Widget & Counter](https://testflight.apple.com/join/0eEaQiIg)** |
 | <img src="https://img.departures.to/appicons/47974cfb912d4ca092379c19832a11092d16451e.png" alt="Peaks: Biorhythm Tracker" align="center" width="40" height="40" /> | **[Peaks: Biorhythm Tracker](https://testflight.apple.com/join/Z0KOoZht)** |
 | <img src="https://img.departures.to/appicons/1db5a945a6bce70deac803f885792c201234cc74.png" alt="Workout Sessions" align="center" width="40" height="40" /> | **[Workout Sessions](https://testflight.apple.com/join/dDSurLeT)** |
 | <img src="https://img.departures.to/appicons/c64a976f9073d27f67e50ca1174e87fcb80d8a9f.png" alt="Big Digital Clock Widget" align="center" width="40" height="40" /> | **[Big Digital Clock Widget](https://testflight.apple.com/join/X1JcwZS3)** |
