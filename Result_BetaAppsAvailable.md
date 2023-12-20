@@ -1,17 +1,18 @@
-# Beta Apps is available	[20/12/2023 07:15 AM]
+# Beta Apps is available	[21/12/2023 05:39 AM]
 | Image | Name | 
  | --- | --- | 
 || => **[AI](https://departures.to/tags/ai)** <= |
+| <img src="https://img.departures.to/appicons/d72cdf45f0fd8297fde15758ff3851e9d13a17d4.png" alt="Envision AI" align="center" width="40" height="40" /> | **[Envision AI](https://testflight.apple.com/join/QzPGfNeH)** |
 | <img src="https://img.departures.to/appicons/c93489bde003a3f8f4e20d535730d0b0551c7679.png" alt="Peekaboo Baby Photos" align="center" width="40" height="40" /> | **[Peekaboo Baby Photos](https://testflight.apple.com/join/j2CnVVf2)** |
 | <img src="https://img.departures.to/appicons/97b9a658623460596656365d114109168ca23613.png" alt="MyAI Images" align="center" width="40" height="40" /> | **[MyAI Images](https://testflight.apple.com/join/chct5HYu)** |
 | <img src="https://img.departures.to/appicons/21c2d50e2e8243d01bcc0b8d46067e4b1e401b12.png" alt="Letterly: Voice to Clear Text" align="center" width="40" height="40" /> | **[Letterly: Voice to Clear Text](https://testflight.apple.com/join/UabihOyL)** |
 | <img src="https://img.departures.to/appicons/ab4f2c540fef3e1da388851e955a6bc7707d9291.png" alt="Rizzpad - Dating App Assistant" align="center" width="40" height="40" /> | **[Rizzpad - Dating App Assistant](https://testflight.apple.com/join/wtARtolg)** |
 | <img src="https://img.departures.to/appicons/16cd870f70094ae0bf64946589004497a0faa9ce.png" alt="Letterly: Voice to Clear Text" align="center" width="40" height="40" /> | **[Letterly: Voice to Clear Text](https://testflight.apple.com/join/QfFTVnQm)** |
+| <img src="https://img.departures.to/appicons/fe52ac1103c035b5efbd46b3b93b2111a626c8a7.png" alt="AiChat - LLM" align="center" width="40" height="40" /> | **[AiChat - LLM](https://testflight.apple.com/join/GR4BOt2M)** |
 | <img src="https://img.departures.to/appicons/d88e96dc5f207a3b23c76670f34046deec2004da.png" alt="Cypher – AI Personas" align="center" width="40" height="40" /> | **[Cypher – AI Personas](https://testflight.apple.com/join/T84uRcZ1)** |
 | <img src="https://img.departures.to/appicons/53b0111da39286a4b22e48e6a034cc0f709b98f7.png" alt="Speechless: audios to texts" align="center" width="40" height="40" /> | **[Speechless: audios to texts](https://testflight.apple.com/join/LDy50x1A)** |
-| <img src="https://img.departures.to/appicons/870a75e11c5dd58f0c6fdd5ed9f04d0989580c62.png" alt="ChatX - AI Chat Client" align="center" width="40" height="40" /> | **[ChatX - AI Chat Client](https://testflight.apple.com/join/lAy3tm8t)** |
+| <img src="https://img.departures.to/appicons/c9662ea6a4e34290500c08869c9e57d02b827241.png" alt="Cowrite AI powered by GPT-4" align="center" width="40" height="40" /> | **[Cowrite AI powered by GPT-4](https://testflight.apple.com/join/2Msd7D08)** |
 | <img src="https://img.departures.to/appicons/f3e0adbe022a114e46bc7ba16369174268b2f7cc.png" alt="TranslateGBT » AI Translator" align="center" width="40" height="40" /> | **[TranslateGBT » AI Translator](https://testflight.apple.com/join/JItSZEdP)** |
-| <img src="https://img.departures.to/appicons/d72cdf45f0fd8297fde15758ff3851e9d13a17d4.png" alt="Envision AI" align="center" width="40" height="40" /> | **[Envision AI](https://testflight.apple.com/join/QzPGfNeH)** |
 | <img src="https://img.departures.to/appicons/9a290ff81a41e6350f92184f58bdd5ffbdf719b2.png" alt="XChatBot - ChatBot AI" align="center" width="40" height="40" /> | **[XChatBot - ChatBot AI](https://testflight.apple.com/join/IkPZBjjl)** |
 | <img src="https://img.departures.to/appicons/ccb2c1f375f014adfb4617da5df7e9eaeede37fc.png" alt="AI Keyboard・ReplyAssistant" align="center" width="40" height="40" /> | **[AI Keyboard・ReplyAssistant](https://testflight.apple.com/join/LI3ZMOad)** |
 | <img src="https://img.departures.to/appicons/47ad18f19af09793e025f890a31d5a95fb19d78c.png" alt="Nexar - AI Dash Cam" align="center" width="40" height="40" /> | **[Nexar - AI Dash Cam](https://testflight.apple.com/join/f8tSQ2q0)** |
@@ -26,10 +27,11 @@
 | <img src="https://img.departures.to/appicons/22df489885a864b7cea2378e04f737e9d8966f3a.png" alt="Drip.Art V0: AI Video Generate" align="center" width="40" height="40" /> | **[Drip.Art V0: AI Video Generate](https://testflight.apple.com/join/SxQilTIz)** |
 | <img src="https://img.departures.to/appicons/c620b22f80e21f9a750d6352d7b444ffb20e5774.png" alt="ICONS+" align="center" width="40" height="40" /> | **[ICONS+](https://testflight.apple.com/join/ji6aqUks)** |
 | <img src="https://img.departures.to/appicons/3705010e06d3c952a6ec76bea3649081cecf4383.png" alt="搜狗输入法-Emoji Art&Funny Sticker" align="center" width="40" height="40" /> | **[搜狗输入法-Emoji Art&Funny Sticker](https://testflight.apple.com/join/lSZdpEPH)** |
-| <img src="https://img.departures.to/appicons/75e7bc431a5b23e70f6b728b683eefb60bf5bf58.png" alt="aBackdrop" align="center" width="40" height="40" /> | **[aBackdrop](https://testflight.apple.com/join/IuCS9G8K)** |
 | <img src="https://img.departures.to/appicons/0245acdbdefba8f21a194f371827fe109477ffd4.png" alt="Imgur: Funny Memes & GIF Maker" align="center" width="40" height="40" /> | **[Imgur: Funny Memes & GIF Maker](https://testflight.apple.com/join/Qd42y5Pw)** |
+| <img src="https://img.departures.to/appicons/267043d79bcefa9e3bbbf0e2c4599ae3b26baf60.png" alt="Mapboard GIS" align="center" width="40" height="40" /> | **[Mapboard GIS](https://testflight.apple.com/join/0TfVlWyN)** |
 | <img src="https://img.departures.to/appicons/0f4d413afdf7d1aa1b07d43db31e918e5e7c23a5.png" alt="NFTTrack - new screen widgets" align="center" width="40" height="40" /> | **[NFTTrack - new screen widgets](https://testflight.apple.com/join/vzmwqRe1)** |
 | <img src="https://img.departures.to/appicons/bba3ef32a75eb3cb4be55cb0be1ac8f15c21f943.png" alt="FocalPaint" align="center" width="40" height="40" /> | **[FocalPaint](https://testflight.apple.com/join/1adnuUHv)** |
+| <img src="https://img.departures.to/appicons/fd58608edb5c1442bbca82aeed85fb4add0c1d8c.png" alt="カラオケツール" align="center" width="40" height="40" /> | **[カラオケツール](https://testflight.apple.com/join/pGyQcxJP)** |
 | <img src="https://img.departures.to/appicons/72c69863954eab2b7b230111a43608d07902cb5b.png" alt="Sticker Maker Studio" align="center" width="40" height="40" /> | **[Sticker Maker Studio](https://testflight.apple.com/join/eucMfZTb)** |
 || => **[AUDIO](https://departures.to/tags/audio)** <= |
 | <img src="https://img.departures.to/appicons/bd605a90bddefa472bec288598f3363d34e0cfa1.png" alt="Airbuds Widget" align="center" width="40" height="40" /> | **[Airbuds Widget](https://testflight.apple.com/join/0nEOUD24)** |
@@ -73,7 +75,6 @@
 | <img src="https://img.departures.to/appicons/52af88838567005229f3ab7e249d1d7bcaa4adf8.png" alt="Opera GX" align="center" width="40" height="40" /> | **[Opera GX](https://testflight.apple.com/join/t3k1AVL3)** |
 | <img src="https://img.departures.to/appicons/141068b26d75d643f02d35a55d122b0f5a7c9c93.png" alt="Ulaa Browser" align="center" width="40" height="40" /> | **[Ulaa Browser](https://testflight.apple.com/join/TdwBDoxL)** |
 | <img src="https://img.departures.to/appicons/a34e7279743b3656a58b09552ed06c5aa5958101.png" alt="Microsoft Edge: AI Browser" align="center" width="40" height="40" /> | **[Microsoft Edge: AI Browser](https://testflight.apple.com/join/JkU2rh21)** |
-| <img src="https://img.departures.to/appicons/5ef0e32f02f1e8a37e0e66d471a7c0ce45f7bdd5.png" alt="Vivaldi Powerful Web Browser" align="center" width="40" height="40" /> | **[Vivaldi Powerful Web Browser](https://testflight.apple.com/join/sZwOuL9G)** |
 | <img src="https://img.departures.to/appicons/7d58268d3b8a323d943263109f3682d37b0eb054.png" alt="Brave Beta" align="center" width="40" height="40" /> | **[Brave Beta](https://testflight.apple.com/join/Trcbh1o3)** |
 | <img src="https://img.departures.to/appicons/d175ab764853c1bdf917e53409a423f7898935eb.png" alt="Opera Browser with VPN and AI" align="center" width="40" height="40" /> | **[Opera Browser with VPN and AI](https://testflight.apple.com/join/ASrCFVHB)** |
 | <img src="https://img.departures.to/appicons/53612016e97b42ef013587a2ee7234ccdf121844.png" alt="Lagrange Gemini Browser" align="center" width="40" height="40" /> | **[Lagrange Gemini Browser](https://testflight.apple.com/join/UjdtSEhu)** |
@@ -89,6 +90,7 @@
 | <img src="https://img.departures.to/appicons/fd55dd7a29ba7e2004d74f09581090c38e9a1533.png" alt="Swiftgram" align="center" width="40" height="40" /> | **[Swiftgram](https://testflight.apple.com/join/3TUwXHbH)** |
 | <img src="https://img.departures.to/appicons/b26fa2ddc0bdc990a395eed64ea39c537bd1a10f.png" alt="Circle - Social Network" align="center" width="40" height="40" /> | **[Circle - Social Network](https://testflight.apple.com/join/ltEGPNDE)** |
 | <img src="https://img.departures.to/appicons/ab4f2c540fef3e1da388851e955a6bc7707d9291.png" alt="Rizzpad - Dating App Assistant" align="center" width="40" height="40" /> | **[Rizzpad - Dating App Assistant](https://testflight.apple.com/join/wtARtolg)** |
+| <img src="https://img.departures.to/appicons/fe52ac1103c035b5efbd46b3b93b2111a626c8a7.png" alt="AiChat - LLM" align="center" width="40" height="40" /> | **[AiChat - LLM](https://testflight.apple.com/join/GR4BOt2M)** |
 | <img src="https://img.departures.to/appicons/bd5ba93aae7260160dacb721cbfdaa93d074acf2.png" alt="Signal - Private Messenger" align="center" width="40" height="40" /> | **[Signal - Private Messenger](https://testflight.apple.com/join/8FHtd1Jq)** |
 | <img src="https://img.departures.to/appicons/0a9e83202d1c50670ba2124af7d0dbfd8a7093d0.png" alt="Holler - talk and text" align="center" width="40" height="40" /> | **[Holler - talk and text](https://testflight.apple.com/join/WYwS7eX5)** |
 | <img src="https://img.departures.to/appicons/00831e750c9cfef3524fb6b6c1a0eecd01964866.png" alt="Grindr - Gay Dating & Chat" align="center" width="40" height="40" /> | **[Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7)** |
@@ -174,6 +176,7 @@
 | <img src="https://img.departures.to/appicons/d1ff5f3d4e5cb46286c10da3b462838a82e263d8.png" alt="VexWallet - Blockchain Wallet" align="center" width="40" height="40" /> | **[VexWallet - Blockchain Wallet](https://testflight.apple.com/join/pwuoRCMc)** |
 | <img src="https://img.departures.to/appicons/a6ee65c7116eba7fd7fa5cf8d759790ff632aca9.png" alt="Peercoin Wallet" align="center" width="40" height="40" /> | **[Peercoin Wallet](https://testflight.apple.com/join/iilc4SvQ)** |
 || => **[DEVELOPER](https://departures.to/tags/developer)** <= |
+| <img src="https://img.departures.to/appicons/2b0a595c8a0a310171976981e7a4bc09d4eecfeb.png" alt="Flow Internet with Wireguard" align="center" width="40" height="40" /> | **[Flow Internet with Wireguard](https://testflight.apple.com/join/cZXuPTJU)** |
 | <img src="https://img.departures.to/appicons/fcedbd97bea4ced7c812a70655deb85c76023f33.png" alt="Posts by Read.cv" align="center" width="40" height="40" /> | **[Posts by Read.cv](https://testflight.apple.com/join/OTiyTXl2)** |
 | <img src="https://img.departures.to/appicons/35db4ac6ad28156602187a48cb12b00754490098.png" alt="La Terminal - SSH Client" align="center" width="40" height="40" /> | **[La Terminal - SSH Client](https://testflight.apple.com/join/cpPS8YnX)** |
 | <img src="https://img.departures.to/appicons/c6dc43dda8331ce78fe6c043afecc1891b97dc3e.png" alt="Notilify" align="center" width="40" height="40" /> | **[Notilify](https://testflight.apple.com/join/900xOXOk)** |
@@ -218,6 +221,7 @@
 | <img src="https://img.departures.to/appicons/b1e348b6c0c5f7e9a567b228ec49e96012684bb7.png" alt="Fraction Steps: Learn Visually" align="center" width="40" height="40" /> | **[Fraction Steps: Learn Visually](https://testflight.apple.com/join/VhzZ7q96)** |
 | <img src="https://img.departures.to/appicons/c587cd3c4d96224c0eb8619a76cb66d8a1967691.png" alt="TitechApp 3 : TokyoTech App" align="center" width="40" height="40" /> | **[TitechApp 3 : TokyoTech App](https://testflight.apple.com/join/oXRX7i7u)** |
 || => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= |
+| <img src="https://img.departures.to/appicons/0f531fae15fbab41eec7a838817743f89c54bf27.png" alt="S3XY Watch" align="center" width="40" height="40" /> | **[S3XY Watch](https://testflight.apple.com/join/194LkkmW)** |
 | <img src="https://img.departures.to/appicons/6dcd7de84567a943c77ccc95268f9887597035f0.png" alt="MyPace - Control Your I-Pace" align="center" width="40" height="40" /> | **[MyPace - Control Your I-Pace](https://testflight.apple.com/join/SPMprsWo)** |
 | <img src="https://img.departures.to/appicons/ad7de3bafd2fe1b7de180c5046b629db88dbd875.png" alt="Watch app for Tesla" align="center" width="40" height="40" /> | **[Watch app for Tesla](https://testflight.apple.com/join/FdzFOLZv)** |
 | <img src="https://img.departures.to/appicons/ba768006cfbc6ba643a2a0f70333da9bac48ea86.png" alt="Quick Key Fob for Tesla" align="center" width="40" height="40" /> | **[Quick Key Fob for Tesla](https://testflight.apple.com/join/AJWzHt8x)** |
@@ -314,7 +318,6 @@
 | <img src="https://img.departures.to/appicons/e4a491d7d4651e59cc02872def8e0f84f5fecc08.png" alt="MoonFit - Web3 Lifestyle App" align="center" width="40" height="40" /> | **[MoonFit - Web3 Lifestyle App](https://testflight.apple.com/join/lfXF5Lbd)** |
 | <img src="https://img.departures.to/appicons/1459e6480ef2caed82dae76ad73b22d14af4f4fc.png" alt="Backcountry Ski - Beta App" align="center" width="40" height="40" /> | **[Backcountry Ski - Beta App](https://testflight.apple.com/join/6FXz5GT5)** |
 | <img src="https://img.departures.to/appicons/35e282fa50ef2a94fbb4989c88f3483ab41a83d6.png" alt="Geovelo : bike GPS" align="center" width="40" height="40" /> | **[Geovelo : bike GPS](https://testflight.apple.com/join/3tGq4Vsv)** |
-| <img src="https://img.departures.to/appicons/a1433b0469267b52f747a1cdfb34428dab06a450.png" alt="Zeus by Kayyo" align="center" width="40" height="40" /> | **[Zeus by Kayyo](https://testflight.apple.com/join/3YG9GdcS)** |
 | <img src="https://img.departures.to/appicons/111288c451053528dd084d58554f956111b18563.png" alt="Landscape: Mountaineering" align="center" width="40" height="40" /> | **[Landscape: Mountaineering](https://testflight.apple.com/join/SrVraMCy)** |
 | <img src="https://img.departures.to/appicons/a5760e7b0144fc6f542ca4781aa77752c19f659e.png" alt="FitMind: Mental Fitness" align="center" width="40" height="40" /> | **[FitMind: Mental Fitness](https://testflight.apple.com/join/Yf0ozkqd)** |
 | <img src="https://img.departures.to/appicons/69b5debf7b94dfe09c79274d5b49e67c9ce82163.png" alt="CommuniSki" align="center" width="40" height="40" /> | **[CommuniSki](https://testflight.apple.com/join/4vgUfbZ7)** |
@@ -349,8 +352,6 @@
 | <img src="https://img.departures.to/appicons/eead0112e5538bf3061bbafd8f5a50236f48852c.png" alt="Niantic Wayfarer" align="center" width="40" height="40" /> | **[Niantic Wayfarer](https://testflight.apple.com/join/VXu1F2jf)** |
 | <img src="https://img.departures.to/appicons/2f92a4a44be69b9bb5f40e14cda8d0331d939924.png" alt="Hexo" align="center" width="40" height="40" /> | **[Hexo](https://testflight.apple.com/join/dFDRxxJk)** |
 | <img src="https://img.departures.to/appicons/495844a781ebb492baa78460ff85a17c2ae37767.png" alt="Breakthrough! - Language Game" align="center" width="40" height="40" /> | **[Breakthrough! - Language Game](https://testflight.apple.com/join/Dp076pRX)** |
-| <img src="https://img.departures.to/appicons/e645421bae719cfd18391f89acd8a6dec19c1ec7.png" alt="Soccer Manager 2024 - Football" align="center" width="40" height="40" /> | **[Soccer Manager 2024 - Football](https://testflight.apple.com/join/0Yylxeh1)** |
-| <img src="https://img.departures.to/appicons/025958c662006580326fbe36d2ad67c2db456075.png" alt="Tic Tac Toe Classic Widget" align="center" width="40" height="40" /> | **[Tic Tac Toe Classic Widget](https://testflight.apple.com/join/hqhKImdJ)** |
 | <img src="https://img.departures.to/appicons/0dc2cf8c4da4244d3c8d9d09e0cf068a94ced7ec.png" alt="Horse Of Legends - HOL" align="center" width="40" height="40" /> | **[Horse Of Legends - HOL](https://testflight.apple.com/join/LHUHLYG5)** |
 | <img src="https://img.departures.to/appicons/1a4e315dad15c675578b9bb32a5a4eec9d40b898.png" alt="仙剑三" align="center" width="40" height="40" /> | **[仙剑三](https://testflight.apple.com/join/ypI5moed)** |
 | <img src="https://img.departures.to/appicons/9ab0d5fbefcb495e41ae2d8ed1e1c90a5be75735.png" alt="Celted" align="center" width="40" height="40" /> | **[Celted](https://testflight.apple.com/join/YeVSTsai)** |
@@ -358,6 +359,7 @@
 | <img src="https://img.departures.to/appicons/3fbd9fd80d2a2cdea6d1bcc74b680b182f999b81.png" alt="Reed/Wright Cycle" align="center" width="40" height="40" /> | **[Reed/Wright Cycle](https://testflight.apple.com/join/7SfToPrc)** |
 | <img src="https://img.departures.to/appicons/f84651e4ebb56e1c140d3ea79d163f57bd8f3649.png" alt="Pex - Relaxing Puzzle Game" align="center" width="40" height="40" /> | **[Pex - Relaxing Puzzle Game](https://testflight.apple.com/join/8rxzeWwn)** |
 | <img src="https://img.departures.to/appicons/e7c252b8dc3126eadd558ec2d24acbc05de34282.png" alt="Addagrams: Word Puzzle Games" align="center" width="40" height="40" /> | **[Addagrams: Word Puzzle Games](https://testflight.apple.com/join/C1Xj5LKW)** |
+| <img src="https://img.departures.to/appicons/4987666eee2feb9702c7457c76ad334925c38e5c.png" alt="War Robots Test" align="center" width="40" height="40" /> | **[War Robots Test](https://testflight.apple.com/join/aE7qTf9G)** |
 | <img src="https://img.departures.to/appicons/35c4bd40a57216c67ca42d840e80271b00dcdcc7.png" alt="Pati-Games&Chat" align="center" width="40" height="40" /> | **[Pati-Games&Chat](https://testflight.apple.com/join/OySOWcrj)** |
 | <img src="https://img.departures.to/appicons/dd67c734d35599bfb89cddb7577216a6c348a427.png" alt="GamingBuddy Discover new games" align="center" width="40" height="40" /> | **[GamingBuddy Discover new games](https://testflight.apple.com/join/yW1ug7sg)** |
 | <img src="https://img.departures.to/appicons/3b818099aa6bb37cebf9369b0349ab8d4994b6b3.png" alt="Addagrams: Word Puzzle Games" align="center" width="40" height="40" /> | **[Addagrams: Word Puzzle Games](https://testflight.apple.com/join/yHVGpzXX)** |
@@ -379,7 +381,6 @@
 | <img src="https://img.departures.to/appicons/3bbdc7706ca4a8918b7d7f946ed89e669db13568.png" alt="달보이스 플러스" align="center" width="40" height="40" /> | **[달보이스 플러스](https://testflight.apple.com/join/OJfvaCjH)** |
 | <img src="https://img.departures.to/appicons/99045c5996cf17880ded1fdfe9d7cd93929a4c49.png" alt="S.Mario" align="center" width="40" height="40" /> | **[S.Mario](https://testflight.apple.com/join/HLKh7Jx9)** |
 | <img src="https://img.departures.to/appicons/cba38d3727d9ff461115114a337c0f9d1dcf9297.png" alt="AGFEO Dashboard" align="center" width="40" height="40" /> | **[AGFEO Dashboard](https://testflight.apple.com/join/D3krMHzA)** |
-| <img src="https://img.departures.to/appicons/470b673846cd6a0115eb04beb90389847dce4fc9.png" alt="MTG Scanner - Lion’s Eye" align="center" width="40" height="40" /> | **[MTG Scanner - Lion’s Eye](https://testflight.apple.com/join/yj6QDl0H)** |
 | <img src="https://img.departures.to/appicons/c11b64a676ec7cc397adbb850cf3a17df5cd2771.png" alt="chainzarena-mbox" align="center" width="40" height="40" /> | **[chainzarena-mbox](https://testflight.apple.com/join/dqI8Xj18)** |
 | <img src="https://img.departures.to/appicons/71c233ba55e0eea94e94eba0087464c13193519d.png" alt="Tabletop Battles" align="center" width="40" height="40" /> | **[Tabletop Battles](https://testflight.apple.com/join/XWOfQyll)** |
 | <img src="https://img.departures.to/appicons/881dfe12ebd5f80234fbf0b892edda516869b106.png" alt="blockbrawler" align="center" width="40" height="40" /> | **[blockbrawler](https://testflight.apple.com/join/AvzJebh3)** |
@@ -392,6 +393,7 @@
 | <img src="https://img.departures.to/appicons/3aac38f71779f9e1e028c62b4a5f5c244d2f4311.png" alt="Wordfeud" align="center" width="40" height="40" /> | **[Wordfeud](https://testflight.apple.com/join/zxgYsVn4)** |
 | <img src="https://img.departures.to/appicons/540f40778f0c720526876fdc7a1b9e822b996f86.png" alt="Mark My Words - Word Game" align="center" width="40" height="40" /> | **[Mark My Words - Word Game](https://testflight.apple.com/join/jEhWQPiK)** |
 | <img src="https://img.departures.to/appicons/468ad1a92736b13005886bb7ad8e294ba14e61ef.png" alt="Finders Sweepers Treasure Hunt" align="center" width="40" height="40" /> | **[Finders Sweepers Treasure Hunt](https://testflight.apple.com/join/0FrxkHLp)** |
+| <img src="https://img.departures.to/appicons/fd58608edb5c1442bbca82aeed85fb4add0c1d8c.png" alt="カラオケツール" align="center" width="40" height="40" /> | **[カラオケツール](https://testflight.apple.com/join/pGyQcxJP)** |
 | <img src="https://img.departures.to/appicons/ec784c65cd70623606c3cf0a3a4c3cd437316104.png" alt="霸王的梦想" align="center" width="40" height="40" /> | **[霸王的梦想](https://testflight.apple.com/join/Rl006EFo)** |
 | <img src="https://img.departures.to/appicons/98b5d6b058fce9d99c31f93c70a01d046858470e.png" alt="SuperTuxKart" align="center" width="40" height="40" /> | **[SuperTuxKart](https://testflight.apple.com/join/mbK8RjHq)** |
 | <img src="https://img.departures.to/appicons/45f4e8772f23323f8f8dc841c3c219acbb7d391b.png" alt="The Battle of Polytopia" align="center" width="40" height="40" /> | **[The Battle of Polytopia](https://testflight.apple.com/join/LjTQNqua)** |
@@ -425,7 +427,6 @@
 | <img src="https://img.departures.to/appicons/ba54b476545fd6c0a50c90279da1b39450258029.png" alt="WidgetHealth - Widget & Health" align="center" width="40" height="40" /> | **[WidgetHealth - Widget & Health](https://testflight.apple.com/join/G0Wh2Ft0)** |
 | <img src="https://img.departures.to/appicons/914b4dd03b79c8d8ffffab1c814bbe920d1b8a55.png" alt="Shape: Lucid Dream Coach" align="center" width="40" height="40" /> | **[Shape: Lucid Dream Coach](https://testflight.apple.com/join/UPmVuiMA)** |
 | <img src="https://img.departures.to/appicons/e603fd9b88064a62d57e3384db92b712133735a9.png" alt="FitMind: Mental Fitness" align="center" width="40" height="40" /> | **[FitMind: Mental Fitness](https://testflight.apple.com/join/G6qjtzj2)** |
-| <img src="https://img.departures.to/appicons/67a5ab09feeb811fbc77070228466f17ef082767.png" alt="Sleep Cycle - Sleep Tracker" align="center" width="40" height="40" /> | **[Sleep Cycle - Sleep Tracker](https://testflight.apple.com/join/tCeANbZi)** |
 || => **[HOMEKIT](https://departures.to/tags/homekit)** <= |
 | <img src="https://img.departures.to/appicons/6d78370c7fecb23a0589d582a10a8f806156a0b0.png" alt="TP-Link Tapo Beta" align="center" width="40" height="40" /> | **[TP-Link Tapo Beta](https://testflight.apple.com/join/6yiRhKNU)** |
 | <img src="https://img.departures.to/appicons/0ef016d516cca528abb9f46c461d98ec9d67d905.png" alt="HomeHabit" align="center" width="40" height="40" /> | **[HomeHabit](https://testflight.apple.com/join/KbpFHzx0)** |
@@ -479,13 +480,12 @@
 | <img src="https://img.departures.to/appicons/1b81c44c8c464c3edf1e409dc090c748146ac279.png" alt="Popland なにげない日常に、ワクワクを。" align="center" width="40" height="40" /> | **[Popland なにげない日常に、ワクワクを。](https://testflight.apple.com/join/b4Vtjxpn)** |
 | <img src="https://img.departures.to/appicons/e7b90ae0ab0de4c4fff56aada303c1c0ec549211.png" alt="FlightAware Flight Tracker" align="center" width="40" height="40" /> | **[FlightAware Flight Tracker](https://testflight.apple.com/join/YDNhKtAe)** |
 | <img src="https://img.departures.to/appicons/4aaa77282ca9989c4024c1da72190692fc63fc69.png" alt="Speedometer GPS And Compass" align="center" width="40" height="40" /> | **[Speedometer GPS And Compass](https://testflight.apple.com/join/y2nXKYRu)** |
-| <img src="https://img.departures.to/appicons/19d2ba9224493f2f2d659780ad52ab338b060bea.png" alt="Map Alarm: Maps & Open Streets" align="center" width="40" height="40" /> | **[Map Alarm: Maps & Open Streets](https://testflight.apple.com/join/EbbDOGuz)** |
 | <img src="https://img.departures.to/appicons/f4ae01bfb942e12723382d598bfc8b0039720ce9.png" alt="TomTom AmiGO GPS Maps, Traffic" align="center" width="40" height="40" /> | **[TomTom AmiGO GPS Maps, Traffic](https://testflight.apple.com/join/fzwNchUs)** |
 | <img src="https://img.departures.to/appicons/236e4a08733dcadc9e479a1a1bd90e9746009818.png" alt="Mapxus Map Sample" align="center" width="40" height="40" /> | **[Mapxus Map Sample](https://testflight.apple.com/join/2jp7G7pc)** |
-| <img src="https://img.departures.to/appicons/bd2688a3734e08e18eb005ea4ec8a1d2e2333b06.png" alt="Map Alarm: Maps & Open Streets" align="center" width="40" height="40" /> | **[Map Alarm: Maps & Open Streets](https://testflight.apple.com/join/LF2SNq7J)** |
 | <img src="https://img.departures.to/appicons/2cfcc0f94317cf35fcc86661a3667e91dfb360d3.png" alt="TwoNav: Maps Routes" align="center" width="40" height="40" /> | **[TwoNav: Maps Routes](https://testflight.apple.com/join/d0uLPpsj)** |
 | <img src="https://img.departures.to/appicons/0a8114341db2f0e698f3c30e04247bf80adcd9bf.png" alt="Standard Fleet" align="center" width="40" height="40" /> | **[Standard Fleet](https://testflight.apple.com/join/gjoO6enQ)** |
 | <img src="https://img.departures.to/appicons/35e282fa50ef2a94fbb4989c88f3483ab41a83d6.png" alt="Geovelo : bike GPS" align="center" width="40" height="40" /> | **[Geovelo : bike GPS](https://testflight.apple.com/join/3tGq4Vsv)** |
+| <img src="https://img.departures.to/appicons/267043d79bcefa9e3bbbf0e2c4599ae3b26baf60.png" alt="Mapboard GIS" align="center" width="40" height="40" /> | **[Mapboard GIS](https://testflight.apple.com/join/0TfVlWyN)** |
 | <img src="https://img.departures.to/appicons/111288c451053528dd084d58554f956111b18563.png" alt="Landscape: Mountaineering" align="center" width="40" height="40" /> | **[Landscape: Mountaineering](https://testflight.apple.com/join/SrVraMCy)** |
 | <img src="https://img.departures.to/appicons/1e80ad125c6e71d2ced0f8cfedcb7943ba4da68b.png" alt="SOTAMĀT SOTA / POTA Spotting" align="center" width="40" height="40" /> | **[SOTAMĀT SOTA / POTA Spotting](https://testflight.apple.com/join/UQuW6g1E)** |
 | <img src="https://img.departures.to/appicons/ef28739dcd80cbb72b3e2cbdb049b500245409ff.png" alt="Passio GO" align="center" width="40" height="40" /> | **[Passio GO](https://testflight.apple.com/join/GkoL7RfS)** |
@@ -543,7 +543,6 @@
 | <img src="https://img.departures.to/appicons/3c6dfa5155b93bef1fdf18e990e90bc1682a7d6a.png" alt="Newsbite" align="center" width="40" height="40" /> | **[Newsbite](https://testflight.apple.com/join/7sus3M6q)** |
 | <img src="https://img.departures.to/appicons/e5c4337370c406cfdfdafe3caf3213025db36efb.png" alt="NetNewsWire: RSS Reader" align="center" width="40" height="40" /> | **[NetNewsWire: RSS Reader](https://testflight.apple.com/join/wpedPMRR)** |
 | <img src="https://img.departures.to/appicons/67a89eef717f12ae05a502ae5b008ef90e58a275.png" alt="HacKit" align="center" width="40" height="40" /> | **[HacKit](https://testflight.apple.com/join/lJyZPVGl)** |
-| <img src="https://img.departures.to/appicons/852c8b19f7dcfc6151c3d041b30a6addce3b02d6.png" alt="The Guardian - Live World News" align="center" width="40" height="40" /> | **[The Guardian - Live World News](https://testflight.apple.com/join/8EsDeq7Y)** |
 | <img src="https://img.departures.to/appicons/223aaac5ae55efbf11f61d06e6edb6ee5bd1baed.png" alt="Feedly - Smart News Reader" align="center" width="40" height="40" /> | **[Feedly - Smart News Reader](https://testflight.apple.com/join/03ER1aUo)** |
 | <img src="https://img.departures.to/appicons/03b963a212246b4712faff2338514f42aa76b3c8.png" alt="Castamatic Podcast Player" align="center" width="40" height="40" /> | **[Castamatic Podcast Player](https://testflight.apple.com/join/Uc63akXE)** |
 || => **[PETS](https://departures.to/tags/pets)** <= |
@@ -555,7 +554,6 @@
 | <img src="https://img.departures.to/appicons/0031b48cd55e24ed85a0153a3944a98286739eed.png" alt="Ditherable" align="center" width="40" height="40" /> | **[Ditherable](https://testflight.apple.com/join/0ox2QYEz)** |
 | <img src="https://img.departures.to/appicons/ee75d5e838dbafe307b9386f76bf4552acaea1dc.png" alt="Camarts Photography" align="center" width="40" height="40" /> | **[Camarts Photography](https://testflight.apple.com/join/J4ymVf0z)** |
 | <img src="https://img.departures.to/appicons/e79f8df877aacf2ba624a7b47012694d27a00487.png" alt="Picme - Get the Real Picture." align="center" width="40" height="40" /> | **[Picme - Get the Real Picture.](https://testflight.apple.com/join/MmJ4tvUr)** |
-| <img src="https://img.departures.to/appicons/75e7bc431a5b23e70f6b728b683eefb60bf5bf58.png" alt="aBackdrop" align="center" width="40" height="40" /> | **[aBackdrop](https://testflight.apple.com/join/IuCS9G8K)** |
 | <img src="https://img.departures.to/appicons/e86812239c48001f766ddf7a7023b42c8fb39039.png" alt="Clipping Camera" align="center" width="40" height="40" /> | **[Clipping Camera](https://testflight.apple.com/join/aYZWHvK6)** |
 | <img src="https://img.departures.to/appicons/0245acdbdefba8f21a194f371827fe109477ffd4.png" alt="Imgur: Funny Memes & GIF Maker" align="center" width="40" height="40" /> | **[Imgur: Funny Memes & GIF Maker](https://testflight.apple.com/join/Qd42y5Pw)** |
 | <img src="https://img.departures.to/appicons/98a9aa0d94bf0dfbd194a7d23b0deb5043a44e10.png" alt="Luma AI" align="center" width="40" height="40" /> | **[Luma AI](https://testflight.apple.com/join/AvhTle5L)** |
@@ -601,7 +599,6 @@
 | <img src="https://img.departures.to/appicons/bf5f49994c4be9799de03bd76a87ccb1b45756a5.png" alt="Orb: Everyday Web3 Social App" align="center" width="40" height="40" /> | **[Orb: Everyday Web3 Social App](https://testflight.apple.com/join/uq14IKUe)** |
 | <img src="https://img.departures.to/appicons/21e55d23c1a81a22edad61b1e4de2c873383295f.png" alt="Mlem for Lemmy" align="center" width="40" height="40" /> | **[Mlem for Lemmy](https://testflight.apple.com/join/MelFP11Y)** |
 | <img src="https://img.departures.to/appicons/7276dea0f48c125f945057d2140117b4087003da.png" alt="Vital - Build Activity Streaks" align="center" width="40" height="40" /> | **[Vital - Build Activity Streaks](https://testflight.apple.com/join/g84dZc6Q)** |
-| <img src="https://img.departures.to/appicons/85ea5f40edf81ca6b87ae199002bafe03c520c4f.png" alt="Landscape - Urbit" align="center" width="40" height="40" /> | **[Landscape - Urbit](https://testflight.apple.com/join/Yzj1SxSH)** |
 | <img src="https://img.departures.to/appicons/02df7ee7e1406ad15a0d5691dd176f620f7dfaf6.png" alt="RFOX VALT" align="center" width="40" height="40" /> | **[RFOX VALT](https://testflight.apple.com/join/bPUkXcr3)** |
 | <img src="https://img.departures.to/appicons/cc68ac667a0b1316abfe4541eabb34d9ee7c1285.png" alt="Buffer: Plan & Schedule Posts" align="center" width="40" height="40" /> | **[Buffer: Plan & Schedule Posts](https://testflight.apple.com/join/DOpMcusn)** |
 | <img src="https://img.departures.to/appicons/67ff568a7a34e594198feae4bb820035a22bc53d.png" alt="Tapped Ai" align="center" width="40" height="40" /> | **[Tapped Ai](https://testflight.apple.com/join/TbVZMGhA)** |
@@ -623,7 +620,6 @@
 | <img src="https://img.departures.to/appicons/bf7008e597a49be10ad0006a349ff2a8a116bd6f.png" alt="Untappd - Discover Beer" align="center" width="40" height="40" /> | **[Untappd - Discover Beer](https://testflight.apple.com/join/EbIrz3mA)** |
 | <img src="https://img.departures.to/appicons/c19aa85fe0ebd8aefde77d0334299c91f382017d.png" alt="Twidere X" align="center" width="40" height="40" /> | **[Twidere X](https://testflight.apple.com/join/GJIDXvW7)** |
 || => **[SPORTS](https://departures.to/tags/sports)** <= |
-| <img src="https://img.departures.to/appicons/e645421bae719cfd18391f89acd8a6dec19c1ec7.png" alt="Soccer Manager 2024 - Football" align="center" width="40" height="40" /> | **[Soccer Manager 2024 - Football](https://testflight.apple.com/join/0Yylxeh1)** |
 | <img src="https://img.departures.to/appicons/1db5a945a6bce70deac803f885792c201234cc74.png" alt="Workout Sessions" align="center" width="40" height="40" /> | **[Workout Sessions](https://testflight.apple.com/join/dDSurLeT)** |
 | <img src="https://img.departures.to/appicons/b8f916f964fb9486f6dc18c2f6143b8efdd6d3d6.png" alt="BETANDYOU - Best bets for you" align="center" width="40" height="40" /> | **[BETANDYOU - Best bets for you](https://testflight.apple.com/join/x6aMHlck)** |
 | <img src="https://img.departures.to/appicons/d236cdd625f2a14388532c820b859255ca1255ad.png" alt="FotMob - Soccer Live Scores" align="center" width="40" height="40" /> | **[FotMob - Soccer Live Scores](https://testflight.apple.com/join/zEAwGlrV)** |
@@ -645,8 +641,8 @@
 | <img src="https://img.departures.to/appicons/abf25b0c66fb97cc4a1aa075d4d160e25006fcb5.png" alt="Hourglass Time" align="center" width="40" height="40" /> | **[Hourglass Time](https://testflight.apple.com/join/1XAS00qA)** |
 | <img src="https://img.departures.to/appicons/603964db2bdd86c36034bcef367e460e1950e06f.png" alt="TimeDraw" align="center" width="40" height="40" /> | **[TimeDraw](https://testflight.apple.com/join/rld66nJY)** |
 | <img src="https://img.departures.to/appicons/ef7191b2863092af039a089edbb73951d6f975e5.png" alt="World Clock Time Widget" align="center" width="40" height="40" /> | **[World Clock Time Widget](https://testflight.apple.com/join/8wa9T053)** |
-| <img src="https://img.departures.to/appicons/18e43f90ca06998c0e4f72f06885e7758c36eca8.png" alt="Focus – Productivity Timer" align="center" width="40" height="40" /> | **[Focus – Productivity Timer](https://testflight.apple.com/join/4GWAwNsU)** |
 | <img src="https://img.departures.to/appicons/e7f68e5b2556b0b69d83e9bc4c34b997472ae269.png" alt="Focus - Productivity Timer" align="center" width="40" height="40" /> | **[Focus - Productivity Timer](https://testflight.apple.com/join/PemGsPhH)** |
+| <img src="https://img.departures.to/appicons/18e43f90ca06998c0e4f72f06885e7758c36eca8.png" alt="Focus – Productivity Timer" align="center" width="40" height="40" /> | **[Focus – Productivity Timer](https://testflight.apple.com/join/4GWAwNsU)** |
 | <img src="https://img.departures.to/appicons/b7a553d6d7eb01ad330709caa31d30e20eee70b5.png" alt="Time’s Up! — Visual Timer" align="center" width="40" height="40" /> | **[Time’s Up! — Visual Timer](https://testflight.apple.com/join/wLaAUd6G)** |
 | <img src="https://img.departures.to/appicons/ea59d1f4bc60659f90d66a152ee5c641316935fc.png" alt="Toggl Track: Hours & Time Log" align="center" width="40" height="40" /> | **[Toggl Track: Hours & Time Log](https://testflight.apple.com/join/8od30iFa)** |
 || => **[TRANSIT](https://departures.to/tags/transit)** <= |
@@ -660,6 +656,7 @@
 | <img src="https://img.departures.to/appicons/f0bba516f2fafd83b4bff6dbc88fa980c448b8d7.png" alt="AT Mobile" align="center" width="40" height="40" /> | **[AT Mobile](https://testflight.apple.com/join/5MA0Pixb)** |
 || => **[TRAVEL](https://departures.to/tags/travel)** <= |
 | <img src="https://img.departures.to/appicons/ab3e7b2c64bf399696bd2a333aba3c4413efb44a.png" alt="Globetrotter: Travel Tracker" align="center" width="40" height="40" /> | **[Globetrotter: Travel Tracker](https://testflight.apple.com/join/FOKxyxxg)** |
+| <img src="https://img.departures.to/appicons/2b0a595c8a0a310171976981e7a4bc09d4eecfeb.png" alt="Flow Internet with Wireguard" align="center" width="40" height="40" /> | **[Flow Internet with Wireguard](https://testflight.apple.com/join/cZXuPTJU)** |
 | <img src="https://img.departures.to/appicons/34b02b8c7a7ef367fe4123951eeef289f8f6f744.png" alt="Rebase: Explore and Collect" align="center" width="40" height="40" /> | **[Rebase: Explore and Collect](https://testflight.apple.com/join/p420WI7j)** |
 | <img src="https://img.departures.to/appicons/e7b90ae0ab0de4c4fff56aada303c1c0ec549211.png" alt="FlightAware Flight Tracker" align="center" width="40" height="40" /> | **[FlightAware Flight Tracker](https://testflight.apple.com/join/YDNhKtAe)** |
 | <img src="https://img.departures.to/appicons/756faa860f9a2823e355113c70f6b0b452db1247.png" alt="Nearly Departed" align="center" width="40" height="40" /> | **[Nearly Departed](https://testflight.apple.com/join/o5EYK2Te)** |
@@ -673,7 +670,6 @@
 | <img src="https://img.departures.to/appicons/e69fac179eee7b786ad548dd767c4236617a9d24.png" alt="WMEditor" align="center" width="40" height="40" /> | **[WMEditor](https://testflight.apple.com/join/jr7twq7L)** |
 | <img src="https://img.departures.to/appicons/d0de98e23ea99d120f472d2de263d22432f9892b.png" alt="OsmAnd Maps Travel & Navigate" align="center" width="40" height="40" /> | **[OsmAnd Maps Travel & Navigate](https://testflight.apple.com/join/7poGNCKy)** |
 || => **[TVOS](https://departures.to/tags/tvos)** <= |
-| <img src="https://img.departures.to/appicons/75e7bc431a5b23e70f6b728b683eefb60bf5bf58.png" alt="aBackdrop" align="center" width="40" height="40" /> | **[aBackdrop](https://testflight.apple.com/join/IuCS9G8K)** |
 | <img src="https://img.departures.to/appicons/a6cde22d063f96d63c3db41ad5a5c897dfb2ee5d.png" alt="F1ATV" align="center" width="40" height="40" /> | **[F1ATV](https://testflight.apple.com/join/NRswe1IZ)** |
 || => **[UTILITY](https://departures.to/tags/utility)** <= |
 | <img src="https://img.departures.to/appicons/53ce320eca424a7f2fe7d909c59cbe2c89710058.png" alt="Streamie" align="center" width="40" height="40" /> | **[Streamie](https://testflight.apple.com/join/qcOTQQaL)** |
@@ -683,6 +679,7 @@
 | <img src="https://img.departures.to/appicons/5b1f69634a2e6c7bc5135f5d9eeaa8bd208f4949.png" alt="Capture - Quick Notes" align="center" width="40" height="40" /> | **[Capture - Quick Notes](https://testflight.apple.com/join/iipKV4OA)** |
 | <img src="https://img.departures.to/appicons/24b01bb22ea4392febc207d75351947d9f2c72c5.png" alt="Scrcpy Remote" align="center" width="40" height="40" /> | **[Scrcpy Remote](https://testflight.apple.com/join/9ZE6xhRt)** |
 | <img src="https://img.departures.to/appicons/80b985f1c8c038cf2db19d7a45c87889d6914fac.png" alt="TRViS" align="center" width="40" height="40" /> | **[TRViS](https://testflight.apple.com/join/yYBaAdqX)** |
+| <img src="https://img.departures.to/appicons/2b0a595c8a0a310171976981e7a4bc09d4eecfeb.png" alt="Flow Internet with Wireguard" align="center" width="40" height="40" /> | **[Flow Internet with Wireguard](https://testflight.apple.com/join/cZXuPTJU)** |
 | <img src="https://img.departures.to/appicons/97b9a658623460596656365d114109168ca23613.png" alt="MyAI Images" align="center" width="40" height="40" /> | **[MyAI Images](https://testflight.apple.com/join/chct5HYu)** |
 | <img src="https://img.departures.to/appicons/fcedbd97bea4ced7c812a70655deb85c76023f33.png" alt="Posts by Read.cv" align="center" width="40" height="40" /> | **[Posts by Read.cv](https://testflight.apple.com/join/OTiyTXl2)** |
 | <img src="https://img.departures.to/appicons/4347fd661d7e4b68d8cd3c37ba7aeac760746f3d.png" alt="Air Quality View" align="center" width="40" height="40" /> | **[Air Quality View](https://testflight.apple.com/join/xrT5APwM)** |
@@ -704,6 +701,7 @@
 | <img src="https://img.departures.to/appicons/73fdf8534967ebe969a5715d6a4d77db04751fb4.png" alt="QR Pop" align="center" width="40" height="40" /> | **[QR Pop](https://testflight.apple.com/join/pW7vfuS0)** |
 | <img src="https://img.departures.to/appicons/ac43c618b420ce23d2e04704955d91413efad172.png" alt="McClockface" align="center" width="40" height="40" /> | **[McClockface](https://testflight.apple.com/join/ReXtfPlt)** |
 | <img src="https://img.departures.to/appicons/f5a0e4bf7a56fe49d8290d03f1321422150b84d7.png" alt="Anytype: Private Notes" align="center" width="40" height="40" /> | **[Anytype: Private Notes](https://testflight.apple.com/join/BPMIR4Fk)** |
+| <img src="https://img.departures.to/appicons/c9662ea6a4e34290500c08869c9e57d02b827241.png" alt="Cowrite AI powered by GPT-4" align="center" width="40" height="40" /> | **[Cowrite AI powered by GPT-4](https://testflight.apple.com/join/2Msd7D08)** |
 | <img src="https://img.departures.to/appicons/4b104f284c0cf5608541c3cccf9a7e328129742f.png" alt="UniFi" align="center" width="40" height="40" /> | **[UniFi](https://testflight.apple.com/join/Pkd9a658)** |
 | <img src="https://img.departures.to/appicons/a7f1bf6d3c6c46a3667cfaeab5a75553de20a5ab.png" alt="Shadow PC" align="center" width="40" height="40" /> | **[Shadow PC](https://testflight.apple.com/join/PxpSW79P)** |
 | <img src="https://img.departures.to/appicons/940c97e44ab6b4c4c43e68b72d0143870a9c2e2d.png" alt="Salesforce" align="center" width="40" height="40" /> | **[Salesforce](https://testflight.apple.com/join/PdNDqlHt)** |
@@ -715,8 +713,8 @@
 | <img src="https://img.departures.to/appicons/9d57ddd140d9fd28edc09274f2c804657256fe1d.png" alt="Streaks" align="center" width="40" height="40" /> | **[Streaks](https://testflight.apple.com/join/aHien1GX)** |
 | <img src="https://img.departures.to/appicons/144fbc2b50812f90812372defda4c219b84b5132.png" alt="JeeConnect" align="center" width="40" height="40" /> | **[JeeConnect](https://testflight.apple.com/join/luZsKILI)** |
 | <img src="https://img.departures.to/appicons/7bbbab88fa0b8232eff776068a69d7e8518f2d29.png" alt="Ulysses: Writing App" align="center" width="40" height="40" /> | **[Ulysses: Writing App](https://testflight.apple.com/join/r7ehG0dQ)** |
-| <img src="https://img.departures.to/appicons/d235367176da094f5415607ea4ae6fc9762f95f9.png" alt="Penedex" align="center" width="40" height="40" /> | **[Penedex](https://testflight.apple.com/join/iQxlIZAu)** |
 | <img src="https://img.departures.to/appicons/bd22a83f522c79dfe81327419394b99427a75f7d.png" alt="Drivometer" align="center" width="40" height="40" /> | **[Drivometer](https://testflight.apple.com/join/LKnK7eup)** |
+| <img src="https://img.departures.to/appicons/d235367176da094f5415607ea4ae6fc9762f95f9.png" alt="Penedex" align="center" width="40" height="40" /> | **[Penedex](https://testflight.apple.com/join/iQxlIZAu)** |
 | <img src="https://img.departures.to/appicons/a04e731a208fddc02de2cb1b6b9a485cd233c018.png" alt="MinuteTaker - Meeting Notes" align="center" width="40" height="40" /> | **[MinuteTaker - Meeting Notes](https://testflight.apple.com/join/Kl2MqemH)** |
 | <img src="https://img.departures.to/appicons/e1053a2716ed126179f9d43f7dc4507453f9c5e5.png" alt="Tap to Sign" align="center" width="40" height="40" /> | **[Tap to Sign](https://testflight.apple.com/join/cjPYii2o)** |
 | <img src="https://img.departures.to/appicons/3901d7f62f8cfd6ed32f7281de08a255b27dc833.png" alt="Participant for Zoom" align="center" width="40" height="40" /> | **[Participant for Zoom](https://testflight.apple.com/join/iwZesoSE)** |
@@ -730,8 +728,8 @@
 | <img src="https://img.departures.to/appicons/9bf91aa47abcf6e97ca84eb87327e6f85ed07a5d.png" alt="Hand Mirror" align="center" width="40" height="40" /> | **[Hand Mirror](https://testflight.apple.com/join/bnUjZUkE)** |
 | <img src="https://img.departures.to/appicons/73f32330cd151365bb65c959ff8af14a0349f9ed.png" alt="Microsoft Stream: Videos" align="center" width="40" height="40" /> | **[Microsoft Stream: Videos](https://testflight.apple.com/join/PTbaSXrf)** |
 | <img src="https://img.departures.to/appicons/3e711061bc208c3ff752b5455c16ebfa64ca9c58.png" alt="Crafted Pour" align="center" width="40" height="40" /> | **[Crafted Pour](https://testflight.apple.com/join/LheYynyu)** |
-| <img src="https://img.departures.to/appicons/278ceb15d3ff4657cbf88557a9c7a3d3931aa179.png" alt="Vipps MT" align="center" width="40" height="40" /> | **[Vipps MT](https://testflight.apple.com/join/hTAYrwea)** |
 | <img src="https://img.departures.to/appicons/b4ff4e2611354cde7519f3ddc56452c952468db0.png" alt="PDF Viewer - Annotation Expert" align="center" width="40" height="40" /> | **[PDF Viewer - Annotation Expert](https://testflight.apple.com/join/6IMUtZ8n)** |
+| <img src="https://img.departures.to/appicons/278ceb15d3ff4657cbf88557a9c7a3d3931aa179.png" alt="Vipps MT" align="center" width="40" height="40" /> | **[Vipps MT](https://testflight.apple.com/join/hTAYrwea)** |
 | <img src="https://img.departures.to/appicons/e9d0ef804fca1b844773909312af0c3ac384c36f.png" alt="Spark Mail + AI: Email Inbox" align="center" width="40" height="40" /> | **[Spark Mail + AI: Email Inbox](https://testflight.apple.com/join/O2wj7i0x)** |
 | <img src="https://img.departures.to/appicons/8caec667174cb26de3e52da6ffcc85073b5eada5.png" alt="WordPress – Website Builder" align="center" width="40" height="40" /> | **[WordPress – Website Builder](https://testflight.apple.com/join/AkJQt8Pw)** |
 | <img src="https://img.departures.to/appicons/fa0ab85f682f79a7ca59ba395e2b52d4e1a3167f.png" alt="Citations" align="center" width="40" height="40" /> | **[Citations](https://testflight.apple.com/join/vxobmPVp)** |
@@ -745,6 +743,7 @@
 | <img src="https://img.departures.to/appicons/1d88ba5d25b47d676b1640410256e3062ba1d4d7.png" alt="WayAround - Tag and Scan" align="center" width="40" height="40" /> | **[WayAround - Tag and Scan](https://testflight.apple.com/join/QdBenBfS)** |
 | <img src="https://img.departures.to/appicons/d1ef82e9d4f9ea63e1441599a27785e28e08bd14.png" alt="Octopus Energy" align="center" width="40" height="40" /> | **[Octopus Energy](https://testflight.apple.com/join/c9II11da)** |
 | <img src="https://img.departures.to/appicons/cce9406b404cbb880a75205b981972c55745ab80.png" alt="StageLight - DMX Controller" align="center" width="40" height="40" /> | **[StageLight - DMX Controller](https://testflight.apple.com/join/X1Ja2Mai)** |
+| <img src="https://img.departures.to/appicons/144e8dfbd9fe6b8e4cd7551062bb72ac92af7bed.png" alt="PCalc" align="center" width="40" height="40" /> | **[PCalc](https://testflight.apple.com/join/qCCdSLT1)** |
 | <img src="https://img.departures.to/appicons/603964db2bdd86c36034bcef367e460e1950e06f.png" alt="TimeDraw" align="center" width="40" height="40" /> | **[TimeDraw](https://testflight.apple.com/join/rld66nJY)** |
 | <img src="https://img.departures.to/appicons/94953593d6236c551a563fd9dfa158892ed5f0aa.png" alt="Surge Network Tester" align="center" width="40" height="40" /> | **[Surge Network Tester](https://testflight.apple.com/join/ABWQfJsU)** |
 | <img src="https://img.departures.to/appicons/1e80ad125c6e71d2ced0f8cfedcb7943ba4da68b.png" alt="SOTAMĀT SOTA / POTA Spotting" align="center" width="40" height="40" /> | **[SOTAMĀT SOTA / POTA Spotting](https://testflight.apple.com/join/UQuW6g1E)** |
@@ -795,6 +794,7 @@
 | <img src="https://img.departures.to/appicons/8d4ba49a2a013db734faa67519403245afb19c22.png" alt="Cronica" align="center" width="40" height="40" /> | **[Cronica](https://testflight.apple.com/join/T8kwk6Gb)** |
 | <img src="https://img.departures.to/appicons/bd605a90bddefa472bec288598f3363d34e0cfa1.png" alt="Airbuds Widget" align="center" width="40" height="40" /> | **[Airbuds Widget](https://testflight.apple.com/join/0nEOUD24)** |
 | <img src="https://img.departures.to/appicons/f7893648ad01878f63062d0a0e2211a574c5a900.png" alt="西瓜视频 - 电影《梅艳芳》热播" align="center" width="40" height="40" /> | **[西瓜视频 - 电影《梅艳芳》热播](https://testflight.apple.com/join/ZkSx6V4m)** |
+| <img src="https://img.departures.to/appicons/fe52ac1103c035b5efbd46b3b93b2111a626c8a7.png" alt="AiChat - LLM" align="center" width="40" height="40" /> | **[AiChat - LLM](https://testflight.apple.com/join/GR4BOt2M)** |
 | <img src="https://img.departures.to/appicons/6079f807d6a3cbb2bf3182bad2fc5c2e8ee92403.png" alt="VN Video Editor" align="center" width="40" height="40" /> | **[VN Video Editor](https://testflight.apple.com/join/FvCj4Kia)** |
 | <img src="https://img.departures.to/appicons/4c37fee4124dc96b542e75c8325ee00873ed2285.png" alt="CapCut - Video Editor" align="center" width="40" height="40" /> | **[CapCut - Video Editor](https://testflight.apple.com/join/Gu9kI6ky)** |
 | <img src="https://img.departures.to/appicons/0dbe9392ff1a3d57c473b5dc40d883ba2d8c46d8.png" alt="记账伴侣" align="center" width="40" height="40" /> | **[记账伴侣](https://testflight.apple.com/join/0X1I0iVK)** |
@@ -814,6 +814,7 @@
 | <img src="https://img.departures.to/appicons/9b613a2e2be033e9483cadb616c83ca16ffbe4d5.png" alt="WatchTube" align="center" width="40" height="40" /> | **[WatchTube](https://testflight.apple.com/join/tpwIQJIR)** |
 || => **[VISIONOS](https://departures.to/tags/visionOS)** <= |
 || => **[VPN](https://departures.to/tags/vpn)** <= |
+| <img src="https://img.departures.to/appicons/2b0a595c8a0a310171976981e7a4bc09d4eecfeb.png" alt="Flow Internet with Wireguard" align="center" width="40" height="40" /> | **[Flow Internet with Wireguard](https://testflight.apple.com/join/cZXuPTJU)** |
 | <img src="https://img.departures.to/appicons/abf8f22f9c32f68a429fdd19603acd5fa9ec5866.png" alt="ExpressVPN - VPN Fast & Secure" align="center" width="40" height="40" /> | **[ExpressVPN - VPN Fast & Secure](https://testflight.apple.com/join/6flRfmYW)** |
 | <img src="https://img.departures.to/appicons/75fddc7058cf63ff3232918bf32ff66d0bf7280d.png" alt="Cisco Secure Client" align="center" width="40" height="40" /> | **[Cisco Secure Client](https://testflight.apple.com/join/N0QLSq2c)** |
 | <img src="https://img.departures.to/appicons/6c91650a3effcef694615e9ccf7c2f592ae73a6c.png" alt="Kaspersky: VPN & Antivirus" align="center" width="40" height="40" /> | **[Kaspersky: VPN & Antivirus](https://testflight.apple.com/join/UgSdu1K8)** |
@@ -846,7 +847,6 @@
 | <img src="https://img.departures.to/appicons/53e82195adf033b652850c2c6f34bff2c7495f29.png" alt="Alpenglow - Sunset Prediction" align="center" width="40" height="40" /> | **[Alpenglow - Sunset Prediction](https://testflight.apple.com/join/61DuEizb)** |
 || => **[WIDGETS](https://departures.to/tags/widgets)** <= |
 | <img src="https://img.departures.to/appicons/32629e75b780b75fd341fc7baf8a708e5c4bdd9f.png" alt="Lili Widget" align="center" width="40" height="40" /> | **[Lili Widget](https://testflight.apple.com/join/7muEQvwR)** |
-| <img src="https://img.departures.to/appicons/025958c662006580326fbe36d2ad67c2db456075.png" alt="Tic Tac Toe Classic Widget" align="center" width="40" height="40" /> | **[Tic Tac Toe Classic Widget](https://testflight.apple.com/join/hqhKImdJ)** |
 | <img src="https://img.departures.to/appicons/47974cfb912d4ca092379c19832a11092d16451e.png" alt="Peaks: Biorhythm Tracker" align="center" width="40" height="40" /> | **[Peaks: Biorhythm Tracker](https://testflight.apple.com/join/Z0KOoZht)** |
 | <img src="https://img.departures.to/appicons/1db5a945a6bce70deac803f885792c201234cc74.png" alt="Workout Sessions" align="center" width="40" height="40" /> | **[Workout Sessions](https://testflight.apple.com/join/dDSurLeT)** |
 | <img src="https://img.departures.to/appicons/c64a976f9073d27f67e50ca1174e87fcb80d8a9f.png" alt="Big Digital Clock Widget" align="center" width="40" height="40" /> | **[Big Digital Clock Widget](https://testflight.apple.com/join/X1JcwZS3)** |
@@ -858,7 +858,6 @@
 | <img src="https://img.departures.to/appicons/a9b397d7d06b8e82a320dba41ccc26d30e0f214e.png" alt="Paku - Air Quality App" align="center" width="40" height="40" /> | **[Paku - Air Quality App](https://testflight.apple.com/join/mkGhI0p9)** |
 | <img src="https://img.departures.to/appicons/eadbdff1d3f025e9a18eadd31684b7bcd4784b7a.png" alt="HiFutureSelf - Future Messages" align="center" width="40" height="40" /> | **[HiFutureSelf - Future Messages](https://testflight.apple.com/join/zRKU0Od8)** |
 | <img src="https://img.departures.to/appicons/ef7191b2863092af039a089edbb73951d6f975e5.png" alt="World Clock Time Widget" align="center" width="40" height="40" /> | **[World Clock Time Widget](https://testflight.apple.com/join/8wa9T053)** |
-| <img src="https://img.departures.to/appicons/470b673846cd6a0115eb04beb90389847dce4fc9.png" alt="MTG Scanner - Lion’s Eye" align="center" width="40" height="40" /> | **[MTG Scanner - Lion’s Eye](https://testflight.apple.com/join/yj6QDl0H)** |
 | <img src="https://img.departures.to/appicons/69f2007862712593d39523caf869d87b1895b677.png" alt="Widget Monitor" align="center" width="40" height="40" /> | **[Widget Monitor](https://testflight.apple.com/join/4iTWxzPn)** |
 | <img src="https://img.departures.to/appicons/ba54b476545fd6c0a50c90279da1b39450258029.png" alt="WidgetHealth - Widget & Health" align="center" width="40" height="40" /> | **[WidgetHealth - Widget & Health](https://testflight.apple.com/join/G0Wh2Ft0)** |
 | <img src="https://img.departures.to/appicons/48aa9602ec703124846a42445232baca40ab4f19.png" alt="Task Flow beta" align="center" width="40" height="40" /> | **[Task Flow beta](https://testflight.apple.com/join/JyqxBPFf)** |
