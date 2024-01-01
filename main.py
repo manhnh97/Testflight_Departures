@@ -21,7 +21,7 @@ def get_testflight_data(url_testflight):
     name_testflight = name_testflight.replace('|', '-')
     hashtag_testflights = re.findall(r"\b\w+\b", name_testflight)
     hashtag_testflights = " ".join(["#" + hashtag.upper() for hashtag in hashtag_testflights])
-    return f"| <img src=\"{background_image_url}\" alt=\"{name_testflight}\" align=\"center\" width=\"40\" height=\"40\" /> | **[{name_testflight}]({url_testflight})** |\n"
+    return f"| **{name_testflight}** | {hashtag_testflights}<br />{url_testflight} |"
 
 def main():
     with open(txtResult_AvailableTestflight, 'w', encoding='utf-8') as txtResult_AvailableTestflight_file:
@@ -31,7 +31,7 @@ def main():
 
         nowTime = datetime.now().strftime("%d/%m/%Y %I:%M %p")
         txtResult_AvailableTestflight_file.write(f"# Beta Apps is available\t[{nowTime}]\n")
-        txtResult_AvailableTestflight_file.write('| Image | Name | \n | --- | --- | \n')
+        txtResult_AvailableTestflight_file.write('| Name | #HASHTAG | \n | --- | --- | \n')
 
         if response.status_code == 200:
             page_number = 1
@@ -58,12 +58,13 @@ def main():
                         for a_tag in a_tags:
                             appsOpening = a_tag.findAll('span', {"class": "w-2 h-2 inline-block bg-green-400 rounded-full"})
                             if appsOpening:
-                                # print(a_tag["href"])
-                                # exit()
                                 url_testflight = a_tag["href"]
                                 txtResult_AvailableTestflight_file.write(get_testflight_data(url_testflight))
+                                exit()
+                    exit()
                     page_number += 1
                 page_number = 1
+            exit()
         else:
             print("Failed to retrieve the web page. Status code:", response.status_code)
 
