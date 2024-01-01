@@ -21,7 +21,7 @@ def get_testflight_data(url_testflight):
     name_testflight = name_testflight.replace('|', '-')
     hashtag_testflights = re.findall(r"\b\w+\b", name_testflight)
     hashtag_testflights = " ".join(["#" + hashtag.upper() for hashtag in hashtag_testflights])
-    return f"| **{name_testflight}** | {hashtag_testflights}<br />{url_testflight} |"
+    return f"| **{name_testflight}** | {hashtag_testflights}<br />{url_testflight} |\n"
 
 def main():
     with open(txtResult_AvailableTestflight, 'w', encoding='utf-8') as txtResult_AvailableTestflight_file:
@@ -43,7 +43,7 @@ def main():
             for categories in div_with_class.findAll("a", href=True):
                 linkCategory = categories['href']
                 category = linkCategory.split('/')[-1].upper()
-                txtResult_AvailableTestflight_file.write(f"|| => **[{category}]({linkCategory})** <= |\n")
+                txtResult_AvailableTestflight_file.write(f"| => **[{category}]({linkCategory})** <= ||\n")
 
                 while True:
                     urlPage = f'{linkCategory}?page={str(page_number)}'
