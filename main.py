@@ -60,11 +60,8 @@ def main():
                             if appsOpening:
                                 url_testflight = a_tag["href"]
                                 txtResult_AvailableTestflight_file.write(get_testflight_data(url_testflight))
-                                exit()
-                    exit()
                     page_number += 1
                 page_number = 1
-            exit()
         else:
             print("Failed to retrieve the web page. Status code:", response.status_code)
 
