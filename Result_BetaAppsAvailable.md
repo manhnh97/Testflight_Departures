@@ -1,4 +1,4 @@
-# Beta Apps is available	[07/01/2024 05:37 PM]
+# Beta Apps is available	[08/01/2024 07:55 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -61,8 +61,8 @@
 | **Bielaruskaja Lacinka** | #BIELARUSKAJA #LACINKA<br />https://testflight.apple.com/join/pfIj5vHJ |
 | **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Citations** | #CITATIONS<br />https://testflight.apple.com/join/vxobmPVp |
-| **Verbs German Dictionary** | #VERBS #GERMAN #DICTIONARY<br />https://testflight.apple.com/join/w2VyNpay |
 | **Wuxiaworld** | #WUXIAWORLD<br />https://testflight.apple.com/join/bcMoIc0Q |
+| **Verbs German Dictionary** | #VERBS #GERMAN #DICTIONARY<br />https://testflight.apple.com/join/w2VyNpay |
 | **Wattpad - Read & Write Stories** | #WATTPAD #READ #WRITE #STORIES<br />https://testflight.apple.com/join/CXefLgKK |
 | => **[BROWSER](https://departures.to/tags/browser)** <= ||
 | **Carbon Browser** | #CARBON #BROWSER<br />https://testflight.apple.com/join/Nd0sc84V |
@@ -204,7 +204,6 @@
 | **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
 | **Fraction Steps: Learn Visually** | #FRACTION #STEPS #LEARN #VISUALLY<br />https://testflight.apple.com/join/VhzZ7q96 |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
@@ -470,7 +469,6 @@
 | **SOTAMĀT SOTA / POTA Spotting** | #SOTAMĀT #SOTA #POTA #SPOTTING<br />https://testflight.apple.com/join/UQuW6g1E |
 | **Passio GO** | #PASSIO #GO<br />https://testflight.apple.com/join/GkoL7RfS |
 | **OpenTracks - Itinéraires & GPS** | #OPENTRACKS #ITINÉRAIRES #GPS<br />https://testflight.apple.com/join/RyRKY1FK |
-| **WMEditor** | #WMEDITOR<br />https://testflight.apple.com/join/jr7twq7L |
 | **Mapy.cz navigation & maps** | #MAPY #CZ #NAVIGATION #MAPS<br />https://testflight.apple.com/join/2nXnREvO |
 | **TomTom AmiGO GPS Maps, Traffic** | #TOMTOM #AMIGO #GPS #MAPS #TRAFFIC<br />https://testflight.apple.com/join/IOxARzyI |
 | **Organic Maps: Hike Bike Drive** | #ORGANIC #MAPS #HIKE #BIKE #DRIVE<br />https://testflight.apple.com/join/lrKCl08I |
@@ -604,12 +602,11 @@
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **tomoropomodoro** | #TOMOROPOMODORO<br />https://testflight.apple.com/join/kINXqKh0 |
 | **iCountdown** | #ICOUNTDOWN<br />https://testflight.apple.com/join/np8EtaPV |
-| **iEventTimer** | #IEVENTTIMER<br />https://testflight.apple.com/join/u7rYMxYN |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
 | **Tally • Quick Counter** | #TALLY #QUICK #COUNTER<br />https://testflight.apple.com/join/zbUiqcxg |
 | **Hourglass Time** | #HOURGLASS #TIME<br />https://testflight.apple.com/join/1XAS00qA |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
 | **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
+| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | **Toggl Track: Hours & Time Log** | #TOGGL #TRACK #HOURS #TIME #LOG<br />https://testflight.apple.com/join/8od30iFa |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
@@ -633,7 +630,6 @@
 | **OpenTracks - Itinéraires & GPS** | #OPENTRACKS #ITINÉRAIRES #GPS<br />https://testflight.apple.com/join/RyRKY1FK |
 | **TrackMyTour** | #TRACKMYTOUR<br />https://testflight.apple.com/join/tv9dt6po |
 | **Ride Wait Times: Know The Wait** | #RIDE #WAIT #TIMES #KNOW #THE #WAIT<br />https://testflight.apple.com/join/yQNmMRwB |
-| **WMEditor** | #WMEDITOR<br />https://testflight.apple.com/join/jr7twq7L |
 | **OsmAnd Maps Travel & Navigate** | #OSMAND #MAPS #TRAVEL #NAVIGATE<br />https://testflight.apple.com/join/7poGNCKy |
 | => **[TVOS](https://departures.to/tags/tvos)** <= ||
 | **F1ATV** | #F1ATV<br />https://testflight.apple.com/join/NRswe1IZ |
@@ -676,7 +672,6 @@
 | **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
 | **MinuteTaker - Meeting Notes** | #MINUTETAKER #MEETING #NOTES<br />https://testflight.apple.com/join/Kl2MqemH |
 | **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
-| **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
 | **Tally • Quick Counter** | #TALLY #QUICK #COUNTER<br />https://testflight.apple.com/join/zbUiqcxg |
 | **Standard Fleet** | #STANDARD #FLEET<br />https://testflight.apple.com/join/gjoO6enQ |
 | **Text Workflow: Text Converter** | #TEXT #WORKFLOW #TEXT #CONVERTER<br />https://testflight.apple.com/join/ERvvaKA8 |
