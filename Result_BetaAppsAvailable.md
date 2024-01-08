@@ -1,4 +1,4 @@
-# Beta Apps is available	[08/01/2024 11:19 AM]
+# Beta Apps is available	[08/01/2024 04:02 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -93,6 +93,7 @@
 | **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **Wire • Secure Messenger** | #WIRE #SECURE #MESSENGER<br />https://testflight.apple.com/join/TiFZsCXi |
+| **Messenger** | #MESSENGER<br />https://testflight.apple.com/join/njVWbUm0 |
 | **Agora Chat** | #AGORA #CHAT<br />https://testflight.apple.com/join/MO0UuYJH |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **AirChat: Peer-to-Peer Chat** | #AIRCHAT #PEER #TO #PEER #CHAT<br />https://testflight.apple.com/join/ebShbRKm |
@@ -205,6 +206,8 @@
 | **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
 | **Fraction Steps: Learn Visually** | #FRACTION #STEPS #LEARN #VISUALLY<br />https://testflight.apple.com/join/VhzZ7q96 |
+| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
+| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | **MyPace - Control Your I-Pace** | #MYPACE #CONTROL #YOUR #I #PACE<br />https://testflight.apple.com/join/SPMprsWo |
@@ -316,8 +319,8 @@
 | **Brew Coffee** | #BREW #COFFEE<br />https://testflight.apple.com/join/yo3qrfji |
 | **RecipeChef: Recipe Manager** | #RECIPECHEF #RECIPE #MANAGER<br />https://testflight.apple.com/join/j5urtlwj |
 | **Untappd - Discover Beer** | #UNTAPPD #DISCOVER #BEER<br />https://testflight.apple.com/join/EbIrz3mA |
-| **Swiggy Food & Grocery Delivery** | #SWIGGY #FOOD #GROCERY #DELIVERY<br />https://testflight.apple.com/join/IERuiSEL |
 | **FoodShiner: Pantry Companion** | #FOODSHINER #PANTRY #COMPANION<br />https://testflight.apple.com/join/mMsAFf8q |
+| **Swiggy Food & Grocery Delivery** | #SWIGGY #FOOD #GROCERY #DELIVERY<br />https://testflight.apple.com/join/IERuiSEL |
 | => **[GAMES](https://departures.to/tags/games)** <= ||
 | **SweeLOL(β)Just Do it 4 the LOL** | #SWEELOL #Β #JUST #DO #IT #4 #THE #LOL<br />https://testflight.apple.com/join/FT9n1ncG |
 | **War Robots Test** | #WAR #ROBOTS #TEST<br />https://testflight.apple.com/join/aE7qTf9G |
@@ -338,7 +341,7 @@
 | **In Next Life** | #IN #NEXT #LIFE<br />https://testflight.apple.com/join/D50l7OXY |
 | **Pex - Relaxing Puzzle Game** | #PEX #RELAXING #PUZZLE #GAME<br />https://testflight.apple.com/join/8rxzeWwn |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **GamingBuddy Discover new games** | #GAMINGBUDDY #DISCOVER #NEW #GAMES<br />https://testflight.apple.com/join/yW1ug7sg |
+| **GamingBuddy: Gamer's calendar** | #GAMINGBUDDY #GAMER #S #CALENDAR<br />https://testflight.apple.com/join/yW1ug7sg |
 | **Addagrams: Word Puzzle Games** | #ADDAGRAMS #WORD #PUZZLE #GAMES<br />https://testflight.apple.com/join/yHVGpzXX |
 | **Lego Sky Island Escape!** | #LEGO #SKY #ISLAND #ESCAPE<br />https://testflight.apple.com/join/BDWu8n5P |
 | **Pocket GM 3: Football Sim** | #POCKET #GM #3 #FOOTBALL #SIM<br />https://testflight.apple.com/join/rnykOyO0 |
@@ -400,8 +403,8 @@
 | **Momentory - Mindful Journal** | #MOMENTORY #MINDFUL #JOURNAL<br />https://testflight.apple.com/join/8Xbm7kwK |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
 | **Landscape: Mountaineering** | #LANDSCAPE #MOUNTAINEERING<br />https://testflight.apple.com/join/SrVraMCy |
-| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
+| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
 | **Balance: Meditation & Sleep** | #BALANCE #MEDITATION #SLEEP<br />https://testflight.apple.com/join/5V7gW8Zc |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **WidgetHealth - Widget & Health** | #WIDGETHEALTH #WIDGET #HEALTH<br />https://testflight.apple.com/join/G0Wh2Ft0 |
@@ -581,6 +584,7 @@
 | **Fedigardens** | #FEDIGARDENS<br />https://testflight.apple.com/join/31AZNhx9 |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
 | **Gluon for Micro.blog** | #GLUON #FOR #MICRO #BLOG<br />https://testflight.apple.com/join/RwbLiFcR |
+| **Messenger** | #MESSENGER<br />https://testflight.apple.com/join/njVWbUm0 |
 | **SOTAMĀT SOTA / POTA Spotting** | #SOTAMĀT #SOTA #POTA #SPOTTING<br />https://testflight.apple.com/join/UQuW6g1E |
 | **Nextdoor: Neighborhood Network** | #NEXTDOOR #NEIGHBORHOOD #NETWORK<br />https://testflight.apple.com/join/hWa4fUQe |
 | **Pelando: Promoções e Cupons** | #PELANDO #PROMOÇÕES #E #CUPONS<br />https://testflight.apple.com/join/yHerrRYY |
@@ -656,6 +660,7 @@
 | **Pill Pal - Medication Reminder** | #PILL #PAL #MEDICATION #REMINDER<br />https://testflight.apple.com/join/QvxdTsrY |
 | **Access: Locked Notes** | #ACCESS #LOCKED #NOTES<br />https://testflight.apple.com/join/j9m6NZJV |
 | **Scanner App: Genius Scan** | #SCANNER #APP #GENIUS #SCAN<br />https://testflight.apple.com/join/v2xNVdTt |
+| **Malwarebytes - Mobile Security** | #MALWAREBYTES #MOBILE #SECURITY<br />https://testflight.apple.com/join/3jvaSuyE |
 | **・MEGA・** | #MEGA<br />https://testflight.apple.com/join/4x1P5Tnx |
 | **Speechless: audios to texts** | #SPEECHLESS #AUDIOS #TO #TEXTS<br />https://testflight.apple.com/join/LDy50x1A |
 | **KeyboardKit** | #KEYBOARDKIT<br />https://testflight.apple.com/join/i46nqNAM |
@@ -685,8 +690,8 @@
 | **Hand Mirror** | #HAND #MIRROR<br />https://testflight.apple.com/join/bnUjZUkE |
 | **Microsoft Stream: Videos** | #MICROSOFT #STREAM #VIDEOS<br />https://testflight.apple.com/join/PTbaSXrf |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
-| **Vipps MT** | #VIPPS #MT<br />https://testflight.apple.com/join/hTAYrwea |
 | **PDF Viewer - Annotation Expert** | #PDF #VIEWER #ANNOTATION #EXPERT<br />https://testflight.apple.com/join/6IMUtZ8n |
+| **Vipps MT** | #VIPPS #MT<br />https://testflight.apple.com/join/hTAYrwea |
 | **Lock Launcher - Screen Widgets** | #LOCK #LAUNCHER #SCREEN #WIDGETS<br />https://testflight.apple.com/join/clHxFnLa |
 | **Spark Mail + AI: Email Inbox** | #SPARK #MAIL #AI #EMAIL #INBOX<br />https://testflight.apple.com/join/O2wj7i0x |
 | **WordPress – Website Builder** | #WORDPRESS #WEBSITE #BUILDER<br />https://testflight.apple.com/join/AkJQt8Pw |
@@ -767,7 +772,6 @@
 | => **[VISIONOS](https://departures.to/tags/visionOS)** <= ||
 | => **[VPN](https://departures.to/tags/vpn)** <= ||
 | **Maikr** | #MAIKR<br />https://testflight.apple.com/join/61cBo7QN |
-| **ExpressVPN - VPN Fast & Secure** | #EXPRESSVPN #VPN #FAST #SECURE<br />https://testflight.apple.com/join/6flRfmYW |
 | **Cisco Secure Client** | #CISCO #SECURE #CLIENT<br />https://testflight.apple.com/join/N0QLSq2c |
 | **Kaspersky: VPN & Antivirus** | #KASPERSKY #VPN #ANTIVIRUS<br />https://testflight.apple.com/join/UgSdu1K8 |
 | **IVPN - Secure VPN for Privacy** | #IVPN #SECURE #VPN #FOR #PRIVACY<br />https://testflight.apple.com/join/FnmEzHHb |
@@ -805,3 +809,4 @@
 | **HiFutureSelf - Future Messages** | #HIFUTURESELF #FUTURE #MESSAGES<br />https://testflight.apple.com/join/zRKU0Od8 |
 | **WidgetHealth - Widget & Health** | #WIDGETHEALTH #WIDGET #HEALTH<br />https://testflight.apple.com/join/G0Wh2Ft0 |
 | **Task Flow beta** | #TASK #FLOW #BETA<br />https://testflight.apple.com/join/JyqxBPFf |
+| **Smart Photo Widget** | #SMART #PHOTO #WIDGET<br />https://testflight.apple.com/join/sOWILfC3 |
