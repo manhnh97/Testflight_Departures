@@ -20,6 +20,8 @@ goto :commitGITHUB
 	git add "%Result_BetaAppsAvailable%"
 	git commit -m "Updated!"
 	git push origin master
+	
+	rundll32 user32.dll,MessageBeep
 goto :exit
 	
 :exit
