@@ -1,4 +1,4 @@
-# Beta Apps is available	[09/01/2024 04:54 PM]
+# Beta Apps is available	[09/01/2024 08:42 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -52,6 +52,7 @@
 | **Space-Time Adventure Tours** | #SPACE #TIME #ADVENTURE #TOURS<br />https://testflight.apple.com/join/f1ZYpuXl |
 | **WayAround - Tag and Scan** | #WAYAROUND #TAG #AND #SCAN<br />https://testflight.apple.com/join/QdBenBfS |
 | **Landscape: Mountaineering** | #LANDSCAPE #MOUNTAINEERING<br />https://testflight.apple.com/join/SrVraMCy |
+| **REACH Explorer** | #REACH #EXPLORER<br />https://testflight.apple.com/join/A12tOOLf |
 | => **[BOOKS](https://departures.to/tags/books)** <= ||
 | **Metale** | #METALE<br />https://testflight.apple.com/join/S1W66Ebs |
 | **微信读书** | #微信读书<br />https://testflight.apple.com/join/5MWjLpYl |
@@ -62,8 +63,8 @@
 | **Bielaruskaja Lacinka** | #BIELARUSKAJA #LACINKA<br />https://testflight.apple.com/join/pfIj5vHJ |
 | **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Citations** | #CITATIONS<br />https://testflight.apple.com/join/vxobmPVp |
-| **Verbs German Dictionary** | #VERBS #GERMAN #DICTIONARY<br />https://testflight.apple.com/join/w2VyNpay |
 | **Wuxiaworld** | #WUXIAWORLD<br />https://testflight.apple.com/join/bcMoIc0Q |
+| **Verbs German Dictionary** | #VERBS #GERMAN #DICTIONARY<br />https://testflight.apple.com/join/w2VyNpay |
 | **Wattpad - Read & Write Stories** | #WATTPAD #READ #WRITE #STORIES<br />https://testflight.apple.com/join/CXefLgKK |
 | => **[BROWSER](https://departures.to/tags/browser)** <= ||
 | **Carbon Browser** | #CARBON #BROWSER<br />https://testflight.apple.com/join/Nd0sc84V |
@@ -89,8 +90,8 @@
 | **Grindr - Gay Dating & Chat** | #GRINDR #GAY #DATING #CHAT<br />https://testflight.apple.com/join/eO265vw7 |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **Wire • Secure Messenger** | #WIRE #SECURE #MESSENGER<br />https://testflight.apple.com/join/TiFZsCXi |
 | **Agora Chat** | #AGORA #CHAT<br />https://testflight.apple.com/join/MO0UuYJH |
@@ -150,6 +151,7 @@
 | **StrikeX - DeFi Crypto Wallet** | #STRIKEX #DEFI #CRYPTO #WALLET<br />https://testflight.apple.com/join/gqY0LHSd?utm_source=TestFlight |
 | **Matriks Mobil IQ** | #MATRIKS #MOBIL #IQ<br />https://testflight.apple.com/join/xCv2GqHV |
 | **Rate That Crypto** | #RATE #THAT #CRYPTO<br />https://testflight.apple.com/join/mxohmjCJ |
+| **REACH Explorer** | #REACH #EXPLORER<br />https://testflight.apple.com/join/A12tOOLf |
 | **Wally - Digital Wallet** | #WALLY #DIGITAL #WALLET<br />https://testflight.apple.com/join/Cc3P7zBO |
 | **Celo Alfajores Wallet** | #CELO #ALFAJORES #WALLET<br />https://testflight.apple.com/join/8njpPy3g |
 | **Pawket Wallet** | #PAWKET #WALLET<br />https://testflight.apple.com/join/GWcIleEy |
@@ -184,6 +186,7 @@
 | **Luma AI** | #LUMA #AI<br />https://testflight.apple.com/join/AvhTle5L |
 | **Banking4** | #BANKING4<br />https://testflight.apple.com/join/qeJYyYT7 |
 | **Harbour - Docker Manager** | #HARBOUR #DOCKER #MANAGER<br />https://testflight.apple.com/join/F2vK7xo4 |
+| **REACH Explorer** | #REACH #EXPLORER<br />https://testflight.apple.com/join/A12tOOLf |
 | **Termius: Terminal & SSH client** | #TERMIUS #TERMINAL #SSH #CLIENT<br />https://testflight.apple.com/join/MnuClabg |
 | **Jira Cloud by Atlassian** | #JIRA #CLOUD #BY #ATLASSIAN<br />https://testflight.apple.com/join/2lm7vHBS |
 | **SnippetsLab** | #SNIPPETSLAB<br />https://testflight.apple.com/join/LBF2tQ2l |
@@ -205,8 +208,6 @@
 | **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
 | **Fraction Steps: Learn Visually** | #FRACTION #STEPS #LEARN #VISUALLY<br />https://testflight.apple.com/join/VhzZ7q96 |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | **MyPace - Control Your I-Pace** | #MYPACE #CONTROL #YOUR #I #PACE<br />https://testflight.apple.com/join/SPMprsWo |
@@ -412,7 +413,6 @@
 | **TP-Link Tapo Beta** | #TP #LINK #TAPO #BETA<br />https://testflight.apple.com/join/6yiRhKNU |
 | **HomeHabit** | #HOMEHABIT<br />https://testflight.apple.com/join/KbpFHzx0 |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **tado°** | #TADO<br />https://testflight.apple.com/join/vcxVYb7M |
 | => **[IOS-17](https://departures.to/tags/ios-17)** <= ||
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **Pedal – Your cycling companion** | #PEDAL #YOUR #CYCLING #COMPANION<br />https://testflight.apple.com/join/WOYFrthX |
@@ -775,7 +775,6 @@
 | **Windscribe VPN** | #WINDSCRIBE #VPN<br />https://testflight.apple.com/join/oKib5JOq |
 | **Tailscale** | #TAILSCALE<br />https://testflight.apple.com/join/tLcYLZJV |
 | => **[WATCHOS](https://departures.to/tags/watchos)** <= ||
-| **Pedal – Your cycling companion** | #PEDAL #YOUR #CYCLING #COMPANION<br />https://testflight.apple.com/join/WOYFrthX |
 | **Watch app for Tesla** | #WATCH #APP #FOR #TESLA<br />https://testflight.apple.com/join/FdzFOLZv |
 | **JCrypto** | #JCRYPTO<br />https://testflight.apple.com/join/OnuehLjt |
 | **ShufflePlay** | #SHUFFLEPLAY<br />https://testflight.apple.com/join/OXkxF2Zt |
