@@ -15,13 +15,21 @@ def get_testflight_data(url_testflight):
     name_testflight = soup.find('h3').text
     
     button_data_attribute = soup.find('button', {'wire:initial-data': True})
-    jsondata = button_data_attribute.attrs['wire:initial-data']
-    url_testflight = json.loads(jsondata)['serverMemo']['data']['url']
     
-    name_testflight = name_testflight.replace('|', '-')
-    hashtag_testflights = re.findall(r"\b\w+\b", name_testflight)
-    hashtag_testflights = " ".join(["#" + hashtag.upper() for hashtag in hashtag_testflights])
-    return f"| **{name_testflight.strip()}** | {hashtag_testflights}<br />{url_testflight} |\n"
+    if button_data_attribute:
+        jsondata = button_data_attribute.attrs.get('wire:initial-data')
+        if jsondata:
+            url_testflight = json.loads(jsondata)['serverMemo']['data']['url']
+            
+            name_testflight = name_testflight.replace('|', '-')
+            hashtag_testflights = re.findall(r"\b\w+\b", name_testflight)
+            hashtag_testflights = " ".join(["#" + hashtag.upper() for hashtag in hashtag_testflights])
+            
+            # return f"| **{name_testflight.strip()}** | {hashtag_testflights}<br />{url_testflight} |\n"
+            return f"{name_testflight}\t{url_testflight}\n"
+    
+    print("button_data_attribute or 'wire:initial-data' attribute is not present.")
+    return ""  # Return an empty string or handle it as appropriate
 
 def main():
     with open(txtResult_AvailableTestflight, 'w', encoding='utf-8') as txtResult_AvailableTestflight_file:
@@ -36,7 +44,9 @@ def main():
         if response.status_code == 200:
             has_apps_links = True
             page_number = 1
-            betaapps_open =  "w-2 h-2 inline-block bg-green-400 rounded-full"
+            betaapps_open = "mt-1 text-xs font-medium uppercase text-gray-500 dark:text-green-500"
+            betaapps_close_full = "mt-1 text-xs font-medium uppercase text-gray-500 dark:text-red-500"
+            betaapps_full =  "w-2 h-2 inline-block bg-green-400 rounded-full"
 
             soup = BeautifulSoup(response.text, "html.parser")
             div_with_class = soup.find("div", class_="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6")
@@ -64,7 +74,7 @@ def main():
                             # break
                             ##################################
                             # Method 2: Get beta apps openning
-                            appsOpening = a_tag.findAll('span', {"class": betaapps_open})
+                            appsOpening = a_tag.findAll('p', {"class": betaapps_open})
                             if appsOpening:
                                 url_testflight = a_tag["href"]
                                 txtResult_AvailableTestflight_file.write(get_testflight_data(url_testflight))
