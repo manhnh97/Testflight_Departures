@@ -1,8 +1,8 @@
-# Beta Apps is available	[16/01/2024 08:33 AM]
+# Beta Apps is available	[19/01/2024 07:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
-Envision AI	https://testflight.apple.com/join/QzPGfNeH
+MyAI Sticker	https://testflight.apple.com/join/6NYKtBUA
 AI Floor Plan Design - CamPlan	https://testflight.apple.com/join/8FFeZy1X
 TranslateGBT » AI Translator	https://testflight.apple.com/join/JItSZEdP
 XChatBot - ChatBot AI	https://testflight.apple.com/join/IkPZBjjl
@@ -46,17 +46,17 @@ Skype	https://testflight.apple.com/join/fB5IkJT7
 FChat	https://testflight.apple.com/join/fBJrehcF
 Beeper Cloud	https://testflight.apple.com/join/AmLtgT00
 | => **[CRYPTOCURRENCY](https://departures.to/tags/cryptocurrency)** <= ||
-Family - Ethereum Wallet	https://testflight.apple.com/join/oUKAfJbr
+Desofy: Future of Social Media	https://testflight.apple.com/join/GZGXmw11
 CoinW Global	https://testflight.apple.com/join/SEEmyWBL
 Muverse	https://testflight.apple.com/join/oaAMHert
-Cake Wallet	https://testflight.apple.com/join/f9yFYx9H
-RFOX VALT	https://testflight.apple.com/join/bPUkXcr3
-Mal.io: Trade Bitcoin,Tokens	https://testflight.apple.com/join/F0m42NZe
-Tonhub — TON wallet	https://testflight.apple.com/join/UiiRg76m
+Candide Wallet	https://testflight.apple.com/join/A6GK52W1
+MyDoge - Dogecoin Wallet	https://testflight.apple.com/join/ugUu1xmy
+Retro Wallet	https://testflight.apple.com/join/n71vOGwl
+Nexus - Mobile Wallet	https://testflight.apple.com/join/dJLBiKzt
 Rosen	https://testflight.apple.com/join/uaBJN6tz
 Litewallet: Buy Litecoin	https://testflight.apple.com/join/zNmFTm37
 JCrypto	https://testflight.apple.com/join/OnuehLjt
-Desofy: Future of Social Media	https://testflight.apple.com/join/GZGXmw11
+Loop Obi Wallet	https://testflight.apple.com/join/5byLpJIA
 Ultimate: Crypto DeFi Wallet	https://testflight.apple.com/join/tC4VeB8D
 Matriks Mobil IQ	https://testflight.apple.com/join/xCv2GqHV
 Wally - Digital Wallet	https://testflight.apple.com/join/Cc3P7zBO
@@ -68,15 +68,15 @@ Helium HNT Wallet	https://testflight.apple.com/join/SsAjbJEi
 VexWallet - Blockchain Wallet	https://testflight.apple.com/join/pwuoRCMc
 Peercoin Wallet	https://testflight.apple.com/join/iilc4SvQ
 | => **[DEVELOPER](https://departures.to/tags/developer)** <= ||
-Cubzh	https://testflight.apple.com/join/7iMxzKht
+auth. - 2FA Smart Sync	https://testflight.apple.com/join/8XDBCC4Q
 a-Shell	https://testflight.apple.com/join/WUdKe3f4
 Mbuntu	https://testflight.apple.com/join/aDVXKCIm
 Bolt Charger	https://testflight.apple.com/join/Hhm685us
 Vipps MT	https://testflight.apple.com/join/hTAYrwea
-Luma AI	https://testflight.apple.com/join/AvhTle5L
+Runestone Text Editor	https://testflight.apple.com/join/kDXvZwlD
 Harbour - Docker Manager	https://testflight.apple.com/join/F2vK7xo4
 Termius: Terminal & SSH client	https://testflight.apple.com/join/MnuClabg
-Jira Cloud by Atlassian	https://testflight.apple.com/join/2lm7vHBS
+Cryptomator	https://testflight.apple.com/join/WMtYSrzD
 app.list	https://testflight.apple.com/join/hf7HdF2z
 | => **[DRONES](https://departures.to/tags/drones)** <= ||
 Dronelink Flight	https://testflight.apple.com/join/PumJOBFK
@@ -101,7 +101,7 @@ ZLX	https://testflight.apple.com/join/QkFYMjbN
 | => **[FILES-AND-CLOUD](https://departures.to/tags/files-and-cloud)** <= ||
 Offline: Files, Browser, Docs	https://testflight.apple.com/join/6ebDbaIJ
 | => **[FINANCE](https://departures.to/tags/finance)** <= ||
-Revolut: Send, spend and save	https://testflight.apple.com/join/oqrinjQB
+iExpense	https://testflight.apple.com/join/gDq7HgFg
 Minhas Finanças - Despesas	https://testflight.apple.com/join/5xvHr9nt
 Cash App	https://testflight.apple.com/join/An0RiOFF
 Banking4	https://testflight.apple.com/join/qeJYyYT7
@@ -122,22 +122,23 @@ Ambre: Recipe Organizer	https://testflight.apple.com/join/zIHhY5L1
 Crafted Pour	https://testflight.apple.com/join/LheYynyu
 Untappd - Discover Beer	https://testflight.apple.com/join/EbIrz3mA
 | => **[GAMES](https://departures.to/tags/games)** <= ||
-Cubzh	https://testflight.apple.com/join/7iMxzKht
+WOW: Wars of Wanon	https://testflight.apple.com/join/UZ4tYFb6
 HexOnHex	https://testflight.apple.com/join/5NrYnzWb
 Horse Of Legends - HOL	https://testflight.apple.com/join/LHUHLYG5
 Celted	https://testflight.apple.com/join/YeVSTsai
-Pex - Relaxing Puzzle Game	https://testflight.apple.com/join/8rxzeWwn
+In Next Life	https://testflight.apple.com/join/D50l7OXY
 Pati-Games&Chat	https://testflight.apple.com/join/OySOWcrj
 Lego Sky Island Escape!	https://testflight.apple.com/join/BDWu8n5P
 Pocket GM 3: Football Sim	https://testflight.apple.com/join/rnykOyO0
 Soralution	https://testflight.apple.com/join/670hF438
 PICO VR	https://testflight.apple.com/join/DpwLvLwR
+Dungeon Ward: Offline RPG game	https://testflight.apple.com/join/Kyg7sbis
 Twitch Beta	https://testflight.apple.com/join/8vRKFAiY
-Wanaka Farm	https://testflight.apple.com/join/jUdIq7tn
 Market Simulator	https://testflight.apple.com/join/bYOHZTCt
 Pocket Space!	https://testflight.apple.com/join/DHipLt9w
 Ninja World War: Global Force	https://testflight.apple.com/join/2maWknqu
 Wuxiaworld	https://testflight.apple.com/join/bcMoIc0Q
+MTG Scanner - Lion’s Eye	https://testflight.apple.com/join/yj6QDl0H
 chainzarena-mbox	https://testflight.apple.com/join/dqI8Xj18
 blockbrawler	https://testflight.apple.com/join/AvzJebh3
 Buni Island	https://testflight.apple.com/join/YAyTbCoq
@@ -158,16 +159,16 @@ Shape: Lucid Dreaming	https://testflight.apple.com/join/UPmVuiMA
 | => **[HOMEKIT](https://departures.to/tags/homekit)** <= ||
 TP-Link Tapo Beta	https://testflight.apple.com/join/6yiRhKNU
 | => **[IOS-17](https://departures.to/tags/ios-17)** <= ||
-TopiBowl	https://testflight.apple.com/join/6oGhKChE
+iExpense	https://testflight.apple.com/join/gDq7HgFg
 | => **[LISTS-AND-TO-DO](https://departures.to/tags/lists-and-to-do)** <= ||
-Cronica	https://testflight.apple.com/join/T8kwk6Gb
+To Do List - Daily Planner	https://testflight.apple.com/join/mMojyPTd
 TickTick:To-Do List & Calendar	https://testflight.apple.com/join/vWQPDFQU
 Kanbann	https://testflight.apple.com/join/GPtxc3QG
 Todo清单 - 跨平台待办事项与番茄钟	https://testflight.apple.com/join/YyuuJcC6
 Trello: organize anything!	https://testflight.apple.com/join/cRWMcQsr
 Bring! Grocery Shopping List	https://testflight.apple.com/join/EUHdZJwQ
 | => **[MACOS](https://departures.to/tags/macos)** <= ||
-Voice in a Can	https://testflight.apple.com/join/7eC7GU83
+Magic Notes for Mac	https://testflight.apple.com/join/mPcOYfPo
 Hand Mirror	https://testflight.apple.com/join/bnUjZUkE
 VoiceOver Designer	https://testflight.apple.com/join/GRsuZ0QD
 Zavala	https://testflight.apple.com/join/iFbND23m
@@ -200,7 +201,7 @@ TopiBowl	https://testflight.apple.com/join/6oGhKChE
 | => **[PHOTOGRAPHY](https://departures.to/tags/photography)** <= ||
 SweeLOL(β)Just Do it 4 the LOL	https://testflight.apple.com/join/FT9n1ncG
 Picme - Get the Real Picture.	https://testflight.apple.com/join/MmJ4tvUr
-Clipping Camera	https://testflight.apple.com/join/aYZWHvK6
+Imgur: Funny Memes & GIF Maker	https://testflight.apple.com/join/Qd42y5Pw
 Photo Safe - private photos	https://testflight.apple.com/join/kLEbv33I
 DateStamper	https://testflight.apple.com/join/1SjoJEhx
 | => **[PODCASTS](https://departures.to/tags/podcasts)** <= ||
@@ -230,7 +231,7 @@ Yahoo Fantasy: Football & more	https://testflight.apple.com/join/dJtl4zh8
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 Meditation Timer - Zenitizer	https://testflight.apple.com/join/QvKyRJ8x
 Just Timers	https://testflight.apple.com/join/8hRrBYAR
-Focus – Productivity Timer	https://testflight.apple.com/join/4GWAwNsU
+Focus - Productivity Timer	https://testflight.apple.com/join/PemGsPhH
 Time’s Up! — Visual Timer	https://testflight.apple.com/join/wLaAUd6G
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 TRViS	https://testflight.apple.com/join/yYBaAdqX
@@ -242,38 +243,38 @@ WMEditor	https://testflight.apple.com/join/jr7twq7L
 | => **[TVOS](https://departures.to/tags/tvos)** <= ||
 F1ATV	https://testflight.apple.com/join/NRswe1IZ
 | => **[UTILITY](https://departures.to/tags/utility)** <= ||
-Miximum: Smart Playlist Maker	https://testflight.apple.com/join/6ZmnikuN
-Streamie	https://testflight.apple.com/join/qcOTQQaL
-Air Quality View	https://testflight.apple.com/join/xrT5APwM
-Scanner App: Genius Scan	https://testflight.apple.com/join/v2xNVdTt
+iExpense	https://testflight.apple.com/join/gDq7HgFg
+PokeCountr - TCG Assistant	https://testflight.apple.com/join/j9U5SyEI
+Capture - Quick Notes	https://testflight.apple.com/join/iipKV4OA
+Keka	https://testflight.apple.com/join/gPYINGCJ
 Speechless: audios to texts	https://testflight.apple.com/join/LDy50x1A
-Anytype: Private Notes	https://testflight.apple.com/join/BPMIR4Fk
-3CX	https://testflight.apple.com/join/5MPjSs2T
-auth. - 2FA Smart Sync	https://testflight.apple.com/join/8XDBCC4Q
+UniFi	https://testflight.apple.com/join/Pkd9a658
+TickTick:To-Do List & Calendar	https://testflight.apple.com/join/vWQPDFQU
 JeeConnect	https://testflight.apple.com/join/luZsKILI
-Drivometer	https://testflight.apple.com/join/LKnK7eup
-Tap to Sign	https://testflight.apple.com/join/cjPYii2o
+Ulysses: Writing App	https://testflight.apple.com/join/r7ehG0dQ
+Penedex	https://testflight.apple.com/join/iQxlIZAu
+Classifier: Collection Tracker	https://testflight.apple.com/join/HeIftx1S
 Zoho ToDo - Get work organized	https://testflight.apple.com/join/NWD0OIc4
-Twilar	https://testflight.apple.com/join/tYkoNwGR
-Crafted Pour	https://testflight.apple.com/join/LheYynyu
-Spark Mail + AI: Email Inbox	https://testflight.apple.com/join/O2wj7i0x
-Datadog	https://testflight.apple.com/join/UNFB4E9Q
-Photo Safe - private photos	https://testflight.apple.com/join/kLEbv33I
-StageLight - DMX Controller	https://testflight.apple.com/join/X1Ja2Mai
+Wikipedia	https://testflight.apple.com/join/Z0AU0KXC
+Hand Mirror	https://testflight.apple.com/join/bnUjZUkE
+PDF Viewer - Annotation Expert	https://testflight.apple.com/join/6IMUtZ8n
+Parcel - Delivery Tracking	https://testflight.apple.com/join/fMeg6C4A
+Momentory - Mindful Journal	https://testflight.apple.com/join/8Xbm7kwK
+Octopus Energy	https://testflight.apple.com/join/c9II11da
 Surge Network Tester	https://testflight.apple.com/join/ABWQfJsU
 悟空盒子助手	https://testflight.apple.com/join/apxQBWvS
-1-2-3 Fuel	https://testflight.apple.com/join/odR8wwvp
-Everlog Journal	https://testflight.apple.com/join/oARXO251
-Check Later	https://testflight.apple.com/join/B4cD7aRC
+Boson: Headphones Control	https://testflight.apple.com/join/A5KoHhPO
+Sangoma Meet	https://testflight.apple.com/join/BEd12vi5
 Device Management App	https://testflight.apple.com/join/ZspSdWIi
-Soulver	https://testflight.apple.com/join/rBWP4hPz
+e-Título	https://testflight.apple.com/join/e6yLI7uO
+Focus - Productivity Timer	https://testflight.apple.com/join/PemGsPhH
 UniChar — Unicode Keyboard	https://testflight.apple.com/join/YKH3kGpt
-Pushover Notifications	https://testflight.apple.com/join/vkwfdWM0
+Debit & Credit	https://testflight.apple.com/join/FvufwHrV
 MCalendar	https://testflight.apple.com/join/PPWLmiWG
-Remarkable Text To Speech	https://testflight.apple.com/join/SEVGXqVm
-NotePlan - Daily Task Planner	https://testflight.apple.com/join/Cwb6UmfY
+Structured - Daily Planner	https://testflight.apple.com/join/k3x7jn8B
+Taco - WAX Utility Tools	https://testflight.apple.com/join/thvCAqM3
 My Vodafone	https://testflight.apple.com/join/Lg9WYrsn
-Easy Unarchiver - ZIP, RAR	https://testflight.apple.com/join/jXX0Wyfy
+Minimal - Writing + Notes	https://testflight.apple.com/join/hfvQiGFK
 | => **[VIDEO](https://departures.to/tags/video)** <= ||
 CapCut - Video Editor	https://testflight.apple.com/join/Gu9kI6ky
 3CX	https://testflight.apple.com/join/5MPjSs2T
@@ -281,6 +282,7 @@ PICO VR	https://testflight.apple.com/join/DpwLvLwR
 Nexar - AI Dash Cam	https://testflight.apple.com/join/f8tSQ2q0
 PanTiltZoom	https://testflight.apple.com/join/ZUtNX7V2
 | => **[VISIONOS](https://departures.to/tags/visionOS)** <= ||
+PokeCountr - TCG Assistant	https://testflight.apple.com/join/j9U5SyEI
 | => **[VPN](https://departures.to/tags/vpn)** <= ||
 Maikr	https://testflight.apple.com/join/61cBo7QN
 Passepartout, VPN Client	https://testflight.apple.com/join/K71mtLjZ
@@ -298,4 +300,5 @@ Lili Widget	https://testflight.apple.com/join/7muEQvwR
 Peaks: Biorhythm Tracker	https://testflight.apple.com/join/Z0KOoZht
 Tally • Quick Counter	https://testflight.apple.com/join/zbUiqcxg
 HiFutureSelf - Future Messages	https://testflight.apple.com/join/zRKU0Od8
+MTG Scanner - Lion’s Eye	https://testflight.apple.com/join/yj6QDl0H
 WidgetHealth - Widget & Health	https://testflight.apple.com/join/G0Wh2Ft0
