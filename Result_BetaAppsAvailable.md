@@ -1,4 +1,4 @@
-# Beta Apps is available	[20/01/2024 02:11 PM]
+# Beta Apps is available	[20/01/2024 07:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -29,7 +29,7 @@ REACH Explorer	https://testflight.apple.com/join/A12tOOLf
 | => **[BOOKS](https://departures.to/tags/books)** <= ||
 Citations	https://testflight.apple.com/join/vxobmPVp
 Bielaruskaja Lacinka	https://testflight.apple.com/join/pfIj5vHJ
-Wuxiaworld	https://testflight.apple.com/join/bcMoIc0Q
+Verbs German Dictionary	https://testflight.apple.com/join/w2VyNpay
 Wattpad - Read & Write Stories	https://testflight.apple.com/join/CXefLgKK
 | => **[BROWSER](https://departures.to/tags/browser)** <= ||
 Carbon Browser	https://testflight.apple.com/join/Nd0sc84V
@@ -46,7 +46,7 @@ Skype	https://testflight.apple.com/join/fB5IkJT7
 FChat	https://testflight.apple.com/join/fBJrehcF
 Beeper Cloud	https://testflight.apple.com/join/AmLtgT00
 | => **[CRYPTOCURRENCY](https://departures.to/tags/cryptocurrency)** <= ||
-Desofy: Future of Social Media	https://testflight.apple.com/join/GZGXmw11
+THORWallet: DeFi Crypto Wallet	https://testflight.apple.com/join/f5LW68I8
 CoinW Global	https://testflight.apple.com/join/SEEmyWBL
 Muverse	https://testflight.apple.com/join/oaAMHert
 Candide Wallet	https://testflight.apple.com/join/A6GK52W1
@@ -146,7 +146,7 @@ Tap Tap Reloaded	https://testflight.apple.com/join/SpvyEydY
 Wordler – Game Assistant	https://testflight.apple.com/join/Ct6gSdHk
 Mark My Words - Word Game	https://testflight.apple.com/join/jEhWQPiK
 霸王的梦想	https://testflight.apple.com/join/Rl006EFo
-The Battle of Polytopia	https://testflight.apple.com/join/LjTQNqua
+Samurai Fight	https://testflight.apple.com/join/4a8K6ltZ
 | => **[HEALTH](https://departures.to/tags/health)** <= ||
 TopiBowl	https://testflight.apple.com/join/6oGhKChE
 Peaks: Biorhythm Tracker	https://testflight.apple.com/join/Z0KOoZht
@@ -219,7 +219,7 @@ Orb: Everyday Web3 Social App	https://testflight.apple.com/join/uq14IKUe
 RFOX VALT	https://testflight.apple.com/join/bPUkXcr3
 Colorfol	https://testflight.apple.com/join/njLMVbVO
 Crafted Pour	https://testflight.apple.com/join/LheYynyu
-Messenger	https://testflight.apple.com/join/njVWbUm0
+SOTAMĀT SOTA / POTA Spotting	https://testflight.apple.com/join/UQuW6g1E
 Pelando: Promoções e Cupons	https://testflight.apple.com/join/yHerrRYY
 Tapatalk - 200,000+ Forums	https://testflight.apple.com/join/oGFXVgl6
 SmartPost - Post Scheduler	https://testflight.apple.com/join/a0zXMXbA
@@ -231,7 +231,7 @@ Yahoo Fantasy: Football & more	https://testflight.apple.com/join/dJtl4zh8
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 Meditation Timer - Zenitizer	https://testflight.apple.com/join/QvKyRJ8x
 Just Timers	https://testflight.apple.com/join/8hRrBYAR
-Focus - Productivity Timer	https://testflight.apple.com/join/PemGsPhH
+Focus – Productivity Timer	https://testflight.apple.com/join/4GWAwNsU
 Time’s Up! — Visual Timer	https://testflight.apple.com/join/wLaAUd6G
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 TRViS	https://testflight.apple.com/join/yYBaAdqX
@@ -252,7 +252,7 @@ UniFi	https://testflight.apple.com/join/Pkd9a658
 TickTick:To-Do List & Calendar	https://testflight.apple.com/join/vWQPDFQU
 JeeConnect	https://testflight.apple.com/join/luZsKILI
 Ulysses: Writing App	https://testflight.apple.com/join/r7ehG0dQ
-Drivometer	https://testflight.apple.com/join/LKnK7eup
+Penedex	https://testflight.apple.com/join/iQxlIZAu
 Participant for Zoom	https://testflight.apple.com/join/iwZesoSE
 Zoho ToDo - Get work organized	https://testflight.apple.com/join/NWD0OIc4
 Wikipedia	https://testflight.apple.com/join/Z0AU0KXC
