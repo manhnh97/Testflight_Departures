@@ -1,4 +1,4 @@
-# Beta Apps is available	[19/01/2024 07:11 PM]
+# Beta Apps is available	[20/01/2024 10:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -29,7 +29,7 @@ REACH Explorer	https://testflight.apple.com/join/A12tOOLf
 | => **[BOOKS](https://departures.to/tags/books)** <= ||
 Citations	https://testflight.apple.com/join/vxobmPVp
 Bielaruskaja Lacinka	https://testflight.apple.com/join/pfIj5vHJ
-Verbs German Dictionary	https://testflight.apple.com/join/w2VyNpay
+Wuxiaworld	https://testflight.apple.com/join/bcMoIc0Q
 Wattpad - Read & Write Stories	https://testflight.apple.com/join/CXefLgKK
 | => **[BROWSER](https://departures.to/tags/browser)** <= ||
 Carbon Browser	https://testflight.apple.com/join/Nd0sc84V
@@ -41,7 +41,7 @@ SierraBooks Invoices	https://testflight.apple.com/join/KZx6AD22
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 Cubzh	https://testflight.apple.com/join/7iMxzKht
 Pati-Games&Chat	https://testflight.apple.com/join/OySOWcrj
-Pravica Messenger	https://testflight.apple.com/join/HLhgcnJW
+Jubielee	https://testflight.apple.com/join/sPUUFiK8
 Skype	https://testflight.apple.com/join/fB5IkJT7
 FChat	https://testflight.apple.com/join/fBJrehcF
 Beeper Cloud	https://testflight.apple.com/join/AmLtgT00
@@ -84,7 +84,6 @@ Dronelink Flight	https://testflight.apple.com/join/PumJOBFK
 TopiBowl	https://testflight.apple.com/join/6oGhKChE
 School Assistant – Planner	https://testflight.apple.com/join/KWohJ5aL
 Yoto: Music, Stories, Sleep	https://testflight.apple.com/join/di4bwD5z
-TitechApp 3 : TokyoTech App	https://testflight.apple.com/join/oXRX7i7u
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 S3XY Watch	https://testflight.apple.com/join/194LkkmW
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -111,7 +110,7 @@ Nubank - Conta e Cartão	https://testflight.apple.com/join/v3SGNpM5
 菜鸟—快递物流轻松查寄取	https://testflight.apple.com/join/TmylEvDp
 smallcase: Stock Investments	https://testflight.apple.com/join/XSkiZoQf
 | => **[FITNESS](https://departures.to/tags/fitness)** <= ||
-FitBee Calorie & Macro Counter	https://testflight.apple.com/join/bJK2MZed
+Pedal – Your cycling companion	https://testflight.apple.com/join/WOYFrthX
 MoonFit - Web3 Lifestyle App	https://testflight.apple.com/join/lfXF5Lbd
 Landscape: Mountaineering	https://testflight.apple.com/join/SrVraMCy
 FitMind: Mental Fitness	https://testflight.apple.com/join/Yf0ozkqd
@@ -231,7 +230,7 @@ Yahoo Fantasy: Football & more	https://testflight.apple.com/join/dJtl4zh8
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 Meditation Timer - Zenitizer	https://testflight.apple.com/join/QvKyRJ8x
 Just Timers	https://testflight.apple.com/join/8hRrBYAR
-Focus - Productivity Timer	https://testflight.apple.com/join/PemGsPhH
+Focus – Productivity Timer	https://testflight.apple.com/join/4GWAwNsU
 Time’s Up! — Visual Timer	https://testflight.apple.com/join/wLaAUd6G
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 TRViS	https://testflight.apple.com/join/yYBaAdqX
@@ -253,7 +252,7 @@ TickTick:To-Do List & Calendar	https://testflight.apple.com/join/vWQPDFQU
 JeeConnect	https://testflight.apple.com/join/luZsKILI
 Ulysses: Writing App	https://testflight.apple.com/join/r7ehG0dQ
 Penedex	https://testflight.apple.com/join/iQxlIZAu
-Classifier: Collection Tracker	https://testflight.apple.com/join/HeIftx1S
+Tally • Quick Counter	https://testflight.apple.com/join/zbUiqcxg
 Zoho ToDo - Get work organized	https://testflight.apple.com/join/NWD0OIc4
 Wikipedia	https://testflight.apple.com/join/Z0AU0KXC
 Hand Mirror	https://testflight.apple.com/join/bnUjZUkE
@@ -267,7 +266,7 @@ Boson: Headphones Control	https://testflight.apple.com/join/A5KoHhPO
 Sangoma Meet	https://testflight.apple.com/join/BEd12vi5
 Device Management App	https://testflight.apple.com/join/ZspSdWIi
 e-Título	https://testflight.apple.com/join/e6yLI7uO
-Focus - Productivity Timer	https://testflight.apple.com/join/PemGsPhH
+Focus – Productivity Timer	https://testflight.apple.com/join/4GWAwNsU
 UniChar — Unicode Keyboard	https://testflight.apple.com/join/YKH3kGpt
 Debit & Credit	https://testflight.apple.com/join/FvufwHrV
 MCalendar	https://testflight.apple.com/join/PPWLmiWG
@@ -276,7 +275,7 @@ Taco - WAX Utility Tools	https://testflight.apple.com/join/thvCAqM3
 My Vodafone	https://testflight.apple.com/join/Lg9WYrsn
 Minimal - Writing + Notes	https://testflight.apple.com/join/hfvQiGFK
 | => **[VIDEO](https://departures.to/tags/video)** <= ||
-CapCut - Video Editor	https://testflight.apple.com/join/Gu9kI6ky
+Streamie	https://testflight.apple.com/join/qcOTQQaL
 3CX	https://testflight.apple.com/join/5MPjSs2T
 PICO VR	https://testflight.apple.com/join/DpwLvLwR
 Nexar - AI Dash Cam	https://testflight.apple.com/join/f8tSQ2q0
