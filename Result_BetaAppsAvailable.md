@@ -1,4 +1,4 @@
-# Beta Apps is available	[20/01/2024 10:11 AM]
+# Beta Apps is available	[20/01/2024 02:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -84,6 +84,7 @@ Dronelink Flight	https://testflight.apple.com/join/PumJOBFK
 TopiBowl	https://testflight.apple.com/join/6oGhKChE
 School Assistant – Planner	https://testflight.apple.com/join/KWohJ5aL
 Yoto: Music, Stories, Sleep	https://testflight.apple.com/join/di4bwD5z
+TitechApp 3 : TokyoTech App	https://testflight.apple.com/join/oXRX7i7u
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 S3XY Watch	https://testflight.apple.com/join/194LkkmW
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -152,7 +153,7 @@ Peaks: Biorhythm Tracker	https://testflight.apple.com/join/Z0KOoZht
 Health Auto Export - JSON+CSV	https://testflight.apple.com/join/IoqYlD8A
 Phoenix: Motivation,Meditate	https://testflight.apple.com/join/hP5SG4xU
 Mango Baby Newborn Tracker Log	https://testflight.apple.com/join/td8w79RD
-FitMind: Mental Fitness	https://testflight.apple.com/join/Yf0ozkqd
+Lovewick: Relationship App	https://testflight.apple.com/join/W8EmsRMa
 Owaves: My Body Clock	https://testflight.apple.com/join/ashWLQMS
 Shape: Lucid Dreaming	https://testflight.apple.com/join/UPmVuiMA
 | => **[HOMEKIT](https://departures.to/tags/homekit)** <= ||
@@ -218,7 +219,7 @@ Orb: Everyday Web3 Social App	https://testflight.apple.com/join/uq14IKUe
 RFOX VALT	https://testflight.apple.com/join/bPUkXcr3
 Colorfol	https://testflight.apple.com/join/njLMVbVO
 Crafted Pour	https://testflight.apple.com/join/LheYynyu
-SOTAMĀT SOTA / POTA Spotting	https://testflight.apple.com/join/UQuW6g1E
+Messenger	https://testflight.apple.com/join/njVWbUm0
 Pelando: Promoções e Cupons	https://testflight.apple.com/join/yHerrRYY
 Tapatalk - 200,000+ Forums	https://testflight.apple.com/join/oGFXVgl6
 SmartPost - Post Scheduler	https://testflight.apple.com/join/a0zXMXbA
@@ -230,7 +231,7 @@ Yahoo Fantasy: Football & more	https://testflight.apple.com/join/dJtl4zh8
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 Meditation Timer - Zenitizer	https://testflight.apple.com/join/QvKyRJ8x
 Just Timers	https://testflight.apple.com/join/8hRrBYAR
-Focus – Productivity Timer	https://testflight.apple.com/join/4GWAwNsU
+Focus - Productivity Timer	https://testflight.apple.com/join/PemGsPhH
 Time’s Up! — Visual Timer	https://testflight.apple.com/join/wLaAUd6G
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 TRViS	https://testflight.apple.com/join/yYBaAdqX
@@ -251,8 +252,8 @@ UniFi	https://testflight.apple.com/join/Pkd9a658
 TickTick:To-Do List & Calendar	https://testflight.apple.com/join/vWQPDFQU
 JeeConnect	https://testflight.apple.com/join/luZsKILI
 Ulysses: Writing App	https://testflight.apple.com/join/r7ehG0dQ
-Penedex	https://testflight.apple.com/join/iQxlIZAu
-Tally • Quick Counter	https://testflight.apple.com/join/zbUiqcxg
+Drivometer	https://testflight.apple.com/join/LKnK7eup
+Participant for Zoom	https://testflight.apple.com/join/iwZesoSE
 Zoho ToDo - Get work organized	https://testflight.apple.com/join/NWD0OIc4
 Wikipedia	https://testflight.apple.com/join/Z0AU0KXC
 Hand Mirror	https://testflight.apple.com/join/bnUjZUkE
@@ -266,7 +267,7 @@ Boson: Headphones Control	https://testflight.apple.com/join/A5KoHhPO
 Sangoma Meet	https://testflight.apple.com/join/BEd12vi5
 Device Management App	https://testflight.apple.com/join/ZspSdWIi
 e-Título	https://testflight.apple.com/join/e6yLI7uO
-Focus – Productivity Timer	https://testflight.apple.com/join/4GWAwNsU
+Focus - Productivity Timer	https://testflight.apple.com/join/PemGsPhH
 UniChar — Unicode Keyboard	https://testflight.apple.com/join/YKH3kGpt
 Debit & Credit	https://testflight.apple.com/join/FvufwHrV
 MCalendar	https://testflight.apple.com/join/PPWLmiWG
