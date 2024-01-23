@@ -1,4 +1,4 @@
-# Beta Apps is available	[23/01/2024 10:11 AM]
+# Beta Apps is available	[23/01/2024 02:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -12,7 +12,6 @@
 | **Drip.Art V0: AI Video Generate** | #DRIP #ART #V0 #AI #VIDEO #GENERATE<br />https://testflight.apple.com/join/SxQilTIz |
 | **ICONS+** | #ICONS<br />https://testflight.apple.com/join/ji6aqUks |
 | **Imgur: Funny Memes & GIF Maker** | #IMGUR #FUNNY #MEMES #GIF #MAKER<br />https://testflight.apple.com/join/Qd42y5Pw |
-| **Iconboard - App themifier** | #ICONBOARD #APP #THEMIFIER<br />https://testflight.apple.com/join/vMl8RQZz |
 | **FocalPaint** | #FOCALPAINT<br />https://testflight.apple.com/join/1adnuUHv |
 | **Sticker Maker Studio** | #STICKER #MAKER #STUDIO<br />https://testflight.apple.com/join/eucMfZTb |
 | => **[AUDIO](https://departures.to/tags/audio)** <= ||
@@ -41,7 +40,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -153,7 +152,7 @@
 | **Health Auto Export - JSON+CSV** | #HEALTH #AUTO #EXPORT #JSON #CSV<br />https://testflight.apple.com/join/IoqYlD8A |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
+| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **Shape: Lucid Dreaming** | #SHAPE #LUCID #DREAMING<br />https://testflight.apple.com/join/UPmVuiMA |
 | => **[HOMEKIT](https://departures.to/tags/homekit)** <= ||
@@ -253,11 +252,11 @@
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
 | **Ulysses: Writing App** | #ULYSSES #WRITING #APP<br />https://testflight.apple.com/join/r7ehG0dQ |
 | **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
-| **Tally • Quick Counter** | #TALLY #QUICK #COUNTER<br />https://testflight.apple.com/join/zbUiqcxg |
+| **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Hand Mirror** | #HAND #MIRROR<br />https://testflight.apple.com/join/bnUjZUkE |
-| **PDF Viewer - Annotation Expert** | #PDF #VIEWER #ANNOTATION #EXPERT<br />https://testflight.apple.com/join/6IMUtZ8n |
+| **Vipps MT** | #VIPPS #MT<br />https://testflight.apple.com/join/hTAYrwea |
 | **Parcel - Delivery Tracking** | #PARCEL #DELIVERY #TRACKING<br />https://testflight.apple.com/join/fMeg6C4A |
 | **Momentory - Mindful Journal** | #MOMENTORY #MINDFUL #JOURNAL<br />https://testflight.apple.com/join/8Xbm7kwK |
 | **Octopus Energy** | #OCTOPUS #ENERGY<br />https://testflight.apple.com/join/c9II11da |
