@@ -1,4 +1,4 @@
-# Beta Apps is available	[24/01/2024 02:11 PM]
+# Beta Apps is available	[24/01/2024 07:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -40,7 +40,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -92,7 +92,7 @@
 | **Calendars 5 by Readdle** | #CALENDARS #5 #BY #READDLE<br />https://testflight.apple.com/join/tC44BniC |
 | **MCalendar** | #MCALENDAR<br />https://testflight.apple.com/join/PPWLmiWG |
 | => **[ENTERTAINMENT](https://departures.to/tags/entertainment)** <= ||
-| **Rave - Watch Party** | #RAVE #WATCH #PARTY<br />https://testflight.apple.com/join/OrZ9CLQU |
+| **Cronica** | #CRONICA<br />https://testflight.apple.com/join/T8kwk6Gb |
 | **TV Time: Track Shows & Movies** | #TV #TIME #TRACK #SHOWS #MOVIES<br />https://testflight.apple.com/join/hjKkDsc4 |
 | **Pelando: Promoções e Cupons** | #PELANDO #PROMOÇÕES #E #CUPONS<br />https://testflight.apple.com/join/yHerrRYY |
 | **waipu.tv - Live TV Streaming** | #WAIPU #TV #LIVE #TV #STREAMING<br />https://testflight.apple.com/join/l72L1OK3 |
@@ -257,26 +257,11 @@
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Hand Mirror** | #HAND #MIRROR<br />https://testflight.apple.com/join/bnUjZUkE |
-| **PDF Viewer - Annotation Expert** | #PDF #VIEWER #ANNOTATION #EXPERT<br />https://testflight.apple.com/join/6IMUtZ8n |
+| **Vipps MT** | #VIPPS #MT<br />https://testflight.apple.com/join/hTAYrwea |
 | **Parcel - Delivery Tracking** | #PARCEL #DELIVERY #TRACKING<br />https://testflight.apple.com/join/fMeg6C4A |
 | **Momentory - Mindful Journal** | #MOMENTORY #MINDFUL #JOURNAL<br />https://testflight.apple.com/join/8Xbm7kwK |
-| **Octopus Energy** | #OCTOPUS #ENERGY<br />https://testflight.apple.com/join/c9II11da |
-| **Surge Network Tester** | #SURGE #NETWORK #TESTER<br />https://testflight.apple.com/join/ABWQfJsU |
-| **悟空盒子助手** | #悟空盒子助手<br />https://testflight.apple.com/join/apxQBWvS |
-| **Boson: Headphones Control** | #BOSON #HEADPHONES #CONTROL<br />https://testflight.apple.com/join/A5KoHhPO |
-| **Sangoma Meet** | #SANGOMA #MEET<br />https://testflight.apple.com/join/BEd12vi5 |
-| **Device Management App** | #DEVICE #MANAGEMENT #APP<br />https://testflight.apple.com/join/ZspSdWIi |
-| **Kenteken Scanner** | #KENTEKEN #SCANNER<br />https://testflight.apple.com/join/8UHWYY63 |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
-| **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
-| **Debit & Credit** | #DEBIT #CREDIT<br />https://testflight.apple.com/join/FvufwHrV |
-| **MCalendar** | #MCALENDAR<br />https://testflight.apple.com/join/PPWLmiWG |
-| **Structured - Daily Planner** | #STRUCTURED #DAILY #PLANNER<br />https://testflight.apple.com/join/k3x7jn8B |
-| **Taco - WAX Utility Tools** | #TACO #WAX #UTILITY #TOOLS<br />https://testflight.apple.com/join/thvCAqM3 |
-| **My Vodafone** | #MY #VODAFONE<br />https://testflight.apple.com/join/Lg9WYrsn |
-| **Minimal - Writing + Notes** | #MINIMAL #WRITING #NOTES<br />https://testflight.apple.com/join/hfvQiGFK |
 | => **[VIDEO](https://departures.to/tags/video)** <= ||
-| **Streamie** | #STREAMIE<br />https://testflight.apple.com/join/qcOTQQaL |
+| **CapCut - Video Editor** | #CAPCUT #VIDEO #EDITOR<br />https://testflight.apple.com/join/Gu9kI6ky |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **PICO VR** | #PICO #VR<br />https://testflight.apple.com/join/DpwLvLwR |
 | **Nexar - AI Dash Cam** | #NEXAR #AI #DASH #CAM<br />https://testflight.apple.com/join/f8tSQ2q0 |
