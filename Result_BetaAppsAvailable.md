@@ -1,4 +1,4 @@
-# Beta Apps is available	[24/01/2024 07:11 PM]
+# Beta Apps is available	[24/01/2024 09:58 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -28,7 +28,7 @@
 | => **[BOOKS](https://departures.to/tags/books)** <= ||
 | **Citations** | #CITATIONS<br />https://testflight.apple.com/join/vxobmPVp |
 | **Bielaruskaja Lacinka** | #BIELARUSKAJA #LACINKA<br />https://testflight.apple.com/join/pfIj5vHJ |
-| **Verbs German Dictionary** | #VERBS #GERMAN #DICTIONARY<br />https://testflight.apple.com/join/w2VyNpay |
+| **Wuxiaworld** | #WUXIAWORLD<br />https://testflight.apple.com/join/bcMoIc0Q |
 | **Wattpad - Read & Write Stories** | #WATTPAD #READ #WRITE #STORIES<br />https://testflight.apple.com/join/CXefLgKK |
 | => **[BROWSER](https://departures.to/tags/browser)** <= ||
 | **Carbon Browser** | #CARBON #BROWSER<br />https://testflight.apple.com/join/Nd0sc84V |
@@ -40,7 +40,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
+| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -83,7 +83,7 @@
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
+| **Flippy • Learn Flashcards** | #FLIPPY #LEARN #FLASHCARDS<br />https://testflight.apple.com/join/pqOZyUZB |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -227,11 +227,11 @@
 | => **[SPORTS](https://departures.to/tags/sports)** <= ||
 | **Workout Sessions** | #WORKOUT #SESSIONS<br />https://testflight.apple.com/join/dDSurLeT |
 | **FotMob - Soccer Live Scores** | #FOTMOB #SOCCER #LIVE #SCORES<br />https://testflight.apple.com/join/zEAwGlrV |
-| **Yahoo Fantasy: Football & more** | #YAHOO #FANTASY #FOOTBALL #MORE<br />https://testflight.apple.com/join/dJtl4zh8 |
+| **Forza Football - Live Scores** | #FORZA #FOOTBALL #LIVE #SCORES<br />https://testflight.apple.com/join/5PNxaBZ1 |
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
+| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -253,13 +253,28 @@
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
 | **Ulysses: Writing App** | #ULYSSES #WRITING #APP<br />https://testflight.apple.com/join/r7ehG0dQ |
 | **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
-| **Tally • Quick Counter** | #TALLY #QUICK #COUNTER<br />https://testflight.apple.com/join/zbUiqcxg |
+| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Hand Mirror** | #HAND #MIRROR<br />https://testflight.apple.com/join/bnUjZUkE |
-| **Vipps MT** | #VIPPS #MT<br />https://testflight.apple.com/join/hTAYrwea |
+| **PDF Viewer - Annotation Expert** | #PDF #VIEWER #ANNOTATION #EXPERT<br />https://testflight.apple.com/join/6IMUtZ8n |
 | **Parcel - Delivery Tracking** | #PARCEL #DELIVERY #TRACKING<br />https://testflight.apple.com/join/fMeg6C4A |
 | **Momentory - Mindful Journal** | #MOMENTORY #MINDFUL #JOURNAL<br />https://testflight.apple.com/join/8Xbm7kwK |
+| **Octopus Energy** | #OCTOPUS #ENERGY<br />https://testflight.apple.com/join/c9II11da |
+| **Surge Network Tester** | #SURGE #NETWORK #TESTER<br />https://testflight.apple.com/join/ABWQfJsU |
+| **悟空盒子助手** | #悟空盒子助手<br />https://testflight.apple.com/join/apxQBWvS |
+| **Boson: Headphones Control** | #BOSON #HEADPHONES #CONTROL<br />https://testflight.apple.com/join/A5KoHhPO |
+| **Sangoma Meet** | #SANGOMA #MEET<br />https://testflight.apple.com/join/BEd12vi5 |
+| **Device Management App** | #DEVICE #MANAGEMENT #APP<br />https://testflight.apple.com/join/ZspSdWIi |
+| **Kenteken Scanner** | #KENTEKEN #SCANNER<br />https://testflight.apple.com/join/8UHWYY63 |
+| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
+| **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
+| **Debit & Credit** | #DEBIT #CREDIT<br />https://testflight.apple.com/join/FvufwHrV |
+| **MCalendar** | #MCALENDAR<br />https://testflight.apple.com/join/PPWLmiWG |
+| **Structured - Daily Planner** | #STRUCTURED #DAILY #PLANNER<br />https://testflight.apple.com/join/k3x7jn8B |
+| **Taco - WAX Utility Tools** | #TACO #WAX #UTILITY #TOOLS<br />https://testflight.apple.com/join/thvCAqM3 |
+| **My Vodafone** | #MY #VODAFONE<br />https://testflight.apple.com/join/Lg9WYrsn |
+| **Minimal - Writing + Notes** | #MINIMAL #WRITING #NOTES<br />https://testflight.apple.com/join/hfvQiGFK |
 | => **[VIDEO](https://departures.to/tags/video)** <= ||
 | **CapCut - Video Editor** | #CAPCUT #VIDEO #EDITOR<br />https://testflight.apple.com/join/Gu9kI6ky |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
