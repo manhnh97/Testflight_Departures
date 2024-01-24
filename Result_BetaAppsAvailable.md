@@ -1,4 +1,4 @@
-# Beta Apps is available	[23/01/2024 07:11 PM]
+# Beta Apps is available	[24/01/2024 10:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -34,7 +34,6 @@
 | **Carbon Browser** | #CARBON #BROWSER<br />https://testflight.apple.com/join/Nd0sc84V |
 | **Brave Beta** | #BRAVE #BETA<br />https://testflight.apple.com/join/Trcbh1o3 |
 | **Maxthon Browser** | #MAXTHON #BROWSER<br />https://testflight.apple.com/join/ONuHkBRv |
-| **Aloha Browser: Private VPN** | #ALOHA #BROWSER #PRIVATE #VPN<br />https://testflight.apple.com/join/Xh9VNQoA |
 | => **[BUSINESS](https://departures.to/tags/business)** <= ||
 | **QR Pop** | #QR #POP<br />https://testflight.apple.com/join/pW7vfuS0 |
 | **SierraBooks Invoices** | #SIERRABOOKS #INVOICES<br />https://testflight.apple.com/join/KZx6AD22 |
@@ -46,7 +45,7 @@
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
 | => **[CRYPTOCURRENCY](https://departures.to/tags/cryptocurrency)** <= ||
-| **Family - Ethereum Wallet** | #FAMILY #ETHEREUM #WALLET<br />https://testflight.apple.com/join/oUKAfJbr |
+| **Bitkit Wallet** | #BITKIT #WALLET<br />https://testflight.apple.com/join/lGXhnwcC |
 | **CoinW Global** | #COINW #GLOBAL<br />https://testflight.apple.com/join/SEEmyWBL |
 | **Bahari Nano Wallet** | #BAHARI #NANO #WALLET<br />https://testflight.apple.com/join/u6z8loND |
 | **Candide Wallet** | #CANDIDE #WALLET<br />https://testflight.apple.com/join/A6GK52W1 |
@@ -103,11 +102,11 @@
 | **iExpense** | #IEXPENSE<br />https://testflight.apple.com/join/gDq7HgFg |
 | **Minhas Finanças - Despesas** | #MINHAS #FINANÇAS #DESPESAS<br />https://testflight.apple.com/join/5xvHr9nt |
 | **Cash App** | #CASH #APP<br />https://testflight.apple.com/join/An0RiOFF |
-| **Bills To Budget** | #BILLS #TO #BUDGET<br />https://testflight.apple.com/join/7kAvZvtk |
+| **Banking4** | #BANKING4<br />https://testflight.apple.com/join/qeJYyYT7 |
 | **Chronicle - Bill Organizer** | #CHRONICLE #BILL #ORGANIZER<br />https://testflight.apple.com/join/eTDiFDup |
 | **DNB Mobile Bank** | #DNB #MOBILE #BANK<br />https://testflight.apple.com/join/b6NACjPd |
 | **Nubank - Conta e Cartão** | #NUBANK #CONTA #E #CARTÃO<br />https://testflight.apple.com/join/v3SGNpM5 |
-| **菜鸟—快递物流轻松查寄取** | #菜鸟 #快递物流轻松查寄取<br />https://testflight.apple.com/join/TmylEvDp |
+| **Net Worth Tracker – Sumio** | #NET #WORTH #TRACKER #SUMIO<br />https://testflight.apple.com/join/9908Qo7c |
 | **smallcase: Stock Investments** | #SMALLCASE #STOCK #INVESTMENTS<br />https://testflight.apple.com/join/XSkiZoQf |
 | => **[FITNESS](https://departures.to/tags/fitness)** <= ||
 | **Pedal – Your cycling companion** | #PEDAL #YOUR #CYCLING #COMPANION<br />https://testflight.apple.com/join/WOYFrthX |
@@ -122,22 +121,22 @@
 | **Untappd - Discover Beer** | #UNTAPPD #DISCOVER #BEER<br />https://testflight.apple.com/join/EbIrz3mA |
 | => **[GAMES](https://departures.to/tags/games)** <= ||
 | **WOW: Wars of Wanon** | #WOW #WARS #OF #WANON<br />https://testflight.apple.com/join/UZ4tYFb6 |
-| **HexOnHex** | #HEXONHEX<br />https://testflight.apple.com/join/5NrYnzWb |
+| **XANA Metaverse** | #XANA #METAVERSE<br />https://testflight.apple.com/join/TglRnz6A |
+| **Breakthrough! Visual Novel** | #BREAKTHROUGH #VISUAL #NOVEL<br />https://testflight.apple.com/join/Dp076pRX |
 | **Horse Of Legends - HOL** | #HORSE #OF #LEGENDS #HOL<br />https://testflight.apple.com/join/LHUHLYG5 |
 | **Celted** | #CELTED<br />https://testflight.apple.com/join/YeVSTsai |
-| **In Next Life** | #IN #NEXT #LIFE<br />https://testflight.apple.com/join/D50l7OXY |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
 | **Lego Sky Island Escape!** | #LEGO #SKY #ISLAND #ESCAPE<br />https://testflight.apple.com/join/BDWu8n5P |
 | **Pocket GM 3: Football Sim** | #POCKET #GM #3 #FOOTBALL #SIM<br />https://testflight.apple.com/join/rnykOyO0 |
 | **Soralution** | #SORALUTION<br />https://testflight.apple.com/join/670hF438 |
-| **PICO VR** | #PICO #VR<br />https://testflight.apple.com/join/DpwLvLwR |
+| **Cell to Singularity: Evolution** | #CELL #TO #SINGULARITY #EVOLUTION<br />https://testflight.apple.com/join/RD9jGH9S |
 | **Dungeon Ward: Offline RPG game** | #DUNGEON #WARD #OFFLINE #RPG #GAME<br />https://testflight.apple.com/join/Kyg7sbis |
 | **Twitch Beta** | #TWITCH #BETA<br />https://testflight.apple.com/join/8vRKFAiY |
 | **Market Simulator** | #MARKET #SIMULATOR<br />https://testflight.apple.com/join/bYOHZTCt |
 | **Pocket Space!** | #POCKET #SPACE<br />https://testflight.apple.com/join/DHipLt9w |
 | **我的世界测试版** | #我的世界测试版<br />https://testflight.apple.com/join/mOxZm1dD |
-| **Wuxiaworld** | #WUXIAWORLD<br />https://testflight.apple.com/join/bcMoIc0Q |
-| **MTG Scanner - Lion’s Eye** | #MTG #SCANNER #LION #S #EYE<br />https://testflight.apple.com/join/yj6QDl0H |
+| **Ninja World War: Global Force** | #NINJA #WORLD #WAR #GLOBAL #FORCE<br />https://testflight.apple.com/join/2maWknqu |
+| **AGFEO Dashboard** | #AGFEO #DASHBOARD<br />https://testflight.apple.com/join/D3krMHzA |
 | **chainzarena-mbox** | #CHAINZARENA #MBOX<br />https://testflight.apple.com/join/dqI8Xj18 |
 | **blockbrawler** | #BLOCKBRAWLER<br />https://testflight.apple.com/join/AvzJebh3 |
 | **Buni Island** | #BUNI #ISLAND<br />https://testflight.apple.com/join/YAyTbCoq |
@@ -146,13 +145,14 @@
 | **Mark My Words - Word Game** | #MARK #MY #WORDS #WORD #GAME<br />https://testflight.apple.com/join/jEhWQPiK |
 | **霸王的梦想** | #霸王的梦想<br />https://testflight.apple.com/join/Rl006EFo |
 | **Samurai Fight** | #SAMURAI #FIGHT<br />https://testflight.apple.com/join/4a8K6ltZ |
+| **OST: Tabletop Music Companion** | #OST #TABLETOP #MUSIC #COMPANION<br />https://testflight.apple.com/join/MValYHmM |
 | => **[HEALTH](https://departures.to/tags/health)** <= ||
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **Peaks: Biorhythm Tracker** | #PEAKS #BIORHYTHM #TRACKER<br />https://testflight.apple.com/join/Z0KOoZht |
 | **Health Auto Export - JSON+CSV** | #HEALTH #AUTO #EXPORT #JSON #CSV<br />https://testflight.apple.com/join/IoqYlD8A |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
+| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **Shape: Lucid Dreaming** | #SHAPE #LUCID #DREAMING<br />https://testflight.apple.com/join/UPmVuiMA |
 | => **[HOMEKIT](https://departures.to/tags/homekit)** <= ||
@@ -266,7 +266,7 @@
 | **Sangoma Meet** | #SANGOMA #MEET<br />https://testflight.apple.com/join/BEd12vi5 |
 | **Device Management App** | #DEVICE #MANAGEMENT #APP<br />https://testflight.apple.com/join/ZspSdWIi |
 | **Kenteken Scanner** | #KENTEKEN #SCANNER<br />https://testflight.apple.com/join/8UHWYY63 |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
+| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
 | **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
 | **Debit & Credit** | #DEBIT #CREDIT<br />https://testflight.apple.com/join/FvufwHrV |
 | **MCalendar** | #MCALENDAR<br />https://testflight.apple.com/join/PPWLmiWG |
@@ -275,7 +275,7 @@
 | **My Vodafone** | #MY #VODAFONE<br />https://testflight.apple.com/join/Lg9WYrsn |
 | **Minimal - Writing + Notes** | #MINIMAL #WRITING #NOTES<br />https://testflight.apple.com/join/hfvQiGFK |
 | => **[VIDEO](https://departures.to/tags/video)** <= ||
-| **CapCut - Video Editor** | #CAPCUT #VIDEO #EDITOR<br />https://testflight.apple.com/join/Gu9kI6ky |
+| **Streamie** | #STREAMIE<br />https://testflight.apple.com/join/qcOTQQaL |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **PICO VR** | #PICO #VR<br />https://testflight.apple.com/join/DpwLvLwR |
 | **Nexar - AI Dash Cam** | #NEXAR #AI #DASH #CAM<br />https://testflight.apple.com/join/f8tSQ2q0 |
