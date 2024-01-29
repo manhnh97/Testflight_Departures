@@ -1,4 +1,4 @@
-# Beta Apps is available	[29/01/2024 02:11 PM]
+# Beta Apps is available	[29/01/2024 07:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -82,7 +82,6 @@
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -151,7 +150,7 @@
 | **Health Auto Export - JSON+CSV** | #HEALTH #AUTO #EXPORT #JSON #CSV<br />https://testflight.apple.com/join/IoqYlD8A |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
+| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **Shape: Lucid Dreaming** | #SHAPE #LUCID #DREAMING<br />https://testflight.apple.com/join/UPmVuiMA |
 | => **[HOMEKIT](https://departures.to/tags/homekit)** <= ||
@@ -198,7 +197,7 @@
 | => **[PHOTOGRAPHY](https://departures.to/tags/photography)** <= ||
 | **Camarts Photography** | #CAMARTS #PHOTOGRAPHY<br />https://testflight.apple.com/join/J4ymVf0z |
 | **Picme - Get the Real Picture.** | #PICME #GET #THE #REAL #PICTURE<br />https://testflight.apple.com/join/MmJ4tvUr |
-| **Imgur: Funny Memes & GIF Maker** | #IMGUR #FUNNY #MEMES #GIF #MAKER<br />https://testflight.apple.com/join/Qd42y5Pw |
+| **Polycam 3D Scanner, LiDAR, 360** | #POLYCAM #3D #SCANNER #LIDAR #360<br />https://testflight.apple.com/join/H5Y6Mtw5 |
 | **Photo Safe - private photos** | #PHOTO #SAFE #PRIVATE #PHOTOS<br />https://testflight.apple.com/join/kLEbv33I |
 | **DateStamper** | #DATESTAMPER<br />https://testflight.apple.com/join/1SjoJEhx |
 | **I Remember When** | #I #REMEMBER #WHEN<br />https://testflight.apple.com/join/hEh8SXPI |
@@ -250,7 +249,7 @@
 | **TickTick:To-Do List & Calendar** | #TICKTICK #TO #DO #LIST #CALENDAR<br />https://testflight.apple.com/join/vWQPDFQU |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **Ulysses: Writing App** | #ULYSSES #WRITING #APP<br />https://testflight.apple.com/join/r7ehG0dQ |
-| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
+| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
 | **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
@@ -262,7 +261,7 @@
 | **悟空盒子助手** | #悟空盒子助手<br />https://testflight.apple.com/join/apxQBWvS |
 | **Pelando: Promoções e Cupons** | #PELANDO #PROMOÇÕES #E #CUPONS<br />https://testflight.apple.com/join/yHerrRYY |
 | **ownCloud - File Sync and Share** | #OWNCLOUD #FILE #SYNC #AND #SHARE<br />https://testflight.apple.com/join/Oktj0iKv |
-| **Check Later** | #CHECK #LATER<br />https://testflight.apple.com/join/B4cD7aRC |
+| **Device Management App** | #DEVICE #MANAGEMENT #APP<br />https://testflight.apple.com/join/ZspSdWIi |
 | **TextExpander 7** | #TEXTEXPANDER #7<br />https://testflight.apple.com/join/a5Wu4mBU |
 | **BinDay** | #BINDAY<br />https://testflight.apple.com/join/fHPrJuZ2 |
 | **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
