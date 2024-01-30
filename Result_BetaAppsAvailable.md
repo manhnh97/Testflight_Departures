@@ -1,4 +1,4 @@
-# Beta Apps is available	[30/01/2024 02:11 PM]
+# Beta Apps is available	[30/01/2024 07:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -229,7 +229,7 @@
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
+| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -250,8 +250,8 @@
 | **TickTick:To-Do List & Calendar** | #TICKTICK #TO #DO #LIST #CALENDAR<br />https://testflight.apple.com/join/vWQPDFQU |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
-| **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
+| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
+| **Classifier: Collection Tracker** | #CLASSIFIER #COLLECTION #TRACKER<br />https://testflight.apple.com/join/HeIftx1S |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
@@ -274,7 +274,7 @@
 | **My Vodafone** | #MY #VODAFONE<br />https://testflight.apple.com/join/Lg9WYrsn |
 | **Plant Daddy — Water Reminders** | #PLANT #DADDY #WATER #REMINDERS<br />https://testflight.apple.com/join/RPvavENk |
 | => **[VIDEO](https://departures.to/tags/video)** <= ||
-| **CapCut - Video Editor** | #CAPCUT #VIDEO #EDITOR<br />https://testflight.apple.com/join/Gu9kI6ky |
+| **Streamie** | #STREAMIE<br />https://testflight.apple.com/join/qcOTQQaL |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **PICO VR** | #PICO #VR<br />https://testflight.apple.com/join/DpwLvLwR |
 | **Nexar - AI Dash Cam** | #NEXAR #AI #DASH #CAM<br />https://testflight.apple.com/join/f8tSQ2q0 |
