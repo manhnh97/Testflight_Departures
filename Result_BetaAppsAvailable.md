@@ -1,4 +1,4 @@
-# Beta Apps is available	[30/01/2024 07:11 PM]
+# Beta Apps is available	[31/01/2024 10:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -47,7 +47,7 @@
 | => **[CRYPTOCURRENCY](https://departures.to/tags/cryptocurrency)** <= ||
 | **Unstoppable Crypto Wallet** | #UNSTOPPABLE #CRYPTO #WALLET<br />https://testflight.apple.com/join/JaKdKPY5 |
 | **CoinW Global** | #COINW #GLOBAL<br />https://testflight.apple.com/join/SEEmyWBL |
-| **Bahari Nano Wallet** | #BAHARI #NANO #WALLET<br />https://testflight.apple.com/join/u6z8loND |
+| **Muverse** | #MUVERSE<br />https://testflight.apple.com/join/oaAMHert |
 | **Candide Wallet** | #CANDIDE #WALLET<br />https://testflight.apple.com/join/A6GK52W1 |
 | **MyDoge - Dogecoin Wallet** | #MYDOGE #DOGECOIN #WALLET<br />https://testflight.apple.com/join/ugUu1xmy |
 | **Retro Wallet** | #RETRO #WALLET<br />https://testflight.apple.com/join/n71vOGwl |
@@ -182,7 +182,7 @@
 | **Suka Pass** | #SUKA #PASS<br />https://testflight.apple.com/join/TAHEsrwi |
 | => **[MUSIC](https://departures.to/tags/music)** <= ||
 | **MusicSmart - Liner Notes** | #MUSICSMART #LINER #NOTES<br />https://testflight.apple.com/join/7nB33UMD |
-| **BandLab – Music Making Studio** | #BANDLAB #MUSIC #MAKING #STUDIO<br />https://testflight.apple.com/join/BwbEj9Xx |
+| **Muverse** | #MUVERSE<br />https://testflight.apple.com/join/oaAMHert |
 | **stats.fm for Spotify Music App** | #STATS #FM #FOR #SPOTIFY #MUSIC #APP<br />https://testflight.apple.com/join/ATXJemn4 |
 | **SynthMaker** | #SYNTHMAKER<br />https://testflight.apple.com/join/BKEgzNCg |
 | **Flat: Music Score & Tab Editor** | #FLAT #MUSIC #SCORE #TAB #EDITOR<br />https://testflight.apple.com/join/40tsZiyi |
@@ -229,7 +229,7 @@
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
-| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
+| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -250,8 +250,8 @@
 | **TickTick:To-Do List & Calendar** | #TICKTICK #TO #DO #LIST #CALENDAR<br />https://testflight.apple.com/join/vWQPDFQU |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
-| **Classifier: Collection Tracker** | #CLASSIFIER #COLLECTION #TRACKER<br />https://testflight.apple.com/join/HeIftx1S |
+| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
+| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
@@ -260,7 +260,7 @@
 | **CloudClip** | #CLOUDCLIP<br />https://testflight.apple.com/join/pYrj28b4 |
 | **PCalc** | #PCALC<br />https://testflight.apple.com/join/qCCdSLT1 |
 | **SOTAMĀT SOTA / POTA Spotting** | #SOTAMĀT #SOTA #POTA #SPOTTING<br />https://testflight.apple.com/join/UQuW6g1E |
-| **悟空盒子助手** | #悟空盒子助手<br />https://testflight.apple.com/join/apxQBWvS |
+| **Trackpet** | #TRACKPET<br />https://testflight.apple.com/join/sY14cetk |
 | **1-2-3 Fuel** | #1 #2 #3 #FUEL<br />https://testflight.apple.com/join/odR8wwvp |
 | **Everlog Journal** | #EVERLOG #JOURNAL<br />https://testflight.apple.com/join/oARXO251 |
 | **Check Later** | #CHECK #LATER<br />https://testflight.apple.com/join/B4cD7aRC |
@@ -280,7 +280,6 @@
 | **Nexar - AI Dash Cam** | #NEXAR #AI #DASH #CAM<br />https://testflight.apple.com/join/f8tSQ2q0 |
 | **PanTiltZoom** | #PANTILTZOOM<br />https://testflight.apple.com/join/ZUtNX7V2 |
 | => **[VISIONOS](https://departures.to/tags/visionOS)** <= ||
-| **PokeCountr - TCG Assistant** | #POKECOUNTR #TCG #ASSISTANT<br />https://testflight.apple.com/join/j9U5SyEI |
 | => **[VPN](https://departures.to/tags/vpn)** <= ||
 | **Maikr** | #MAIKR<br />https://testflight.apple.com/join/61cBo7QN |
 | **Passepartout, VPN Client** | #PASSEPARTOUT #VPN #CLIENT<br />https://testflight.apple.com/join/K71mtLjZ |
