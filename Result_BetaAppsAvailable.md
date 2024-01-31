@@ -1,4 +1,4 @@
-# Beta Apps is available	[31/01/2024 02:11 PM]
+# Beta Apps is available	[31/01/2024 07:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -40,7 +40,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -167,7 +167,7 @@
 | => **[MACOS](https://departures.to/tags/macos)** <= ||
 | **MusicSmart - Liner Notes** | #MUSICSMART #LINER #NOTES<br />https://testflight.apple.com/join/7nB33UMD |
 | **Hand Mirror** | #HAND #MIRROR<br />https://testflight.apple.com/join/bnUjZUkE |
-| **Enpass - Password Manager** | #ENPASS #PASSWORD #MANAGER<br />https://testflight.apple.com/join/ZKjpX8qr |
+| **VoiceOver Designer** | #VOICEOVER #DESIGNER<br />https://testflight.apple.com/join/GRsuZ0QD |
 | **Zavala** | #ZAVALA<br />https://testflight.apple.com/join/iFbND23m |
 | **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
 | **Task Flow beta** | #TASK #FLOW #BETA<br />https://testflight.apple.com/join/JyqxBPFf |
@@ -249,7 +249,7 @@
 | **TickTick:To-Do List & Calendar** | #TICKTICK #TO #DO #LIST #CALENDAR<br />https://testflight.apple.com/join/vWQPDFQU |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
+| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
 | **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
