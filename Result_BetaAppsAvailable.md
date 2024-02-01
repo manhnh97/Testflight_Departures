@@ -1,4 +1,4 @@
-# Beta Apps is available	[01/02/2024 10:11 AM]
+# Beta Apps is available	[01/02/2024 02:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -40,7 +40,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -79,7 +79,7 @@
 | => **[DRONES](https://departures.to/tags/drones)** <= ||
 | **Dronelink Flight** | #DRONELINK #FLIGHT<br />https://testflight.apple.com/join/PumJOBFK |
 | => **[EDUCATION](https://departures.to/tags/education)** <= ||
-| **Duolingo - Language Lessons** | #DUOLINGO #LANGUAGE #LESSONS<br />https://testflight.apple.com/join/Sq8bYSnJ |
+| **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
 | **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
@@ -217,7 +217,7 @@
 | **RFOX VALT** | #RFOX #VALT<br />https://testflight.apple.com/join/bPUkXcr3 |
 | **Colorfol** | #COLORFOL<br />https://testflight.apple.com/join/njLMVbVO |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
-| **Messenger** | #MESSENGER<br />https://testflight.apple.com/join/njVWbUm0 |
+| **SOTAMĀT SOTA / POTA Spotting** | #SOTAMĀT #SOTA #POTA #SPOTTING<br />https://testflight.apple.com/join/UQuW6g1E |
 | **Pelando: Promoções e Cupons** | #PELANDO #PROMOÇÕES #E #CUPONS<br />https://testflight.apple.com/join/yHerrRYY |
 | **Tapatalk - 200,000+ Forums** | #TAPATALK #200 #000 #FORUMS<br />https://testflight.apple.com/join/oGFXVgl6 |
 | **SmartPost - Post Scheduler** | #SMARTPOST #POST #SCHEDULER<br />https://testflight.apple.com/join/a0zXMXbA |
@@ -252,7 +252,7 @@
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
 | **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
-| **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
+| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
