@@ -1,4 +1,4 @@
-# Beta Apps is available	[01/02/2024 02:11 PM]
+# Beta Apps is available	[01/02/2024 07:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -9,7 +9,6 @@
 | **AI Keyboard・ReplyAssistant** | #AI #KEYBOARD #REPLYASSISTANT<br />https://testflight.apple.com/join/LI3ZMOad |
 | => **[ART-AND-DESIGN](https://departures.to/tags/art-and-design)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
-| **Drip.Art V0: AI Video Generate** | #DRIP #ART #V0 #AI #VIDEO #GENERATE<br />https://testflight.apple.com/join/SxQilTIz |
 | **ICONS+** | #ICONS<br />https://testflight.apple.com/join/ji6aqUks |
 | **Imgur: Funny Memes & GIF Maker** | #IMGUR #FUNNY #MEMES #GIF #MAKER<br />https://testflight.apple.com/join/Qd42y5Pw |
 | **FocalPaint** | #FOCALPAINT<br />https://testflight.apple.com/join/1adnuUHv |
@@ -82,7 +81,6 @@
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -151,7 +149,7 @@
 | **Health Auto Export - JSON+CSV** | #HEALTH #AUTO #EXPORT #JSON #CSV<br />https://testflight.apple.com/join/IoqYlD8A |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
+| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **Shape: Lucid Dreaming** | #SHAPE #LUCID #DREAMING<br />https://testflight.apple.com/join/UPmVuiMA |
 | => **[HOMEKIT](https://departures.to/tags/homekit)** <= ||
@@ -229,7 +227,7 @@
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
-| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
+| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -265,12 +263,12 @@
 | **1-2-3 Fuel** | #1 #2 #3 #FUEL<br />https://testflight.apple.com/join/odR8wwvp |
 | **Everlog Journal** | #EVERLOG #JOURNAL<br />https://testflight.apple.com/join/oARXO251 |
 | **Check Later** | #CHECK #LATER<br />https://testflight.apple.com/join/B4cD7aRC |
-| **Device Management App** | #DEVICE #MANAGEMENT #APP<br />https://testflight.apple.com/join/ZspSdWIi |
+| **TextExpander 7** | #TEXTEXPANDER #7<br />https://testflight.apple.com/join/a5Wu4mBU |
 | **Soulver** | #SOULVER<br />https://testflight.apple.com/join/rBWP4hPz |
 | **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
 | **Cryptomator** | #CRYPTOMATOR<br />https://testflight.apple.com/join/WMtYSrzD |
 | **MCalendar** | #MCALENDAR<br />https://testflight.apple.com/join/PPWLmiWG |
-| **Remarkable Text To Speech** | #REMARKABLE #TEXT #TO #SPEECH<br />https://testflight.apple.com/join/SEVGXqVm |
+| **1Password: Password Manager** | #1PASSWORD #PASSWORD #MANAGER<br />https://testflight.apple.com/join/fzDLkIVK |
 | **NotePlan - Daily Task Planner** | #NOTEPLAN #DAILY #TASK #PLANNER<br />https://testflight.apple.com/join/Cwb6UmfY |
 | **My Vodafone** | #MY #VODAFONE<br />https://testflight.apple.com/join/Lg9WYrsn |
 | **Easy Unarchiver - ZIP, RAR** | #EASY #UNARCHIVER #ZIP #RAR<br />https://testflight.apple.com/join/jXX0Wyfy |
