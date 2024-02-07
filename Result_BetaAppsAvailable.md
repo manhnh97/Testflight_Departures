@@ -1,4 +1,4 @@
-# Beta Apps is available	[07/02/2024 10:11 AM]
+# Beta Apps is available	[07/02/2024 02:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -39,7 +39,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -93,7 +93,7 @@
 | **SuperTuxKart** | #SUPERTUXKART<br />https://testflight.apple.com/join/mbK8RjHq |
 | **Freebox Files** | #FREEBOX #FILES<br />https://testflight.apple.com/join/T8Op14Wg |
 | **TV Time: Track Shows & Movies** | #TV #TIME #TRACK #SHOWS #MOVIES<br />https://testflight.apple.com/join/hjKkDsc4 |
-| **Rippple for Trakt** | #RIPPPLE #FOR #TRAKT<br />https://testflight.apple.com/join/iz05hhED |
+| **Pelando: Promoções e Cupons** | #PELANDO #PROMOÇÕES #E #CUPONS<br />https://testflight.apple.com/join/yHerrRYY |
 | **waipu.tv - Live TV Streaming** | #WAIPU #TV #LIVE #TV #STREAMING<br />https://testflight.apple.com/join/l72L1OK3 |
 | **ZLX** | #ZLX<br />https://testflight.apple.com/join/QkFYMjbN |
 | => **[FILES-AND-CLOUD](https://departures.to/tags/files-and-cloud)** <= ||
