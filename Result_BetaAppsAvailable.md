@@ -1,4 +1,4 @@
-# Beta Apps is available	[08/02/2024 10:11 AM]
+# Beta Apps is available	[08/02/2024 02:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -9,6 +9,7 @@
 | **AI Keyboard・ReplyAssistant** | #AI #KEYBOARD #REPLYASSISTANT<br />https://testflight.apple.com/join/LI3ZMOad |
 | => **[ART-AND-DESIGN](https://departures.to/tags/art-and-design)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
+| **Kurozora - Anime/Manga Tracker** | #KUROZORA #ANIME #MANGA #TRACKER<br />https://testflight.apple.com/join/Bzr2TrDi |
 | **ICONS+** | #ICONS<br />https://testflight.apple.com/join/ji6aqUks |
 | **Imgur: Funny Memes & GIF Maker** | #IMGUR #FUNNY #MEMES #GIF #MAKER<br />https://testflight.apple.com/join/Qd42y5Pw |
 | **FocalPaint** | #FOCALPAINT<br />https://testflight.apple.com/join/1adnuUHv |
@@ -39,7 +40,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -81,6 +82,7 @@
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
+| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -130,6 +132,7 @@
 | **Soralution** | #SORALUTION<br />https://testflight.apple.com/join/670hF438 |
 | **Infinite Drive** | #INFINITE #DRIVE<br />https://testflight.apple.com/join/fDLLZeSk |
 | **DropZap World** | #DROPZAP #WORLD<br />https://testflight.apple.com/join/CdEXgjst |
+| **Twitch Beta** | #TWITCH #BETA<br />https://testflight.apple.com/join/8vRKFAiY |
 | **Market Simulator** | #MARKET #SIMULATOR<br />https://testflight.apple.com/join/bYOHZTCt |
 | **我的世界测试版** | #我的世界测试版<br />https://testflight.apple.com/join/mOxZm1dD |
 | **Ninja World War: Global Force** | #NINJA #WORLD #WAR #GLOBAL #FORCE<br />https://testflight.apple.com/join/2maWknqu |
@@ -148,7 +151,7 @@
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/8RcEFqFF |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
+| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/G6qjtzj2 |
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/tCeANbZi |
@@ -228,7 +231,7 @@
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
+| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -250,8 +253,8 @@
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
-| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
+| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
+| **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
@@ -264,7 +267,7 @@
 | **1-2-3 Fuel** | #1 #2 #3 #FUEL<br />https://testflight.apple.com/join/odR8wwvp |
 | **Everlog Journal** | #EVERLOG #JOURNAL<br />https://testflight.apple.com/join/oARXO251 |
 | **Check Later** | #CHECK #LATER<br />https://testflight.apple.com/join/B4cD7aRC |
-| **Device Management App** | #DEVICE #MANAGEMENT #APP<br />https://testflight.apple.com/join/ZspSdWIi |
+| **TextExpander 7** | #TEXTEXPANDER #7<br />https://testflight.apple.com/join/a5Wu4mBU |
 | **Soulver** | #SOULVER<br />https://testflight.apple.com/join/rBWP4hPz |
 | **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
 | **Cryptomator** | #CRYPTOMATOR<br />https://testflight.apple.com/join/WMtYSrzD |
