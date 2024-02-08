@@ -1,4 +1,4 @@
-# Beta Apps is available	[07/02/2024 07:11 PM]
+# Beta Apps is available	[08/02/2024 10:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -39,7 +39,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
+| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -130,7 +130,6 @@
 | **Soralution** | #SORALUTION<br />https://testflight.apple.com/join/670hF438 |
 | **Infinite Drive** | #INFINITE #DRIVE<br />https://testflight.apple.com/join/fDLLZeSk |
 | **DropZap World** | #DROPZAP #WORLD<br />https://testflight.apple.com/join/CdEXgjst |
-| **Twitch Beta** | #TWITCH #BETA<br />https://testflight.apple.com/join/8vRKFAiY |
 | **Market Simulator** | #MARKET #SIMULATOR<br />https://testflight.apple.com/join/bYOHZTCt |
 | **我的世界测试版** | #我的世界测试版<br />https://testflight.apple.com/join/mOxZm1dD |
 | **Ninja World War: Global Force** | #NINJA #WORLD #WAR #GLOBAL #FORCE<br />https://testflight.apple.com/join/2maWknqu |
@@ -149,7 +148,7 @@
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/8RcEFqFF |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
+| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/G6qjtzj2 |
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/tCeANbZi |
@@ -251,8 +250,8 @@
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
-| **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
+| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
+| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
@@ -265,7 +264,7 @@
 | **1-2-3 Fuel** | #1 #2 #3 #FUEL<br />https://testflight.apple.com/join/odR8wwvp |
 | **Everlog Journal** | #EVERLOG #JOURNAL<br />https://testflight.apple.com/join/oARXO251 |
 | **Check Later** | #CHECK #LATER<br />https://testflight.apple.com/join/B4cD7aRC |
-| **TextExpander 7** | #TEXTEXPANDER #7<br />https://testflight.apple.com/join/a5Wu4mBU |
+| **Device Management App** | #DEVICE #MANAGEMENT #APP<br />https://testflight.apple.com/join/ZspSdWIi |
 | **Soulver** | #SOULVER<br />https://testflight.apple.com/join/rBWP4hPz |
 | **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
 | **Cryptomator** | #CRYPTOMATOR<br />https://testflight.apple.com/join/WMtYSrzD |
