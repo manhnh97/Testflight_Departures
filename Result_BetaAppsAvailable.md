@@ -1,4 +1,4 @@
-# Beta Apps is available	[09/02/2024 10:11 AM]
+# Beta Apps is available	[09/02/2024 02:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -38,7 +38,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
 | **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
@@ -238,7 +238,7 @@
 | **Landscape: Mountaineering** | #LANDSCAPE #MOUNTAINEERING<br />https://testflight.apple.com/join/SrVraMCy |
 | **WMEditor** | #WMEDITOR<br />https://testflight.apple.com/join/jr7twq7L |
 | => **[TVOS](https://departures.to/tags/tvos)** <= ||
-| **F1ATV** | #F1ATV<br />https://testflight.apple.com/join/NRswe1IZ |
+| **iV2EX** | #IV2EX<br />https://testflight.apple.com/join/ZY4rGlbA |
 | => **[UTILITY](https://departures.to/tags/utility)** <= ||
 | **Keka** | #KEKA<br />https://testflight.apple.com/join/gPYINGCJ |
 | **Magic Calculator App** | #MAGIC #CALCULATOR #APP<br />https://testflight.apple.com/join/1x2cMZxK |
@@ -251,7 +251,7 @@
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
 | **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
-| **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
+| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
@@ -264,7 +264,7 @@
 | **1-2-3 Fuel** | #1 #2 #3 #FUEL<br />https://testflight.apple.com/join/odR8wwvp |
 | **Everlog Journal** | #EVERLOG #JOURNAL<br />https://testflight.apple.com/join/oARXO251 |
 | **Check Later** | #CHECK #LATER<br />https://testflight.apple.com/join/B4cD7aRC |
-| **TextExpander 7** | #TEXTEXPANDER #7<br />https://testflight.apple.com/join/a5Wu4mBU |
+| **Device Management App** | #DEVICE #MANAGEMENT #APP<br />https://testflight.apple.com/join/ZspSdWIi |
 | **Soulver** | #SOULVER<br />https://testflight.apple.com/join/rBWP4hPz |
 | **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
 | **Cryptomator** | #CRYPTOMATOR<br />https://testflight.apple.com/join/WMtYSrzD |
@@ -274,7 +274,7 @@
 | **My Vodafone** | #MY #VODAFONE<br />https://testflight.apple.com/join/Lg9WYrsn |
 | **Easy Unarchiver - ZIP, RAR** | #EASY #UNARCHIVER #ZIP #RAR<br />https://testflight.apple.com/join/jXX0Wyfy |
 | => **[VIDEO](https://departures.to/tags/video)** <= ||
-| **CapCut - Video Editor** | #CAPCUT #VIDEO #EDITOR<br />https://testflight.apple.com/join/Gu9kI6ky |
+| **Streamie** | #STREAMIE<br />https://testflight.apple.com/join/qcOTQQaL |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **PICO VR** | #PICO #VR<br />https://testflight.apple.com/join/DpwLvLwR |
 | **Nexar - AI Dash Cam** | #NEXAR #AI #DASH #CAM<br />https://testflight.apple.com/join/f8tSQ2q0 |
