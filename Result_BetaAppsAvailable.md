@@ -1,4 +1,4 @@
-# Beta Apps is available	[09/02/2024 07:11 PM]
+# Beta Apps is available	[10/02/2024 10:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -13,9 +13,8 @@
 | **FocalPaint** | #FOCALPAINT<br />https://testflight.apple.com/join/1adnuUHv |
 | **Sticker Maker Studio** | #STICKER #MAKER #STUDIO<br />https://testflight.apple.com/join/eucMfZTb |
 | => **[AUDIO](https://departures.to/tags/audio)** <= ||
-| **Airbuds Widget** | #AIRBUDS #WIDGET<br />https://testflight.apple.com/join/0nEOUD24 |
+| **Unwatched** | #UNWATCHED<br />https://testflight.apple.com/join/9RP0WzCR |
 | **SynthMaker** | #SYNTHMAKER<br />https://testflight.apple.com/join/BKEgzNCg |
-| **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **Boson: Headphones Control** | #BOSON #HEADPHONES #CONTROL<br />https://testflight.apple.com/join/A5KoHhPO |
 | **WatchTube** | #WATCHTUBE<br />https://testflight.apple.com/join/tpwIQJIR |
 | => **[AUGMENTED-REALITY](https://departures.to/tags/augmented-reality)** <= ||
@@ -36,12 +35,12 @@
 | **QR Pop** | #QR #POP<br />https://testflight.apple.com/join/pW7vfuS0 |
 | **SierraBooks Invoices** | #SIERRABOOKS #INVOICES<br />https://testflight.apple.com/join/KZx6AD22 |
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
-| **Cubzh** | #CUBZH<br />https://testflight.apple.com/join/7iMxzKht |
-| **Pati-Games&Chat** | #PATI #GAMES #CHAT<br />https://testflight.apple.com/join/OySOWcrj |
+| **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
+| **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
-| **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
+| **AirChat: Peer-to-Peer Chat** | #AIRCHAT #PEER #TO #PEER #CHAT<br />https://testflight.apple.com/join/ebShbRKm |
 | => **[CRYPTOCURRENCY](https://departures.to/tags/cryptocurrency)** <= ||
 | **XANA Metaverse** | #XANA #METAVERSE<br />https://testflight.apple.com/join/TglRnz6A |
 | **CoinW Global** | #COINW #GLOBAL<br />https://testflight.apple.com/join/SEEmyWBL |
@@ -74,13 +73,13 @@
 | **Termius: Terminal & SSH client** | #TERMIUS #TERMINAL #SSH #CLIENT<br />https://testflight.apple.com/join/MnuClabg |
 | **Cryptomator** | #CRYPTOMATOR<br />https://testflight.apple.com/join/WMtYSrzD |
 | **app.list** | #APP #LIST<br />https://testflight.apple.com/join/hf7HdF2z |
+| **Bot Designer For Discord** | #BOT #DESIGNER #FOR #DISCORD<br />https://testflight.apple.com/join/hNCzNuSG |
 | => **[DRONES](https://departures.to/tags/drones)** <= ||
 | **Dronelink Flight** | #DRONELINK #FLIGHT<br />https://testflight.apple.com/join/PumJOBFK |
 | => **[EDUCATION](https://departures.to/tags/education)** <= ||
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -89,12 +88,13 @@
 | **Calendars 5 by Readdle** | #CALENDARS #5 #BY #READDLE<br />https://testflight.apple.com/join/tC44BniC |
 | **MCalendar** | #MCALENDAR<br />https://testflight.apple.com/join/PPWLmiWG |
 | => **[ENTERTAINMENT](https://departures.to/tags/entertainment)** <= ||
-| **SuperTuxKart** | #SUPERTUXKART<br />https://testflight.apple.com/join/mbK8RjHq |
-| **Freebox Files** | #FREEBOX #FILES<br />https://testflight.apple.com/join/T8Op14Wg |
+| **Unwatched** | #UNWATCHED<br />https://testflight.apple.com/join/9RP0WzCR |
+| **仙剑三** | #仙剑三<br />https://testflight.apple.com/join/ypI5moed |
 | **TV Time: Track Shows & Movies** | #TV #TIME #TRACK #SHOWS #MOVIES<br />https://testflight.apple.com/join/hjKkDsc4 |
-| **Pelando: Promoções e Cupons** | #PELANDO #PROMOÇÕES #E #CUPONS<br />https://testflight.apple.com/join/yHerrRYY |
-| **waipu.tv - Live TV Streaming** | #WAIPU #TV #LIVE #TV #STREAMING<br />https://testflight.apple.com/join/l72L1OK3 |
+| **IMDb: Movies & TV Shows** | #IMDB #MOVIES #TV #SHOWS<br />https://testflight.apple.com/join/Y9yo0X5t |
+| **Cider Remote** | #CIDER #REMOTE<br />https://testflight.apple.com/join/bI48Y8FL |
 | **ZLX** | #ZLX<br />https://testflight.apple.com/join/QkFYMjbN |
+| **Official Kodi Remote** | #OFFICIAL #KODI #REMOTE<br />https://testflight.apple.com/join/VQkpfqDN |
 | => **[FILES-AND-CLOUD](https://departures.to/tags/files-and-cloud)** <= ||
 | **Offline: Files, Browser, Docs** | #OFFLINE #FILES #BROWSER #DOCS<br />https://testflight.apple.com/join/6ebDbaIJ |
 | => **[FINANCE](https://departures.to/tags/finance)** <= ||
@@ -120,7 +120,7 @@
 | **RecipeChef: Recipe Manager** | #RECIPECHEF #RECIPE #MANAGER<br />https://testflight.apple.com/join/j5urtlwj |
 | => **[GAMES](https://departures.to/tags/games)** <= ||
 | **Wanaka Farm** | #WANAKA #FARM<br />https://testflight.apple.com/join/jUdIq7tn |
-| **War Robots Test** | #WAR #ROBOTS #TEST<br />https://testflight.apple.com/join/aE7qTf9G |
+| **Pupgame** | #PUPGAME<br />https://testflight.apple.com/join/IM3kTRUY |
 | **Niantic Wayfarer** | #NIANTIC #WAYFARER<br />https://testflight.apple.com/join/VXu1F2jf |
 | **Horse Of Legends - HOL** | #HORSE #OF #LEGENDS #HOL<br />https://testflight.apple.com/join/LHUHLYG5 |
 | **In Next Life** | #IN #NEXT #LIFE<br />https://testflight.apple.com/join/D50l7OXY |
@@ -148,14 +148,15 @@
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/8RcEFqFF |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Momentory - Mindful Journal** | #MOMENTORY #MINDFUL #JOURNAL<br />https://testflight.apple.com/join/8Xbm7kwK |
-| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
+| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/G6qjtzj2 |
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/tCeANbZi |
 | => **[HOMEKIT](https://departures.to/tags/homekit)** <= ||
 | **TP-Link Tapo Beta** | #TP #LINK #TAPO #BETA<br />https://testflight.apple.com/join/6yiRhKNU |
 | => **[IOS-17](https://departures.to/tags/ios-17)** <= ||
-| **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
+| **Unwatched** | #UNWATCHED<br />https://testflight.apple.com/join/9RP0WzCR |
+| **Peaks: Circadian Rhythm** | #PEAKS #CIRCADIAN #RHYTHM<br />https://testflight.apple.com/join/Z0KOoZht |
 | => **[LISTS-AND-TO-DO](https://departures.to/tags/lists-and-to-do)** <= ||
 | **To Do List - Daily Planner** | #TO #DO #LIST #DAILY #PLANNER<br />https://testflight.apple.com/join/mMojyPTd |
 | **TickTick:To-Do List & Calendar** | #TICKTICK #TO #DO #LIST #CALENDAR<br />https://testflight.apple.com/join/vWQPDFQU |
@@ -172,10 +173,10 @@
 | **Task Flow beta** | #TASK #FLOW #BETA<br />https://testflight.apple.com/join/JyqxBPFf |
 | => **[MAPS](https://departures.to/tags/maps)** <= ||
 | **Popland なにげない日常に、ワクワクを。** | #POPLAND #なにげない日常に #ワクワクを<br />https://testflight.apple.com/join/b4Vtjxpn |
-| **TwoNav: Maps Routes** | #TWONAV #MAPS #ROUTES<br />https://testflight.apple.com/join/d0uLPpsj |
+| **Standard Fleet** | #STANDARD #FLEET<br />https://testflight.apple.com/join/gjoO6enQ |
 | **Mapboard GIS** | #MAPBOARD #GIS<br />https://testflight.apple.com/join/0TfVlWyN |
 | **Passio GO** | #PASSIO #GO<br />https://testflight.apple.com/join/GkoL7RfS |
-| **Organic Maps: Hike Bike Drive** | #ORGANIC #MAPS #HIKE #BIKE #DRIVE<br />https://testflight.apple.com/join/lrKCl08I |
+| **Organic Maps Offline Hike Bike** | #ORGANIC #MAPS #OFFLINE #HIKE #BIKE<br />https://testflight.apple.com/join/lrKCl08I |
 | => **[MEDICAL](https://departures.to/tags/medical)** <= ||
 | **Suka Pass** | #SUKA #PASS<br />https://testflight.apple.com/join/TAHEsrwi |
 | => **[MUSIC](https://departures.to/tags/music)** <= ||
@@ -202,8 +203,8 @@
 | **Lookin Good Camera** | #LOOKIN #GOOD #CAMERA<br />https://testflight.apple.com/join/HXCjOBtc |
 | **I Remember When** | #I #REMEMBER #WHEN<br />https://testflight.apple.com/join/hEh8SXPI |
 | => **[PODCASTS](https://departures.to/tags/podcasts)** <= ||
-| **Untitled Podcast App** | #UNTITLED #PODCAST #APP<br />https://testflight.apple.com/join/a4bmx5rA |
-| **PodClips** | #PODCLIPS<br />https://testflight.apple.com/join/04pXDRjo |
+| **Unwatched** | #UNWATCHED<br />https://testflight.apple.com/join/9RP0WzCR |
+| **Podcast Republic - Podcast App** | #PODCAST #REPUBLIC #PODCAST #APP<br />https://testflight.apple.com/join/y8zpsf0p |
 | **Deezer: Music Player, Podcast** | #DEEZER #MUSIC #PLAYER #PODCAST<br />https://testflight.apple.com/join/e7mCOEeg |
 | => **[SHOPPING](https://departures.to/tags/shopping)** <= ||
 | **Walmart: Shopping & Savings** | #WALMART #SHOPPING #SAVINGS<br />https://testflight.apple.com/join/hDDYNJ6Z |
@@ -216,7 +217,7 @@
 | **RFOX VALT** | #RFOX #VALT<br />https://testflight.apple.com/join/bPUkXcr3 |
 | **Colorfol** | #COLORFOL<br />https://testflight.apple.com/join/njLMVbVO |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
-| **SOTAMĀT SOTA / POTA Spotting** | #SOTAMĀT #SOTA #POTA #SPOTTING<br />https://testflight.apple.com/join/UQuW6g1E |
+| **Messenger** | #MESSENGER<br />https://testflight.apple.com/join/njVWbUm0 |
 | **Pelando: Promoções e Cupons** | #PELANDO #PROMOÇÕES #E #CUPONS<br />https://testflight.apple.com/join/yHerrRYY |
 | **Tapatalk - 200,000+ Forums** | #TAPATALK #200 #000 #FORUMS<br />https://testflight.apple.com/join/oGFXVgl6 |
 | **SmartPost - Post Scheduler** | #SMARTPOST #POST #SCHEDULER<br />https://testflight.apple.com/join/a0zXMXbA |
@@ -228,7 +229,8 @@
 | => **[TIMERS](https://departures.to/tags/timers)** <= ||
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
+| **Count Time** | #COUNT #TIME<br />https://testflight.apple.com/join/hrx3vV1H |
+| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -238,7 +240,7 @@
 | **Landscape: Mountaineering** | #LANDSCAPE #MOUNTAINEERING<br />https://testflight.apple.com/join/SrVraMCy |
 | **WMEditor** | #WMEDITOR<br />https://testflight.apple.com/join/jr7twq7L |
 | => **[TVOS](https://departures.to/tags/tvos)** <= ||
-| **iV2EX** | #IV2EX<br />https://testflight.apple.com/join/ZY4rGlbA |
+| **F1ATV** | #F1ATV<br />https://testflight.apple.com/join/NRswe1IZ |
 | => **[UTILITY](https://departures.to/tags/utility)** <= ||
 | **Keka** | #KEKA<br />https://testflight.apple.com/join/gPYINGCJ |
 | **Magic Calculator App** | #MAGIC #CALCULATOR #APP<br />https://testflight.apple.com/join/1x2cMZxK |
@@ -251,7 +253,7 @@
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
 | **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
-| **Participant for Zoom** | #PARTICIPANT #FOR #ZOOM<br />https://testflight.apple.com/join/iwZesoSE |
+| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Crafted Pour** | #CRAFTED #POUR<br />https://testflight.apple.com/join/LheYynyu |
@@ -274,9 +276,9 @@
 | **My Vodafone** | #MY #VODAFONE<br />https://testflight.apple.com/join/Lg9WYrsn |
 | **Easy Unarchiver - ZIP, RAR** | #EASY #UNARCHIVER #ZIP #RAR<br />https://testflight.apple.com/join/jXX0Wyfy |
 | => **[VIDEO](https://departures.to/tags/video)** <= ||
-| **CapCut - Video Editor** | #CAPCUT #VIDEO #EDITOR<br />https://testflight.apple.com/join/Gu9kI6ky |
+| **Unwatched** | #UNWATCHED<br />https://testflight.apple.com/join/9RP0WzCR |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
-| **PICO VR** | #PICO #VR<br />https://testflight.apple.com/join/DpwLvLwR |
+| **Hand Mirror** | #HAND #MIRROR<br />https://testflight.apple.com/join/bnUjZUkE |
 | **Nexar - AI Dash Cam** | #NEXAR #AI #DASH #CAM<br />https://testflight.apple.com/join/f8tSQ2q0 |
 | **PanTiltZoom** | #PANTILTZOOM<br />https://testflight.apple.com/join/ZUtNX7V2 |
 | => **[VISIONOS](https://departures.to/tags/visionOS)** <= ||
