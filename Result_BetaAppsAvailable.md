@@ -1,4 +1,4 @@
-# Beta Apps is available	[12/02/2024 02:11 PM]
+# Beta Apps is available	[12/02/2024 07:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -37,7 +37,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **AirChat: Peer-to-Peer Chat** | #AIRCHAT #PEER #TO #PEER #CHAT<br />https://testflight.apple.com/join/ebShbRKm |
@@ -91,7 +91,7 @@
 | **IMDb: Movies & TV Shows** | #IMDB #MOVIES #TV #SHOWS<br />https://testflight.apple.com/join/Y9yo0X5t |
 | **仙剑三** | #仙剑三<br />https://testflight.apple.com/join/ypI5moed |
 | **TV Time: Track Shows & Movies** | #TV #TIME #TRACK #SHOWS #MOVIES<br />https://testflight.apple.com/join/hjKkDsc4 |
-| **Twitch Beta** | #TWITCH #BETA<br />https://testflight.apple.com/join/8vRKFAiY |
+| **Pelando: Promoções e Cupons** | #PELANDO #PROMOÇÕES #E #CUPONS<br />https://testflight.apple.com/join/yHerrRYY |
 | **Cider Remote** | #CIDER #REMOTE<br />https://testflight.apple.com/join/bI48Y8FL |
 | **ZLX** | #ZLX<br />https://testflight.apple.com/join/QkFYMjbN |
 | **Official Kodi Remote** | #OFFICIAL #KODI #REMOTE<br />https://testflight.apple.com/join/VQkpfqDN |
@@ -130,7 +130,6 @@
 | **Soralution** | #SORALUTION<br />https://testflight.apple.com/join/670hF438 |
 | **Infinite Drive** | #INFINITE #DRIVE<br />https://testflight.apple.com/join/fDLLZeSk |
 | **DropZap World** | #DROPZAP #WORLD<br />https://testflight.apple.com/join/CdEXgjst |
-| **Twitch Beta** | #TWITCH #BETA<br />https://testflight.apple.com/join/8vRKFAiY |
 | **Market Simulator** | #MARKET #SIMULATOR<br />https://testflight.apple.com/join/bYOHZTCt |
 | **我的世界测试版** | #我的世界测试版<br />https://testflight.apple.com/join/mOxZm1dD |
 | **Ninja World War: Global Force** | #NINJA #WORLD #WAR #GLOBAL #FORCE<br />https://testflight.apple.com/join/2maWknqu |
@@ -149,7 +148,7 @@
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/8RcEFqFF |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Momentory - Mindful Journal** | #MOMENTORY #MINDFUL #JOURNAL<br />https://testflight.apple.com/join/8Xbm7kwK |
-| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
+| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/G6qjtzj2 |
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/tCeANbZi |
@@ -280,7 +279,7 @@
 | **Unwatched** | #UNWATCHED<br />https://testflight.apple.com/join/9RP0WzCR |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **Hand Mirror** | #HAND #MIRROR<br />https://testflight.apple.com/join/bnUjZUkE |
-| **Twitch Beta** | #TWITCH #BETA<br />https://testflight.apple.com/join/8vRKFAiY |
+| **Nexar - AI Dash Cam** | #NEXAR #AI #DASH #CAM<br />https://testflight.apple.com/join/f8tSQ2q0 |
 | **PanTiltZoom** | #PANTILTZOOM<br />https://testflight.apple.com/join/ZUtNX7V2 |
 | => **[VISIONOS](https://departures.to/tags/visionOS)** <= ||
 | **Spatial Sprinkles** | #SPATIAL #SPRINKLES<br />https://testflight.apple.com/join/M5yEvJyg |
