@@ -1,4 +1,4 @@
-# Beta Apps is available	[13/02/2024 10:11 AM]
+# Beta Apps is available	[13/02/2024 02:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -37,7 +37,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
-| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
+| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **AirChat: Peer-to-Peer Chat** | #AIRCHAT #PEER #TO #PEER #CHAT<br />https://testflight.apple.com/join/ebShbRKm |
@@ -79,7 +79,6 @@
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -102,7 +101,7 @@
 | **Minhas Finanças - Despesas** | #MINHAS #FINANÇAS #DESPESAS<br />https://testflight.apple.com/join/5xvHr9nt |
 | **Balance: For your Bip! card** | #BALANCE #FOR #YOUR #BIP #CARD<br />https://testflight.apple.com/join/TSm1vDcC |
 | **Banking4** | #BANKING4<br />https://testflight.apple.com/join/qeJYyYT7 |
-| **Chronicle - Bill Organizer** | #CHRONICLE #BILL #ORGANIZER<br />https://testflight.apple.com/join/eTDiFDup |
+| **monobank — банк у телефоні** | #MONOBANK #БАНК #У #ТЕЛЕФОНІ<br />https://testflight.apple.com/join/iItGnzuZ |
 | **DNB Mobile Bank** | #DNB #MOBILE #BANK<br />https://testflight.apple.com/join/b6NACjPd |
 | **Nubank - Conta e Cartão** | #NUBANK #CONTA #E #CARTÃO<br />https://testflight.apple.com/join/v3SGNpM5 |
 | **菜鸟—快递物流轻松查寄取** | #菜鸟 #快递物流轻松查寄取<br />https://testflight.apple.com/join/TmylEvDp |
@@ -148,7 +147,7 @@
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/8RcEFqFF |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Momentory - Mindful Journal** | #MOMENTORY #MINDFUL #JOURNAL<br />https://testflight.apple.com/join/8Xbm7kwK |
-| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
+| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/G6qjtzj2 |
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/tCeANbZi |
@@ -252,7 +251,7 @@
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
+| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
 | **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
