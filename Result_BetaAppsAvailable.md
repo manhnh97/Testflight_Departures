@@ -1,4 +1,4 @@
-# Beta Apps is available	[12/02/2024 07:11 PM]
+# Beta Apps is available	[13/02/2024 10:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -162,7 +162,7 @@
 | **TickTick:To-Do List & Calendar** | #TICKTICK #TO #DO #LIST #CALENDAR<br />https://testflight.apple.com/join/vWQPDFQU |
 | **Kanbann** | #KANBANN<br />https://testflight.apple.com/join/GPtxc3QG |
 | **Todo清单 - 跨平台待办事项与番茄钟** | #TODO清单 #跨平台待办事项与番茄钟<br />https://testflight.apple.com/join/YyuuJcC6 |
-| **Trello: organize anything!** | #TRELLO #ORGANIZE #ANYTHING<br />https://testflight.apple.com/join/cRWMcQsr |
+| **Task Flow beta** | #TASK #FLOW #BETA<br />https://testflight.apple.com/join/JyqxBPFf |
 | **Bring! Grocery Shopping List** | #BRING #GROCERY #SHOPPING #LIST<br />https://testflight.apple.com/join/EUHdZJwQ |
 | => **[MACOS](https://departures.to/tags/macos)** <= ||
 | **Magic Notes for Mac** | #MAGIC #NOTES #FOR #MAC<br />https://testflight.apple.com/join/mPcOYfPo |
@@ -182,7 +182,7 @@
 | => **[MUSIC](https://departures.to/tags/music)** <= ||
 | **NepTunes** | #NEPTUNES<br />https://testflight.apple.com/join/vM1m52RJ |
 | **Muverse** | #MUVERSE<br />https://testflight.apple.com/join/oaAMHert |
-| **Lyd - Watch Remote for Sonos** | #LYD #WATCH #REMOTE #FOR #SONOS<br />https://testflight.apple.com/join/aNMuMdq9 |
+| **stats.fm for Spotify Music App** | #STATS #FM #FOR #SPOTIFY #MUSIC #APP<br />https://testflight.apple.com/join/ATXJemn4 |
 | **deadsound** | #DEADSOUND<br />https://testflight.apple.com/join/7KNeR1zy |
 | **SynthMaker** | #SYNTHMAKER<br />https://testflight.apple.com/join/BKEgzNCg |
 | **Flat: Music Score & Tab Editor** | #FLAT #MUSIC #SCORE #TAB #EDITOR<br />https://testflight.apple.com/join/40tsZiyi |
@@ -211,7 +211,7 @@
 | => **[SHORTCUTS](https://departures.to/tags/shortcuts)** <= ||
 | **QR Pop** | #QR #POP<br />https://testflight.apple.com/join/pW7vfuS0 |
 | => **[SOCIAL-NETWORKING](https://departures.to/tags/social-networking)** <= ||
-| **SweeLOL(β)Just Do it 4 the LOL** | #SWEELOL #Β #JUST #DO #IT #4 #THE #LOL<br />https://testflight.apple.com/join/FT9n1ncG |
+| **Damus** | #DAMUS<br />https://testflight.apple.com/join/CLwjLxWl |
 | **Posts by Read.cv** | #POSTS #BY #READ #CV<br />https://testflight.apple.com/join/OTiyTXl2 |
 | **Mlem for Lemmy** | #MLEM #FOR #LEMMY<br />https://testflight.apple.com/join/MelFP11Y |
 | **RFOX VALT** | #RFOX #VALT<br />https://testflight.apple.com/join/bPUkXcr3 |
@@ -252,8 +252,8 @@
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
-| **Classifier: Collection Tracker** | #CLASSIFIER #COLLECTION #TRACKER<br />https://testflight.apple.com/join/HeIftx1S |
+| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
+| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Polycam 3D Scanner, LiDAR, 360** | #POLYCAM #3D #SCANNER #LIDAR #360<br />https://testflight.apple.com/join/H5Y6Mtw5 |
@@ -296,7 +296,7 @@
 | **Sunshine Weather Forecast** | #SUNSHINE #WEATHER #FORECAST<br />https://testflight.apple.com/join/0hir2vcR |
 | **Weather & Radar - Storm alerts** | #WEATHER #RADAR #STORM #ALERTS<br />https://testflight.apple.com/join/siqFNUje |
 | => **[WIDGETS](https://departures.to/tags/widgets)** <= ||
-| **MyMoves - GPS Tracker** | #MYMOVES #GPS #TRACKER<br />https://testflight.apple.com/join/y7RTi1J2 |
+| **Lili Widget** | #LILI #WIDGET<br />https://testflight.apple.com/join/7muEQvwR |
 | **Peaks: Circadian Rhythm** | #PEAKS #CIRCADIAN #RHYTHM<br />https://testflight.apple.com/join/Z0KOoZht |
 | **Streaks** | #STREAKS<br />https://testflight.apple.com/join/aHien1GX |
 | **JCrypto** | #JCRYPTO<br />https://testflight.apple.com/join/OnuehLjt |
