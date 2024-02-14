@@ -1,4 +1,4 @@
-# Beta Apps is available	[14/02/2024 10:11 AM]
+# Beta Apps is available	[14/02/2024 02:11 PM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -37,7 +37,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
-| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
+| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **AirChat: Peer-to-Peer Chat** | #AIRCHAT #PEER #TO #PEER #CHAT<br />https://testflight.apple.com/join/ebShbRKm |
@@ -147,7 +147,7 @@
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/8RcEFqFF |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
+| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/G6qjtzj2 |
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/tCeANbZi |
@@ -249,9 +249,9 @@
 | **Speechless: audios to texts** | #SPEECHLESS #AUDIOS #TO #TEXTS<br />https://testflight.apple.com/join/LDy50x1A |
 | **Authenticator 2FA - Sentinel** | #AUTHENTICATOR #2FA #SENTINEL<br />https://testflight.apple.com/join/TqRZOFqa |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
-| **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
+| **Egern** | #EGERN<br />https://testflight.apple.com/join/AzU6kAzX |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
+| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
 | **Classifier: Collection Tracker** | #CLASSIFIER #COLLECTION #TRACKER<br />https://testflight.apple.com/join/HeIftx1S |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
@@ -270,7 +270,7 @@
 | **UniChar — Unicode Keyboard** | #UNICHAR #UNICODE #KEYBOARD<br />https://testflight.apple.com/join/YKH3kGpt |
 | **Pushover Notifications** | #PUSHOVER #NOTIFICATIONS<br />https://testflight.apple.com/join/vkwfdWM0 |
 | **MCalendar** | #MCALENDAR<br />https://testflight.apple.com/join/PPWLmiWG |
-| **1Password: Password Manager** | #1PASSWORD #PASSWORD #MANAGER<br />https://testflight.apple.com/join/fzDLkIVK |
+| **Remarkable Text To Speech** | #REMARKABLE #TEXT #TO #SPEECH<br />https://testflight.apple.com/join/SEVGXqVm |
 | **NotePlan - Daily Task Planner** | #NOTEPLAN #DAILY #TASK #PLANNER<br />https://testflight.apple.com/join/Cwb6UmfY |
 | **My Vodafone** | #MY #VODAFONE<br />https://testflight.apple.com/join/Lg9WYrsn |
 | **Easy Unarchiver - ZIP, RAR** | #EASY #UNARCHIVER #ZIP #RAR<br />https://testflight.apple.com/join/jXX0Wyfy |
