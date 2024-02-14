@@ -1,4 +1,4 @@
-# Beta Apps is available	[15/02/2024 12:11 AM]
+# Beta Apps is available	[15/02/2024 05:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -37,7 +37,7 @@
 | => **[CHAT](https://departures.to/tags/chat)** <= ||
 | **Beeper Cloud** | #BEEPER #CLOUD<br />https://testflight.apple.com/join/AmLtgT00 |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
-| **Jubielee** | #JUBIELEE<br />https://testflight.apple.com/join/sPUUFiK8 |
+| **Pravica Messenger** | #PRAVICA #MESSENGER<br />https://testflight.apple.com/join/HLhgcnJW |
 | **Skype** | #SKYPE<br />https://testflight.apple.com/join/fB5IkJT7 |
 | **FChat** | #FCHAT<br />https://testflight.apple.com/join/fBJrehcF |
 | **AirChat: Peer-to-Peer Chat** | #AIRCHAT #PEER #TO #PEER #CHAT<br />https://testflight.apple.com/join/ebShbRKm |
@@ -79,6 +79,7 @@
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
+| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -95,7 +96,7 @@
 | **ZLX** | #ZLX<br />https://testflight.apple.com/join/QkFYMjbN |
 | **Official Kodi Remote** | #OFFICIAL #KODI #REMOTE<br />https://testflight.apple.com/join/VQkpfqDN |
 | => **[FILES-AND-CLOUD](https://departures.to/tags/files-and-cloud)** <= ||
-| **Offline: Files, Browser, Docs** | #OFFLINE #FILES #BROWSER #DOCS<br />https://testflight.apple.com/join/6ebDbaIJ |
+| **Offline: Files, Browser, VPN** | #OFFLINE #FILES #BROWSER #VPN<br />https://testflight.apple.com/join/6ebDbaIJ |
 | => **[FINANCE](https://departures.to/tags/finance)** <= ||
 | **Debit & Credit** | #DEBIT #CREDIT<br />https://testflight.apple.com/join/FvufwHrV |
 | **Minhas Finanças - Despesas** | #MINHAS #FINANÇAS #DESPESAS<br />https://testflight.apple.com/join/5xvHr9nt |
@@ -147,7 +148,7 @@
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/8RcEFqFF |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
+| **Water Tracker WaterMinder®** | #WATER #TRACKER #WATERMINDER<br />https://testflight.apple.com/join/Talo2x0P |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/G6qjtzj2 |
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/tCeANbZi |
@@ -172,7 +173,7 @@
 | **Task Flow beta** | #TASK #FLOW #BETA<br />https://testflight.apple.com/join/JyqxBPFf |
 | => **[MAPS](https://departures.to/tags/maps)** <= ||
 | **Popland なにげない日常に、ワクワクを。** | #POPLAND #なにげない日常に #ワクワクを<br />https://testflight.apple.com/join/b4Vtjxpn |
-| **Standard Fleet** | #STANDARD #FLEET<br />https://testflight.apple.com/join/gjoO6enQ |
+| **TwoNav: Maps Routes** | #TWONAV #MAPS #ROUTES<br />https://testflight.apple.com/join/d0uLPpsj |
 | **Mapboard GIS** | #MAPBOARD #GIS<br />https://testflight.apple.com/join/0TfVlWyN |
 | **Passio GO** | #PASSIO #GO<br />https://testflight.apple.com/join/GkoL7RfS |
 | **Organic Maps Offline Hike Bike** | #ORGANIC #MAPS #OFFLINE #HIKE #BIKE<br />https://testflight.apple.com/join/lrKCl08I |
@@ -186,6 +187,7 @@
 | **SynthMaker** | #SYNTHMAKER<br />https://testflight.apple.com/join/BKEgzNCg |
 | **Flat: Music Score & Tab Editor** | #FLAT #MUSIC #SCORE #TAB #EDITOR<br />https://testflight.apple.com/join/40tsZiyi |
 | **Musixmatch Lyrics Finder** | #MUSIXMATCH #LYRICS #FINDER<br />https://testflight.apple.com/join/7yLzN5td |
+| **BeatGig** | #BEATGIG<br />https://testflight.apple.com/join/aE4D81Hj |
 | **Deezer: Music Player, Podcast** | #DEEZER #MUSIC #PLAYER #PODCAST<br />https://testflight.apple.com/join/e7mCOEeg |
 | => **[NEWS](https://departures.to/tags/news)** <= ||
 | **Pulse - News** | #PULSE #NEWS<br />https://testflight.apple.com/join/802AgPIw |
@@ -229,7 +231,7 @@
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
 | **Count Time** | #COUNT #TIME<br />https://testflight.apple.com/join/hrx3vV1H |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
+| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -252,7 +254,7 @@
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
 | **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
-| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
+| **Classifier: Collection Tracker** | #CLASSIFIER #COLLECTION #TRACKER<br />https://testflight.apple.com/join/HeIftx1S |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Polycam 3D Scanner, LiDAR, 360** | #POLYCAM #3D #SCANNER #LIDAR #360<br />https://testflight.apple.com/join/H5Y6Mtw5 |
