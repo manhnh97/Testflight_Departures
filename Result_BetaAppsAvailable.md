@@ -1,4 +1,4 @@
-# Beta Apps is available	[16/02/2024 12:11 AM]
+# Beta Apps is available	[16/02/2024 05:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -24,7 +24,7 @@
 | **REACH Explorer** | #REACH #EXPLORER<br />https://testflight.apple.com/join/A12tOOLf |
 | => **[BOOKS](https://departures.to/tags/books)** <= ||
 | **YACReader - Comic Reader** | #YACREADER #COMIC #READER<br />https://testflight.apple.com/join/5zhB7sRP |
-| **Bielaruskaja Lacinka** | #BIELARUSKAJA #LACINKA<br />https://testflight.apple.com/join/pfIj5vHJ |
+| **Wikipedia** | #WIKIPEDIA<br />https://testflight.apple.com/join/Z0AU0KXC |
 | **Verbs German Dictionary** | #VERBS #GERMAN #DICTIONARY<br />https://testflight.apple.com/join/w2VyNpay |
 | **Wattpad - Read & Write Stories** | #WATTPAD #READ #WRITE #STORIES<br />https://testflight.apple.com/join/CXefLgKK |
 | => **[BROWSER](https://departures.to/tags/browser)** <= ||
@@ -79,6 +79,7 @@
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
+| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -100,7 +101,7 @@
 | **Debit & Credit** | #DEBIT #CREDIT<br />https://testflight.apple.com/join/FvufwHrV |
 | **Minhas Finanças - Despesas** | #MINHAS #FINANÇAS #DESPESAS<br />https://testflight.apple.com/join/5xvHr9nt |
 | **Balance: For your Bip! card** | #BALANCE #FOR #YOUR #BIP #CARD<br />https://testflight.apple.com/join/TSm1vDcC |
-| **Bills To Budget** | #BILLS #TO #BUDGET<br />https://testflight.apple.com/join/7kAvZvtk |
+| **Banking4** | #BANKING4<br />https://testflight.apple.com/join/qeJYyYT7 |
 | **monobank — банк у телефоні** | #MONOBANK #БАНК #У #ТЕЛЕФОНІ<br />https://testflight.apple.com/join/iItGnzuZ |
 | **DNB Mobile Bank** | #DNB #MOBILE #BANK<br />https://testflight.apple.com/join/b6NACjPd |
 | **Nubank - Conta e Cartão** | #NUBANK #CONTA #E #CARTÃO<br />https://testflight.apple.com/join/v3SGNpM5 |
@@ -230,7 +231,7 @@
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
 | **Count Time** | #COUNT #TIME<br />https://testflight.apple.com/join/hrx3vV1H |
-| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
+| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -250,10 +251,10 @@
 | **Speechless: audios to texts** | #SPEECHLESS #AUDIOS #TO #TEXTS<br />https://testflight.apple.com/join/LDy50x1A |
 | **Authenticator 2FA - Sentinel** | #AUTHENTICATOR #2FA #SENTINEL<br />https://testflight.apple.com/join/TqRZOFqa |
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
-| **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
+| **Egern** | #EGERN<br />https://testflight.apple.com/join/AzU6kAzX |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
-| **Classifier: Collection Tracker** | #CLASSIFIER #COLLECTION #TRACKER<br />https://testflight.apple.com/join/HeIftx1S |
+| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
+| **Tap to Sign** | #TAP #TO #SIGN<br />https://testflight.apple.com/join/cjPYii2o |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
 | **Polycam 3D Scanner, LiDAR, 360** | #POLYCAM #3D #SCANNER #LIDAR #360<br />https://testflight.apple.com/join/H5Y6Mtw5 |
