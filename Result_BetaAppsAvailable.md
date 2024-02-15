@@ -1,4 +1,4 @@
-# Beta Apps is available	[15/02/2024 07:11 PM]
+# Beta Apps is available	[16/02/2024 12:11 AM]
 | Name | #HASHTAG | 
  | --- | --- | 
 | => **[AI](https://departures.to/tags/ai)** <= ||
@@ -79,7 +79,6 @@
 | **TopiBowl** | #TOPIBOWL<br />https://testflight.apple.com/join/6oGhKChE |
 | **School Assistant – Planner** | #SCHOOL #ASSISTANT #PLANNER<br />https://testflight.apple.com/join/KWohJ5aL |
 | **Yoto: Music, Stories, Sleep** | #YOTO #MUSIC #STORIES #SLEEP<br />https://testflight.apple.com/join/di4bwD5z |
-| **TitechApp 3 : TokyoTech App** | #TITECHAPP #3 #TOKYOTECH #APP<br />https://testflight.apple.com/join/oXRX7i7u |
 | => **[ELECTRIC-VEHICLES](https://departures.to/tags/electric-vehicles)** <= ||
 | **S3XY Watch** | #S3XY #WATCH<br />https://testflight.apple.com/join/194LkkmW |
 | => **[EMAIL-AND-CALENDAR](https://departures.to/tags/email-and-calendar)** <= ||
@@ -101,7 +100,7 @@
 | **Debit & Credit** | #DEBIT #CREDIT<br />https://testflight.apple.com/join/FvufwHrV |
 | **Minhas Finanças - Despesas** | #MINHAS #FINANÇAS #DESPESAS<br />https://testflight.apple.com/join/5xvHr9nt |
 | **Balance: For your Bip! card** | #BALANCE #FOR #YOUR #BIP #CARD<br />https://testflight.apple.com/join/TSm1vDcC |
-| **Banking4** | #BANKING4<br />https://testflight.apple.com/join/qeJYyYT7 |
+| **Bills To Budget** | #BILLS #TO #BUDGET<br />https://testflight.apple.com/join/7kAvZvtk |
 | **monobank — банк у телефоні** | #MONOBANK #БАНК #У #ТЕЛЕФОНІ<br />https://testflight.apple.com/join/iItGnzuZ |
 | **DNB Mobile Bank** | #DNB #MOBILE #BANK<br />https://testflight.apple.com/join/b6NACjPd |
 | **Nubank - Conta e Cartão** | #NUBANK #CONTA #E #CARTÃO<br />https://testflight.apple.com/join/v3SGNpM5 |
@@ -148,7 +147,7 @@
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/8RcEFqFF |
 | **Phoenix: Motivation,Meditate** | #PHOENIX #MOTIVATION #MEDITATE<br />https://testflight.apple.com/join/hP5SG4xU |
 | **Mango Baby Newborn Tracker Log** | #MANGO #BABY #NEWBORN #TRACKER #LOG<br />https://testflight.apple.com/join/td8w79RD |
-| **Lovewick: Relationship App** | #LOVEWICK #RELATIONSHIP #APP<br />https://testflight.apple.com/join/W8EmsRMa |
+| **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/Yf0ozkqd |
 | **Owaves: My Body Clock** | #OWAVES #MY #BODY #CLOCK<br />https://testflight.apple.com/join/ashWLQMS |
 | **FitMind: Mental Fitness** | #FITMIND #MENTAL #FITNESS<br />https://testflight.apple.com/join/G6qjtzj2 |
 | **Sleep Cycle - Sleep Tracker** | #SLEEP #CYCLE #SLEEP #TRACKER<br />https://testflight.apple.com/join/tCeANbZi |
@@ -162,7 +161,7 @@
 | **TickTick:To-Do List & Calendar** | #TICKTICK #TO #DO #LIST #CALENDAR<br />https://testflight.apple.com/join/vWQPDFQU |
 | **Kanbann** | #KANBANN<br />https://testflight.apple.com/join/GPtxc3QG |
 | **Todo清单 - 跨平台待办事项与番茄钟** | #TODO清单 #跨平台待办事项与番茄钟<br />https://testflight.apple.com/join/YyuuJcC6 |
-| **Task Flow beta** | #TASK #FLOW #BETA<br />https://testflight.apple.com/join/JyqxBPFf |
+| **Trello: organize anything!** | #TRELLO #ORGANIZE #ANYTHING<br />https://testflight.apple.com/join/cRWMcQsr |
 | **Bring! Grocery Shopping List** | #BRING #GROCERY #SHOPPING #LIST<br />https://testflight.apple.com/join/EUHdZJwQ |
 | => **[MACOS](https://departures.to/tags/macos)** <= ||
 | **Magic Notes for Mac** | #MAGIC #NOTES #FOR #MAC<br />https://testflight.apple.com/join/mPcOYfPo |
@@ -212,7 +211,7 @@
 | => **[SHORTCUTS](https://departures.to/tags/shortcuts)** <= ||
 | **QR Pop** | #QR #POP<br />https://testflight.apple.com/join/pW7vfuS0 |
 | => **[SOCIAL-NETWORKING](https://departures.to/tags/social-networking)** <= ||
-| **Damus** | #DAMUS<br />https://testflight.apple.com/join/CLwjLxWl |
+| **SweeLOL(β)Just Do it 4 the LOL** | #SWEELOL #Β #JUST #DO #IT #4 #THE #LOL<br />https://testflight.apple.com/join/FT9n1ncG |
 | **Posts by Read.cv** | #POSTS #BY #READ #CV<br />https://testflight.apple.com/join/OTiyTXl2 |
 | **Mlem for Lemmy** | #MLEM #FOR #LEMMY<br />https://testflight.apple.com/join/MelFP11Y |
 | **RFOX VALT** | #RFOX #VALT<br />https://testflight.apple.com/join/bPUkXcr3 |
@@ -231,7 +230,7 @@
 | **Meditation Timer - Zenitizer** | #MEDITATION #TIMER #ZENITIZER<br />https://testflight.apple.com/join/QvKyRJ8x |
 | **Just Timers** | #JUST #TIMERS<br />https://testflight.apple.com/join/8hRrBYAR |
 | **Count Time** | #COUNT #TIME<br />https://testflight.apple.com/join/hrx3vV1H |
-| **Focus - Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/PemGsPhH |
+| **Focus – Productivity Timer** | #FOCUS #PRODUCTIVITY #TIMER<br />https://testflight.apple.com/join/4GWAwNsU |
 | **Time’s Up! — Visual Timer** | #TIME #S #UP #VISUAL #TIMER<br />https://testflight.apple.com/join/wLaAUd6G |
 | => **[TRANSIT](https://departures.to/tags/transit)** <= ||
 | **TRViS** | #TRVIS<br />https://testflight.apple.com/join/yYBaAdqX |
@@ -253,7 +252,7 @@
 | **3CX** | #3CX<br />https://testflight.apple.com/join/5MPjSs2T |
 | **Mbuntu** | #MBUNTU<br />https://testflight.apple.com/join/aDVXKCIm |
 | **JeeConnect** | #JEECONNECT<br />https://testflight.apple.com/join/luZsKILI |
-| **Penedex** | #PENEDEX<br />https://testflight.apple.com/join/iQxlIZAu |
+| **Drivometer** | #DRIVOMETER<br />https://testflight.apple.com/join/LKnK7eup |
 | **Classifier: Collection Tracker** | #CLASSIFIER #COLLECTION #TRACKER<br />https://testflight.apple.com/join/HeIftx1S |
 | **Zoho ToDo - Get work organized** | #ZOHO #TODO #GET #WORK #ORGANIZED<br />https://testflight.apple.com/join/NWD0OIc4 |
 | **Twilar** | #TWILAR<br />https://testflight.apple.com/join/tYkoNwGR |
