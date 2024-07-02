@@ -3,7 +3,6 @@ import requests
 import json
 from datetime import datetime
 import re
-from winsound import Beep
 
 def get_testflight_data(url_testflight):
     r = requests.Session()
@@ -40,7 +39,6 @@ def main():
 
         if response.status_code == 200:
             page_number = 1
-            betaapps_open = "mt-1 text-xs font-medium uppercase text-gray-500 dark:text-green-500"
 
             soup = BeautifulSoup(response.text, "html.parser")
             div_with_class = soup.find("div", class_="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6")
@@ -60,8 +58,8 @@ def main():
                         break
                     else:
                         for a_tag in a_tags:
-                            appsOpening = a_tag.findAll('p', {"class": betaapps_open})
-                            if appsOpening:
+                            betaAppsClosed = a_tag.findAll('p', {"class": "mt-1 text-xs font-medium uppercase text-gray-500 dark:text-gray-400"})
+                            if ( not betaAppsClosed ):
                                 url_testflight = a_tag["href"]
                                 txtResult_AvailableTestflight_file.write(get_testflight_data(url_testflight))
                                 break
