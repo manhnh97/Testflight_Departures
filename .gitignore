@@ -162,11 +162,6 @@ cython_debug/
 #  *.iws
 
 # Project-specific files
-# Output files from the script
-Result_BetaAppsAvailable.md
-open_apps.md
-full_apps.md
-all_apps.md
 
 # Temporary files
 *.tmp
